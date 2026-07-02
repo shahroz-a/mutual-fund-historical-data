@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-07-01",
+  "as_of": "2026-07-02",
   "files": [
     {
-      "date_max": "2026-07-01",
+      "date_max": "2026-07-02",
       "date_min": "2006-04-03",
       "exists": true,
       "invalid_rows": 0,
       "issues": {},
       "path": "data/latest.csv",
-      "rows": 37369,
-      "sha256": "87cdc2ace37b1c7323556a07b13500af7e8dd4f15f0078bcd8034019be079eda",
-      "size_bytes": 3409095,
-      "unique_scheme_codes": 37369,
-      "valid_rows": 37369,
+      "rows": 37371,
+      "sha256": "3bfa7b91a6ddbd6f4970c4d7fad0d12ca564a7e0bbba00221d0d74d847a534e9",
+      "size_bytes": 3409280,
+      "unique_scheme_codes": 37371,
+      "valid_rows": 37371,
       "warnings": {}
     },
     {
@@ -103538,11 +103538,11 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/06/30.csv",
-      "rows": 8476,
-      "sha256": "36a2dbe998adc1f3f4c5d0d174810b1af9f52b5ff1193b82cecaff2241dea75d",
-      "size_bytes": 735855,
-      "unique_scheme_codes": 8476,
-      "valid_rows": 8476,
+      "rows": 8480,
+      "sha256": "033da08da3f1f228502596b1a9518e4e3dd00a1930752c7242a132aa1950e809",
+      "size_bytes": 736105,
+      "unique_scheme_codes": 8480,
+      "valid_rows": 8480,
       "warnings": {}
     },
     {
@@ -103552,27 +103552,41 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/07/01.csv",
-      "rows": 7879,
-      "sha256": "fb2d68fb25d5c377fb6729d8b58c0e39d1787751bc54b8b46cd0d01acb8f6b6d",
-      "size_bytes": 682767,
-      "unique_scheme_codes": 7879,
-      "valid_rows": 7879,
+      "rows": 8432,
+      "sha256": "003802217f14284d44f822f92a9017fb4e78631764e77977e9bb4a17c6e024e8",
+      "size_bytes": 731790,
+      "unique_scheme_codes": 8432,
+      "valid_rows": 8432,
+      "warnings": {}
+    },
+    {
+      "date_max": "2026-07-02",
+      "date_min": "2026-07-02",
+      "exists": true,
+      "invalid_rows": 0,
+      "issues": {},
+      "path": "data/Year/2026/07/02.csv",
+      "rows": 4127,
+      "sha256": "c5f6b6933d97e000c8b0baa08aa7c389df30fe9a8ddfe48bdbe3b49954b8dfd3",
+      "size_bytes": 364690,
+      "unique_scheme_codes": 4127,
+      "valid_rows": 4127,
       "warnings": {}
     }
   ],
-  "generated_at": "2026-07-01T17:35:42+00:00",
+  "generated_at": "2026-07-02T17:18:54+00:00",
   "issues": {},
   "status": "passed",
   "summary": {
-    "date_max": "2026-07-01",
+    "date_max": "2026-07-02",
     "date_min": "2006-04-01",
-    "files": 7397,
-    "historical_rows": 36518795,
+    "files": 7398,
+    "historical_rows": 36523479,
     "invalid_rows": 0,
-    "latest_rows": 37369,
-    "rows": 36556164,
-    "unique_scheme_codes": 37369,
-    "valid_rows": 36556164
+    "latest_rows": 37371,
+    "rows": 36560850,
+    "unique_scheme_codes": 37371,
+    "valid_rows": 36560850
   },
   "warnings": {}
 }
