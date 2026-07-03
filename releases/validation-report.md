@@ -1,27 +1,27 @@
 # Dataset Validation Report
 
-- Generated at: `2026-07-02T17:18:54+00:00`
-- Validation date: `2026-07-02`
+- Generated at: `2026-07-03T17:01:43+00:00`
+- Validation date: `2026-07-03`
 - Status: `passed`
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Files | 7398 |
-| Total rows | 36560850 |
-| Valid rows | 36560850 |
+| Files | 7399 |
+| Total rows | 36567010 |
+| Valid rows | 36567010 |
 | Invalid rows | 0 |
-| Historical rows | 36523479 |
+| Historical rows | 36529639 |
 | Latest rows | 37371 |
 | Unique scheme codes | 37371 |
-| Date range | 2006-04-01 to 2026-07-02 |
+| Date range | 2006-04-01 to 2026-07-03 |
 
 ## Files
 
 | File | Rows | Invalid | Unique schemes | Date range | SHA-256 |
 | --- | ---: | ---: | ---: | --- | --- |
-| data/latest.csv | 37371 | 0 | 37371 | 2006-04-03 to 2026-07-02 | `3bfa7b91a6ddbd6f4970c4d7fad0d12ca564a7e0bbba00221d0d74d847a534e9` |
+| data/latest.csv | 37371 | 0 | 37371 | 2006-04-03 to 2026-07-03 | `3b25e23e1438cee17bd37e9281e1bd3133ead198de6b98d5ef2b0e4db999c4a1` |
 | data/Year/2006/04/01.csv | 82 | 0 | 82 | 2006-04-01 to 2006-04-01 | `b62ef71842f9cc29358819c6d45f5dddfc66640b1740ccc13ef6709643ca54d9` |
 | data/Year/2006/04/02.csv | 386 | 0 | 386 | 2006-04-02 to 2006-04-02 | `6534c09a9932610a0565c78756c5baf4671ae8e6af5952152fc0874a36d4b5bb` |
 | data/Year/2006/04/03.csv | 1738 | 0 | 1738 | 2006-04-03 to 2006-04-03 | `29f05f2152ab58a27d17eb8880685f6ecb4f63efb7cd236bf478b639664bc5b8` |
@@ -7418,7 +7418,8 @@
 | data/Year/2026/06/29.csv | 8482 | 0 | 8482 | 2026-06-29 to 2026-06-29 | `48963b3f56dd0afaeef1ee6a4874c99f7767a2882c83a4d1a51a416c44875e09` |
 | data/Year/2026/06/30.csv | 8480 | 0 | 8480 | 2026-06-30 to 2026-06-30 | `033da08da3f1f228502596b1a9518e4e3dd00a1930752c7242a132aa1950e809` |
 | data/Year/2026/07/01.csv | 8432 | 0 | 8432 | 2026-07-01 to 2026-07-01 | `003802217f14284d44f822f92a9017fb4e78631764e77977e9bb4a17c6e024e8` |
-| data/Year/2026/07/02.csv | 4127 | 0 | 4127 | 2026-07-02 to 2026-07-02 | `c5f6b6933d97e000c8b0baa08aa7c389df30fe9a8ddfe48bdbe3b49954b8dfd3` |
+| data/Year/2026/07/02.csv | 8454 | 0 | 8454 | 2026-07-02 to 2026-07-02 | `a034af101edf6930026ee6d40072a39704125343ede624da0226bfe0135a762b` |
+| data/Year/2026/07/03.csv | 1833 | 0 | 1833 | 2026-07-03 to 2026-07-03 | `72a58620057f5cb5910bc5f7e575f1ce633e9b8ad5acd91e7b710057427b738e` |
 
 ## Issues
 
