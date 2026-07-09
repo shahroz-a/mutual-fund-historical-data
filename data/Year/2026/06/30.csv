@@ -359,12 +359,12 @@ date,scheme_code,scheme_name,nav
 2026-06-30,101997,HDFC Overnight Fund - IDCW Option (Daily),1042.66
 2026-06-30,102000,HDFC Large Cap Fund - Growth Option - Regular Plan,1113.673
 2026-06-30,102001,HDFC Large Cap Fund - IDCW Option - Regular Plan,51.002
-2026-06-30,102007,UTI-  Liquid Cash Plan- Discontinued -Regular Plan Periodic Dividend Option,113.866
-2026-06-30,102008,UTI-  Liquid Cash Plan- Discontinued - Regular Plan - Monthly Dividend Option,106.9696
-2026-06-30,102009,UTI-  Liquid Cash Plan- Discontinued - Regular Plan -Growth,413.239
+2026-06-30,102007,UTI Liquid Fund - Discontinued -Regular Plan Periodic Dividend Option,113.866
+2026-06-30,102008,UTI Liquid Fund - Discontinued - Regular Plan - Monthly Dividend Option,106.9696
+2026-06-30,102009,UTI Liquid Fund - Discontinued - Regular Plan -Growth,413.239
 2026-06-30,102010,UTI Liquid Fund - Regular Plan - Daily IDCW (Reinvestment),119.8739
 2026-06-30,102011,UTI Liquid Fund - Regular Plan - Monthly IDCW,113.2604
-2026-06-30,102012,UTI-  Liquid Cash Plan - Regular Plan - Growth Option,455.3898
+2026-06-30,102012,UTI Liquid Fund - Regular Plan - Growth Option,455.3898
 2026-06-30,102013,UTI Liquid Fund - Regular Plan - Weekly IDCW,105.4492
 2026-06-30,102020,Baroda BNP Paribas MULTI CAP FUND - Regular Plan - Growth Option,289.6214
 2026-06-30,102021,Baroda BNP Paribas MULTI CAP FUND - Regular Plan - IDCW Option,50.9862
@@ -2037,7 +2037,7 @@ date,scheme_code,scheme_name,nav
 2026-06-30,120283,LIC MF Gilt Fund-Direct Plan-IDCW,19.3995
 2026-06-30,120285,LIC MF Children's Fund-Direct Plan-Growth,37.3636
 2026-06-30,120299,UTI MMF - Direct Plan - Growth Option,3329.4521
-2026-06-30,120304,UTI-  Liquid Cash Plan - Direct Plan - Growth Option,459.9553
+2026-06-30,120304,UTI Liquid Fund - Direct Plan - Growth Option,459.9553
 2026-06-30,120307,LIC MF Nifty 50 Index Fund-Direct Plan-Growth,142.7654
 2026-06-30,120308,LIC MF BSE Sensex Index Fund-Direct Plan-Growth,154.1002
 2026-06-30,120309,LIC MF Nifty 50 Index Fund-Direct Plan-IDCW,52.6012
