@@ -8,6 +8,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,100051,Aditya Birla Sun Life Liquid Fund -weekly IDCW,100.2747
 2026-07-13,100057,Aditya Birla Sun Life Govenment Securities Fund -Regular - Quarterly IDCW,10.9069
 2026-07-13,100058,Aditya Birla Sun Life Government Securities Fund  - Growth - Regular Plan,82.6721
+2026-07-13,100063,Aditya Birla Sun Life MNC Fund - Regular - IDCW,209.51
+2026-07-13,100064,Aditya Birla Sun Life MNC Fund - Growth - Regular Plan,1302.79
 2026-07-13,100077,DSP Bond Fund - IDCW,11.6393
 2026-07-13,100078,DSP Bond Fund - Growth,86.3349
 2026-07-13,100079,DSP Bond Fund - IDCW - Monthly,11.2006
@@ -66,6 +68,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,100354,ICICI Prudential ELSS Tax Saver Fund - Growth,933.89
 2026-07-13,100355,ICICI Prudential Equity & Debt Fund - Monthly IDCW,43.48
 2026-07-13,100356,ICICI Prudential Equity & Debt Fund - Growth,407.47
+2026-07-13,100363,ICICI Prudential Technology Fund - Growth,175.22
 2026-07-13,100365,ICICI Prudential Long Term Bond Fund - Growth,92.8535
 2026-07-13,100367,ICICI Prudential Long Term Bond Fund - Quarterly IDCW,12.5208
 2026-07-13,100368,ICICI Prudential Gilt Fund - IDCW,17.7822
@@ -84,6 +87,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,100388,Nippon India Medium to Long Duration  Fund - Growth Plan Bonus Option,26.8270
 2026-07-13,100414,Tata Aggressive Hybrid Fund- Regular Plan - Growth Option,439.9788
 2026-07-13,100415,Tata Ethical Fund-Regular Plan - Growth Option,359.8475
+2026-07-13,100470,Franklin India Large Cap Fund - IDCW,42.6268
+2026-07-13,100471,Franklin India Large Cap Fund-Growth,1015.1358
 2026-07-13,100472,Franklin India Mid Cap Fund - IDCW,86.8503
 2026-07-13,100473,Franklin India Mid Cap Fund-Growth,2823.6907
 2026-07-13,100474,Tata ELSS Fund- Regular Plan - Payout of IDCW Option,95.4813
@@ -98,6 +103,9 @@ date,scheme_code,scheme_name,nav
 2026-07-13,100497,Templeton India Value Fund - IDCW,93.0417
 2026-07-13,100519,Franklin India Flexi Cap Fund - IDCW,62.3779
 2026-07-13,100520,Franklin India Flexi Cap Fund - Growth,1612.1312
+2026-07-13,100521,Franklin India Technology Fund - IDCW,39.5243
+2026-07-13,100522,Franklin India Technology Fund-Growth,458.6068
+2026-07-13,100524,Franklin INDIA OPPORTUNITIES FUND - IDCW,37.5949
 2026-07-13,100525,Franklin India ELSS Tax Saver Fund - IDCW,60.8668
 2026-07-13,100526,Franklin India ELSS Tax Saver Fund-Growth,1440.4410
 2026-07-13,100527,Franklin India Corporate Debt Fund - Plan A - Annual - IDCW,16.8963
@@ -129,6 +137,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,100639,SBI Medium to Long Duration Fund-REGULAR PLAN-Growth,73.8747
 2026-07-13,100640,SBI Medium to Long Duration Fund-REGULAR PLAN-Bonus,44.7614
 2026-07-13,100641,SBI ULTRA SHORT DURATION FUND - REGULAR PLAN - GROWTH,6361.0505
+2026-07-13,100643,SBI Technology Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),114.7284
+2026-07-13,100644,SBI Healthcare Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),314.4125
 2026-07-13,100645,SBI Consumption Opportunities Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),172.3403
 2026-07-13,100646,UTI - Unit Linked Insurance Plan,42.5942
 2026-07-13,100650,UTI Large Cap Fund - Regular Plan - IDCW,52.1713
@@ -184,6 +194,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,100875,HDFC Liquid Fund - IDCW Daily,1019.82
 2026-07-13,100876,HDFC Liquid Fund - IDCW Monthly,1029.1141
 2026-07-13,100900,HDFC Childrens Fund - Growth Plan,290.863
+2026-07-13,100915,SBI Contra Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),65.5287
 2026-07-13,100927,SBI Conservative Hybrid Fund - Regular Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW),21.4738
 2026-07-13,100928,SBI Conservative Hybrid Fund - Regular Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW),22.0553
 2026-07-13,100929,SBI Conservative Hybrid Fund - Regular Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW),26.9743
@@ -203,10 +214,14 @@ date,scheme_code,scheme_name,nav
 2026-07-13,101066,quant Mid Cap Fund - IDCW Option - Regular Plan,79.6064
 2026-07-13,101069,quant Aggressive Hybrid Fund-IDCW Option - Regular Plan,64.9598
 2026-07-13,101070,quant Aggressive Hybrid Fund - Growth Option - Regular Plan,470.971
+2026-07-13,101071,quant Multi Asset Allocation Fund - IDCW Option - Regular Plan,156.0851
+2026-07-13,101072,quant Multi Asset Allocation Fund-GROWTH OPTION - Regular Plan,170.2699
 2026-07-13,101078,JM Liquid Fund (Regular) - Daily IDCW,10.4302
 2026-07-13,101083,HDFC Gilt Fund - Growth Plan,57.5991
 2026-07-13,101084,HDFC Gilt Fund - IDCW Plan,12.3049
 2026-07-13,101127,ICICI Prudential Children's Fund - Regular Plan,329.88
+2026-07-13,101143,ICICI Prudential Multi-Asset Fund - IDCW,34.7116
+2026-07-13,101144,ICICI Prudential Multi-Asset Fund - Growth,811.8839
 2026-07-13,101161,Nippon India Multi Cap Fund-Growth Plan-Growth Option,304.0764
 2026-07-13,101162,Nippon India Multi Cap Fund-Growth Plan-Bonus Option,304.0764
 2026-07-13,101163,NIPPON INDIA MULTI CAP FUND - IDCW Option,59.9004
@@ -247,6 +262,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,101408,Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option,4704.6243
 2026-07-13,101491,Tata Childrens Fund -Regular Plan-Growth Option,57.4803
 2026-07-13,101525,HDFC Nifty 50 Index Fund - Growth Plan,230.9975
+2026-07-13,101530,SBI Large & Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),295.5134
 2026-07-13,101538,Sundaram Mid Cap Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW),69.3299
 2026-07-13,101539,Sundaram Mid Cap Fund Regular Plan - Growth,1497.8207
 2026-07-13,101547,Tata Short Term Bond Fund- Regular Plan - Monthly Payout of IDCW Option,22.7194
@@ -266,6 +282,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,101619,ICICI Prudential Savings Fund - Growth,580.8361
 2026-07-13,101635,DSP Large Cap Fund - Regular Plan - Growth,461.0980
 2026-07-13,101636,DSP Large Cap Fund - Regular Plan - IDCW,23.5100
+2026-07-13,101656,Franklin India Dynamic Asset Allocation Active Fund of Funds-Growth,167.2881
+2026-07-13,101657,Franklin India Dynamic Asset Allocation Active Fund of funds - IDCW,41.1989
 2026-07-13,101659,Tata Nifty 50 Index Fund -Regular Plan,151.1308
 2026-07-13,101665,Nippon India Short Duration  Fund-Growth Plan,56.0230
 2026-07-13,101667,NIPPON INDIA SHORT DURATION FUND - MONTHLY IDCW Option,11.5430
@@ -276,6 +294,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,101705,ICICI Prudential BSE Sensex ETF,891.2317
 2026-07-13,101706,ICICI Prudential Multicap Fund - IDCW,34.28
 2026-07-13,101714,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,1001.5157
+2026-07-13,101737,Aditya Birla Sun Life Dividend Yield Fund -REGULAR - IDCW,25.23
+2026-07-13,101738,Aditya Birla Sun Life Dividend Yield Fund - Growth - Regular Plan,451.39
 2026-07-13,101746,Tata S&P BSE Sensex Index Fund -Regular Plan,195.5624
 2026-07-13,101758,ICICI Prudential Short Term Fund - Growth Option,64.1425
 2026-07-13,101762,HDFC Flexi Cap Fund - Growth Plan,2036.847
@@ -353,6 +373,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,102054,SBI Medium Duration Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),21.1461
 2026-07-13,102133,ICICI Prudential Multi Sector Passive FOF - Growth,169.6676
 2026-07-13,102134,ICICI Prudential Multi Sector Passive FOF - IDCW,132.1924
+2026-07-13,102135,ICICI Prudential Aggressive Hybrid Active FOF - Growth,226.4955
+2026-07-13,102136,ICICI Prudential Aggressive Hybrid Active FOF - IDCW,175.5765
+2026-07-13,102137,ICICI Prudential Dynamic Asset Allocation Active FOF - Growth,125.0736
+2026-07-13,102138,ICICI Prudential Dynamic Asset Allocation Active FOF - IDCW,96.1182
 2026-07-13,102139,ICICI Prudential Income Plus Arbitrage Omni FOF - Growth,66.5729
 2026-07-13,102140,ICICI Prudential Income plus Arbitrage Omni FOF - IDCW,51.0840
 2026-07-13,102141,ICICI Prudential Diversified Debt Strategy Active FOF - Growth,47.7895
@@ -387,6 +411,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,102398,UTI-Transportation and Logistics  Fund-Growth Option,286.5756
 2026-07-13,102401,UTI Banking and Financial Services Fund - Regular Plan - Growth Option,199.7388
 2026-07-13,102402,UTI Banking and Financial Services Fund - Regular Plan - IDCW,77.7374
+2026-07-13,102414,SBI CONTRA FUND - REGULAR PLAN -GROWTH,377.8932
 2026-07-13,102428,Tata Value Fund Regular Plan - Payout of IDCW-Option B(10%),117.3753
 2026-07-13,102431,Nippon India Pharma Fund-Growth Plan-Growth Option,561.0211
 2026-07-13,102432,Nippon India Pharma Fund-Growth Plan-Bonus Option,561.0211
@@ -423,6 +448,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,102541,UTI Low Duration Fund - Discontinued - Quarterly Dividend Option,2365.3565
 2026-07-13,102544,UTI Low Duration Fund - Regular Plan - Growth Option,3782.316
 2026-07-13,102545,UTI Low Duration Fund - Regular Plan - Bonus Option,3161.2114
+2026-07-13,102573,Kotak Multi Asset Omni FOF - Payout of Income Distribution cum capital withdrawal option,247.514
+2026-07-13,102574,Kotak Multi Asset Omni FOF - Growth- Regular,254.277
 2026-07-13,102591,Kotak Savings Fund -Growth,45.5655
 2026-07-13,102592,Kotak Savings Fund -Monthly Payout of Income Distribution cum capital withdrawal option,10.784
 2026-07-13,102594,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Growth,465.53
@@ -436,10 +463,13 @@ date,scheme_code,scheme_name,nav
 2026-07-13,102751,Nippon India Consumption Fund-Growth Plan-Growth Option,189.8226
 2026-07-13,102752,Nippon India Consumption Fund-Growth Plan-Bonus Option,189.8226
 2026-07-13,102753,NIPPON INDIA CONSUMPTION FUND - IDCW Option,34.3057
+2026-07-13,102756,SBI FOCUSED FUND - REGULAR PLAN -GROWTH,391.4693
 2026-07-13,102760,HDFC Focused Fund - GROWTH PLAN,233.414
 2026-07-13,102761,HDFC Focused Fund - IDCW PLAN,23.732
+2026-07-13,102765,SBI Focused Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),71.6031
 2026-07-13,102766,Aditya Birla Sun Life Dynamic Bond Fund -Regular - Quarterly IDCW,10.7907
 2026-07-13,102767,Aditya Birla Sun Life Dynamic Bond Fund - Growth - Regular Plan,49.0199
+2026-07-13,102823,SBI HEALTHCARE OPPORTUNITIES FUND - REGULAR PLAN -GROWTH,499.1095
 2026-07-13,102846,Nippon India Balanced Advantage Fund-Growth Plan-Growth Option,183.6615
 2026-07-13,102847,Nippon India Balanced Advantage Fund-Growth Plan-Bonus Option,183.6615
 2026-07-13,102848,NIPPON INDIA BALANCED ADVANTAGE FUND - IDCW Option,31.7278
@@ -460,6 +490,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,102942,SBI Midcap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),99.3102
 2026-07-13,102947,HDFC Hybrid Equity Fund - IDCW Plan,15.244
 2026-07-13,102948,HDFC Hybrid Equity Fund - Growth Plan,114.492
+2026-07-13,103024,SBI LARGE & MIDCAP FUND- REGULAR PLAN -Growth,654.1003
 2026-07-13,103025,UTI Dividend Yield Fund - Regular Plan - IDCW,33.3649
 2026-07-13,103026,UTI-Dividend Yield Fund.-Growth,177.2712
 2026-07-13,103034,SBI MNC FUND - REGULAR PLAN -GROWTH,392.0911
@@ -483,6 +514,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,103146,SBI Comma Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),65.3019
 2026-07-13,103149,ICICI Prudential Infrastructure Fund - Growth,204.64
 2026-07-13,103150,ICICI Prudential Infrastructure Fund - IDCW,28.81
+2026-07-13,103151,Franklin India Opportunities Fund - Growth,262.0934
 2026-07-13,103154,Aditya Birla Sun Life Equity Hybrid'95 Fund -Regular - IDCW,171.50
 2026-07-13,103155,Aditya Birla Sun Life Equity Hybrid'95 Fund - Regular Plan-Growth,1537.53
 2026-07-13,103158,Tata Treasury Advantage Fund Regular Plan - Weekly Payout of IDCW Option,1008.4283
@@ -491,6 +523,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,103164,Aditya Birla Sun Life ELSS Tax Saver Fund-Regular - IDCW,190.58
 2026-07-13,103165,Aditya Birla Sun Life Flexi Cap Fund -Regular - IDCW,165.48
 2026-07-13,103166,Aditya Birla Sun Life Flexi Cap Fund - Growth - Regular Plan,1920.82
+2026-07-13,103167,Aditya Birla Sun Life Digital India Fund -Regular - IDCW,37.03
+2026-07-13,103168,Aditya Birla Sun Life Digital India Fund - Growth - Regular Plan,149.27
 2026-07-13,103173,Aditya Birla Sun Life Large Cap Fund-Regular - IDCW,38.57
 2026-07-13,103174,Aditya Birla Sun Life Large Cap Fund-Growth,518.23
 2026-07-13,103178,Aditya Birla Sun Life Corporate Bond Fund - Growth - Regular Plan,119.4318
@@ -499,6 +533,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,103193,Aditya Birla Sun Life Low Duration Fund -REGULAR - WEEKLY IDCW,100.6530
 2026-07-13,103196,Nippon India ELSS Tax Saver Fund-Growth Plan-Growth Option,131.6861
 2026-07-13,103197,NIPPON INDIA ELSS TAX SAVER FUND - IDCW Option,34.2049
+2026-07-13,103215,SBI Flexicap Fund - REGULAR PLAN -Growth Option,107.8287
+2026-07-13,103216,SBI Flexicap Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),48.2833
 2026-07-13,103225,quant Liquid Fund - Growth Option - Regular Plan,43.7484
 2026-07-13,103226,quant Liquid Fund-Daily IDCW Option - Regular Plan,12.64
 2026-07-13,103227,quant Liquid Fund - Weekly IDCW Option - Regular Plan,14.5174
@@ -534,6 +570,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,103633,ICICI Prudential Money Market Fund Option - Growth,404.8711
 2026-07-13,103634,ICICI Prudential Money Market Fund Option - Daily IDCW,100.1180
 2026-07-13,103635,ICICI Prudential Money Market Fund Option - Weekly IDCW,100.6879
+2026-07-13,103678,Franklin India Dividend Yield Fund-Growth Plan,136.2562
+2026-07-13,103679,Franklin India Dividend Yield Fund - IDCW,23.6452
 2026-07-13,103734,Quantum Liquid Fund - Direct Plan Growth Option,37.3650
 2026-07-13,103735,Quantum Liquid Fund - Direct Plan Monthly IDCW,10.0415
 2026-07-13,103736,Quantum Liquid Fund - Direct Plan Daily IDCW,10.0113
@@ -681,10 +719,16 @@ date,scheme_code,scheme_name,nav
 2026-07-13,106260,NIPPON INDIA GROWTH MID CAP FUND - INSTITUTIONAL Plan - IDCW Option,1378.9414
 2026-07-13,106316,Invesco India Balanced Advantage Fund - Regular Plan - IDCW (Payout / Reinvestment),17.39
 2026-07-13,106317,Invesco India Balanced Advantage Fund - Regular Plan - Growth,52.59
+2026-07-13,106369,Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW,34.6475
+2026-07-13,106370,Sundaram Global Brand Theme-Equity Active FOF - Regular Growth,42.8603
 2026-07-13,106383,UTI Short Duration Fund - Discontinued Regular Option - Dividend Sub Option,24.9691
 2026-07-13,106384,UTI Short Duration Fund - Discontinued Regular Option -Growth Sub Option,47.2319
 2026-07-13,106425,UTI India Consumer Fund - Regular Plan - Growth Option,57.0431
 2026-07-13,106426,UTI India Consumer Fund - Regular Plan - IDCW,49.8635
+2026-07-13,106441,Kotak Global Emerging Market Overseas Equity Omni FOF- Growth,38.585
+2026-07-13,106442,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option,38.587
+2026-07-13,106596,DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - IDCW,29.7314
+2026-07-13,106597,DSP World Gold Mining Overseas Equity Omni FoF - Regular Plan - Growth,49.0796
 2026-07-13,106624,UTI Short Duration Fund - Regular Plan - Growth Option,33.5534
 2026-07-13,106653,Invesco India Infrastructure Fund - Regular Plan - IDCW (Payout / Reinvestment),43.74
 2026-07-13,106654,Invesco India Infrastructure Fund - Regular Plan - Growth Option,68.04
@@ -696,6 +740,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,106840,HDFC Floating Rate Debt Fund - Weekly IDCW Option,10.0329
 2026-07-13,106841,HDFC Floating Rate Debt Fund - Growth Option,53.3352
 2026-07-13,106871,LIC MF Large Cap Fund-Regular Plan-Growth,53.3129
+2026-07-13,106872,Aditya Birla Sun Life International Equity Fund - Regular - IDCW,22.419
+2026-07-13,106873,Aditya Birla Sun Life International Equity Fund - Growth - Regular Plan,52.6084
 2026-07-13,106929,Kotak Nifty PSU Bank ETF,84.7714
 2026-07-13,106978,Franklin Asian Equity Fund - IDCW,20.8334
 2026-07-13,106979,Franklin Asian Equity Fund - Growth Plan,44.1368
@@ -723,8 +769,12 @@ date,scheme_code,scheme_name,nav
 2026-07-13,107745,Aditya Birla Sun Life ELSS Tax Saver Fund - Growth Option,62.12
 2026-07-13,107763,LIC MF Infrastructure Fund-Regular Plan-Growth,54.7898
 2026-07-13,107764,LIC MF Infrastructure Fund-Regular Plan-IDCW,54.7913
+2026-07-13,107988,HSBC Global Emerging Markets Fund - Growth,34.0205
+2026-07-13,107989,HSBC Global Emerging Markets Fund - IDCW,24.001
 2026-07-13,108166,Aditya Birla Sun Life Value Fund - Regular - IDCW,45.0045
 2026-07-13,108167,Aditya Birla Sun Life Value Fund - Growth Option,136.7061
+2026-07-13,108202,DSP Natural Resources And New Energy Fund - Regular - Growth,105.8310
+2026-07-13,108203,DSP Natural Resources And New Energy Fund - Regular Plan - IDCW,31.0950
 2026-07-13,108249,Nippon India Quant Fund -Growth Plan - Growth Option,73.0757
 2026-07-13,108252,NIPPON INDIA QUANT FUND - IDCW Option,38.9561
 2026-07-13,108258,Nippon India Quant Fund -Growth Plan -Bonus Option,73.0757
@@ -911,6 +961,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,111992,ICICI Prudential Corporate Bond Fund -Quarterly IDCW,11.3592
 2026-07-13,112012,Edelweiss Aggressive Hybrid Fund- Plan B-Growth Option,63.95
 2026-07-13,112013,Edelweiss Aggressive Hybrid Fund  - Plan B - IDCW Option,64.76
+2026-07-13,112038,Quantum Diversified Equity All Cap Active FOF - Direct Plan IDCW,86.407
+2026-07-13,112039,Quantum Diversified Equity All Cap Active FOF - Direct Plan Growth Option,86.623
 2026-07-13,112076,UTI Money Market Fund - Regular Plan - Daily IDCW (Reinvestment),1065.9547
 2026-07-13,112077,UTI MMF - Regular Plan - Growth Option,3291.8723
 2026-07-13,112083,UTI Ultra Short Duration Fund - Discontinued - INSTN GROWTH OPTION,3224.8141
@@ -932,6 +984,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,112122,Invesco India Money Market Fund - Regular - Monthly IDCW (Payout / Reinvestment),1511.3616
 2026-07-13,112123,Invesco India Money Market Fund - Growth,3243.6936
 2026-07-13,112125,Invesco India Money Market Fund - Monthly IDCW (Payout / Reinvestment),1019.7619
+2026-07-13,112126,DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - Growth,29.1461
+2026-07-13,112127,DSP Global Clean Energy Overseas Equity Omni FoF - Regular Plan - IDCW,20.2656
 2026-07-13,112152,CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - GROWTH OPTION,106.6700
 2026-07-13,112153,CANARA ROBECO CONSUMPTION FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),45.8300
 2026-07-13,112171,Invesco India PSU Equity Fund - Regular Plan - Growth,65.17
@@ -947,6 +1001,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,112218,Tata Value Fund - Regular Plan - Payout of IDCW-Option A(5%),130.4389
 2026-07-13,112277,Axis Large Cap Fund - Regular Plan - Growth,59.70
 2026-07-13,112278,Axis Large Cap Fund - Regular Plan - IDCW,17.48
+2026-07-13,112293,DSP World Mining Overseas Equity Omni FoF - Regular Plan - Growth,29.8646
 2026-07-13,112322,Axis ELSS Tax Saver Fund - Regular Plan - IDCW,23.5933
 2026-07-13,112323,Axis ELSS Tax Saver Fund - Regular Plan - Growth,96.3613
 2026-07-13,112327,Bandhan Conservative Hybrid Passive FOF - Regular Plan - Growth,34.7350
@@ -958,6 +1013,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,112340,NIPPON INDIA LIQUID FUND - QUARTERLY IDCW OPTION,1008.1173
 2026-07-13,112341,NIPPON INDIA MONEY MARKET FUND - QUARTERLY IDCW Option,1017.8755
 2026-07-13,112342,ICICI Prudential Banking and PSU Debt Fund - Growth,34.7588
+2026-07-13,112347,DSP World Mining Overseas Equity Omni FoF - Regular Plan - IDCW,27.0172
 2026-07-13,112351,Kotak Nifty 50 ETF,268.3303
 2026-07-13,112352,BANDHAN Conservative Hybrid Fund - Regular Plan - IDCW,11.2453
 2026-07-13,112353,BANDHAN Conservative Hybrid Fund - Regular Plan - Growth,32.8530
@@ -1075,6 +1131,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,114859,Kotak Debt Hybrid - Growth,59.9348
 2026-07-13,114930,Mirae Asset Great Consumer Fund Regular IDCW,25.590
 2026-07-13,114931,Mirae Asset Great Consumer Fund - Regular Plan - Growth option,91.338
+2026-07-13,114984,Motilal Oswal Nasdaq 100 ETF (MOFN100),273.3770
 2026-07-13,115068,Axis Dynamic Bond Fund - Regular Plan - Growth Option,31.5313
 2026-07-13,115069,Axis Dynamic Bond Fund - Regular Plan - Quarterly IDCW,11.5559
 2026-07-13,115077,CANARA ROBECO SHORT DURATION FUND - REGULAR PLAN - GROWTH OPTION,26.7499
@@ -1083,12 +1140,15 @@ date,scheme_code,scheme_name,nav
 2026-07-13,115091,ICICI Prudential Ultra Short Term Fund - Quarterly IDCW,11.0147
 2026-07-13,115092,ICICI Prudential Ultra Short Term Fund - Growth,29.5181
 2026-07-13,115094,ICICI Prudential Ultra Short Term Fund - Monthly IDCW,10.6671
+2026-07-13,115116,HSBC Brazil Fund-Growth,10.3958
+2026-07-13,115117,HSBC Brazil Fund - IDCW,10.3958
 2026-07-13,115127,Aditya Birla Sun Life Gold ETF,124.2375
 2026-07-13,115131,Axis Dynamic Bond Fund - Regular Plan - Half Yearly IDCW,11.9886
 2026-07-13,115132,Quantum Gold ETF FOF - Direct Plan Growth Option,54.1646
 2026-07-13,115270,Union Flexi Cap Fund - Growth Option,52.13
 2026-07-13,115284,Invesco India Nifty 50 Exchange Traded Fund,2773.0887
 2026-07-13,115290,Union Flexi Cap Fund - IDCW Option,29.05
+2026-07-13,115294,ICICI Prudential Technology Fund - IDCW,54.72
 2026-07-13,115398,Union Liquid Fund - Growth Option,2676.1903
 2026-07-13,115399,Union Liquid Fund - Fortnightly IDCW Option,1001.5958
 2026-07-13,115400,Union Liquid Fund - Monthly IDCW Option,1003.9065
@@ -1138,6 +1198,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,116548,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),24.23
 2026-07-13,116555,Union Dynamic Bond Fund - Growth Option,23.7531
 2026-07-13,116556,Union Dynamic Bond Fund - IDCW Option,15.8362
+2026-07-13,116632,Franklin U.S. Opportunities Equity Active Fund of Funds - IDCW,89.0357
+2026-07-13,116633,Franklin U.S. Opportunities Equity Active Fund of Funds - Growth,91.5511
 2026-07-13,116653,Invesco India Money Market Fund - Discretionary IDCW (Payout / Reinvestment),3246.9976
 2026-07-13,116795,Aditya Birla Sun Life Gold Fund-REGULAR - IDCW,40.9057
 2026-07-13,116796,Aditya Birla Sun Life Gold Fund-Growth,40.9077
@@ -1157,6 +1219,11 @@ date,scheme_code,scheme_name,nav
 2026-07-13,117549,Baroda BNP Paribas Banking and Financial Services Fund - Regular - Growth Option,50.0282
 2026-07-13,117559,Axis Focused Fund - Regular Plan - IDCW,17.83
 2026-07-13,117560,Axis Focused Fund - Regular Plan - Growth Option,54.07
+2026-07-13,117608,Quantum Multi Asset Active FOF - Direct Plan Growth Option,37.2141
+2026-07-13,117619,ICICI Prudential US Bluechip Equity Fund - IDCW,76.73
+2026-07-13,117620,ICICI Prudential US Bluechip Equity Fund - Growth,76.73
+2026-07-13,117691,DSP US Specific Equity Omni FoF - Regular Plan - Growth Option,94.0100
+2026-07-13,117692,DSP US Specific Equity Omni FoF - Regular Plan - IDCW,42.5102
 2026-07-13,117715,Kotak Credit Risk Fund - Regular Plan - Standard Income Distribution cum capital withdrawal option,13.7584
 2026-07-13,117716,Kotak Credit Risk Fund - Growth,31.6367
 2026-07-13,117867,Bandhan Income Plus Arbitrage Active FOF - Regular Plan - Weekly IDCW,12.3739
@@ -1260,6 +1327,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,118422,Bandhan Focused Fund - Direct Plan - IDCW,33.982
 2026-07-13,118423,BANDHAN Flexi Cap Fund-Direct Plan-IDCW,51.911
 2026-07-13,118424,BANDHAN Flexi Cap Fund-Direct Plan-Growth,232.792
+2026-07-13,118462,Franklin India Large Cap Fund - Direct - IDCW,49.7689
 2026-07-13,118463,Bandhan Gilt Fund - Direct Plan - IDCW,15.8633
 2026-07-13,118464,Bandhan Gilt Fund - Direct Plan - Growth,41.1427
 2026-07-13,118465,Bandhan Gilt Fund - Direct Plan - Half Yearly IDCW,12.8026
@@ -1300,16 +1368,27 @@ date,scheme_code,scheme_name,nav
 2026-07-13,118510,Franklin India Large & Mid Cap Fund - Direct - Growth,212.3034
 2026-07-13,118524,Franklin India Small Cap Fund - Direct - IDCW,53.5453
 2026-07-13,118525,Franklin India Small Cap Fund - Direct - Growth,206.0272
+2026-07-13,118526,Franklin India Dividend Yield Fund - Direct - IDCW,26.9153
+2026-07-13,118527,Franklin India Dividend Yield Fund - Direct - Growth,150.3392
+2026-07-13,118531,Franklin India Large Cap Fund- Direct - Growth,1131.8905
 2026-07-13,118532,Franklin India Mid Cap Fund - Direct - IDCW,105.1941
 2026-07-13,118533,Franklin India Mid Cap Fund - Direct - Growth,3198.6919
 2026-07-13,118534,Franklin India Flexi Cap Fund - Direct - IDCW,69.9354
 2026-07-13,118535,Franklin India Flexi Cap Fund - Direct - Growth,1808.6980
+2026-07-13,118536,Franklin India Technology Fund - Direct - IDCW,44.4436
+2026-07-13,118537,Franklin India Technology Fund - Direct - Growth,510.0066
+2026-07-13,118538,Franklin INDIA OPPORTUNITIES FUND - Direct - IDCW,42.6723
+2026-07-13,118539,Franklin India Opportunities Fund - Direct - Growth,292.6115
 2026-07-13,118540,Franklin India ELSS Tax Saver Fund - Direct - Growth,1618.2223
 2026-07-13,118541,Franklin India ELSS Tax Saver Fund - Direct - IDCW,70.8587
+2026-07-13,118542,Franklin India Dynamic Asset Allocation Active Fund of funds - Direct - IDCW,49.0011
+2026-07-13,118543,Franklin India Dynamic Asset Allocation Active Fund Of Funds - Direct - Growth,190.7820
 2026-07-13,118546,Franklin India Aggressive Hybrid Fund - Direct - Growth,311.0190
 2026-07-13,118547,Franklin India Aggressive Hybrid Fund - Direct - IDCW,34.2113
 2026-07-13,118548,Franklin India Retirement Fund - Direct - Growth,242.1815
 2026-07-13,118549,Franklin India Retirement Fund - Direct - IDCW,18.4215
+2026-07-13,118550,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - IDCW,100.3736
+2026-07-13,118551,Franklin U.S. Opportunities Equity Active Fund of Funds - Direct - Growth,104.3988
 2026-07-13,118556,Franklin Build India Fund - Direct - IDCW,51.0679
 2026-07-13,118557,Franklin Build India Fund - Direct - Growth,170.8365
 2026-07-13,118558,Franklin Asian Equity Fund - Direct - IDCW,22.2861
@@ -1517,6 +1596,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119018,HDFC Large Cap Fund - Growth Option - Direct Plan,1237.037
 2026-07-13,119019,DSP Aggressive Hybrid Fund - Direct Plan - Growth,401.5920
 2026-07-13,119020,DSP Aggressive Hybrid Fund - Direct Plan - IDCW,71.3550
+2026-07-13,119028,DSP Natural Resources and New Energy Fund - Direct Plan - Growth,119.0730
+2026-07-13,119029,DSP Natural Resources and New Energy Fund - Direct Plan - IDCW,37.6590
 2026-07-13,119053,Tata Aggressive Hybrid Fund -Direct Plan- Growth Option,498.5557
 2026-07-13,119057,Tata Aggressive Hybrid Fund- Direct Plan - Monthly Payout of IDCW Option,99.1569
 2026-07-13,119058,Tata Aggressive Hybrid Fund- Direct Plan - Periodic Payout of IDCW Option,97.8817
@@ -1622,8 +1703,16 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119249,DSP Large Cap Fund - Direct Plan - IDCW,27.1840
 2026-07-13,119250,DSP Large Cap Fund - Direct Plan - Growth,508.7090
 2026-07-13,119251,Tata Retirement Savings Fund- Progressive Plan -Direct Plan-Growth Option,84.4702
+2026-07-13,119252,DSP US Specific Equity Omni FoF - Direct Plan - Growth,103.9179
+2026-07-13,119253,DSP US Specific Equity Omni FoF - Direct Plan - IDCW,82.6883
 2026-07-13,119255,Tata Retirement Savings Fund- Moderate Plan -Direct Plan-Growth Option,81.6208
 2026-07-13,119256,Tata Retirement Savings Fund- Conservative Plan-Direct Plan-Growth Option,38.9524
+2026-07-13,119275,DSP Global Clean Energy Overseas Equity Omni FoF Direct Plan - Growth,30.8647
+2026-07-13,119276,DSP Global Clean Energy Overseas Equity Omni FoF - Direct Plan - IDCW,21.5314
+2026-07-13,119277,DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - Growth,52.8196
+2026-07-13,119278,DSP World Gold Mining Overseas Equity Omni FoF - Direct Plan - IDCW,31.6166
+2026-07-13,119279,DSP World Mining Overseas Equity Omni FoF - Direct Plan - Growth,32.3471
+2026-07-13,119280,DSP World Mining Overseas Equity Omni FoF - Direct Plan - IDCW,29.2158
 2026-07-13,119281,Tata ELSS Fund- Direct Plan - Payout of IDCW Option,233.4459
 2026-07-13,119287,Tata S&P BSE Sensex Index Fund - Direct Plan,207.5673
 2026-07-13,119288,Tata Nifty 50 Index Fund -Direct Plan,164.4200
@@ -1685,11 +1774,15 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119502,Aditya Birla Sun Life Dynamic Bond Fund -Direct - Quarterly IDCW,11.1103
 2026-07-13,119503,Aditya Birla Sun Life Dynamic Bond Fund -DIRECT - MONTHLY IDCW,11.2632
 2026-07-13,119505,Aditya Birla Sun Life Dynamic Bond Fund - Growth - Direct Plan,52.9034
+2026-07-13,119506,Aditya Birla Sun Life Dividend Yield Fund -DIRECT - IDCW,46.14
+2026-07-13,119507,Aditya Birla Sun Life Dividend Yield Fund - Growth - Direct Plan,499.82
 2026-07-13,119511,Aditya Birla Sun Life Money Manager Fund - Growth - Direct Plan,400.5686
 2026-07-13,119512,Aditya Birla Sun Life Money Manager Fund - Direct - weekly IDCW,100.1080
 2026-07-13,119513,Aditya Birla Sun Life Money Manager Fund - Direct - daily IDCW,100.0200
 2026-07-13,119514,Aditya Birla Sun Life Infrastructure Fund - Growth - Direct Plan,118.53
 2026-07-13,119515,Aditya Birla Sun Life Infrastructure Fund -  Direct - IDCW,49.68
+2026-07-13,119516,Aditya Birla Sun Life International Equity Fund - Direct - IDCW,53.1026
+2026-07-13,119517,Aditya Birla Sun Life International Equity Fund - Growth - Direct Plan,57.0045
 2026-07-13,119522,Aditya Birla Sun Life Low Duration Fund -Direct - weekly IDCW,100.7769
 2026-07-13,119523,Aditya Birla Sun Life Low duration Fund - Growth - Direct Plan,776.5774
 2026-07-13,119524,Aditya Birla Sun Life Low Duration Fund -Direct - daily IDCW,99.9682
@@ -1735,6 +1828,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119596,Sundaram Financial Services Opportunities Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),34.7103
 2026-07-13,119597,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,127.2840
 2026-07-13,119598,SBI Large Cap FUND-DIRECT PLAN -GROWTH,104.8913
+2026-07-13,119601,Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW,39.7524
+2026-07-13,119602,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,47.3671
 2026-07-13,119604,SBI Equity Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),102.3856
 2026-07-13,119605,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,89.4108
 2026-07-13,119606,Aditya Birla Sun Life Govenment Securities Fund -DIRECT - Quarterly IDCW,11.7085
@@ -1748,6 +1843,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119630,Sundaram Corporate Bond Fund Direct Plan-Income Distribution cum Capital Withdrawal(IDCW),19.6106
 2026-07-13,119635,Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan - Growth,32.7090
 2026-07-13,119637,Sundaram Conservative Hybrid Fund (Formerly Known as Sundaram Debt Oriented Hybrid Fund) Direct Plan -Income Distribution cum Capital Withdrawal (IDCW),20.5497
+2026-07-13,119646,Aditya Birla Sun Life MNC Fund - Growth - Direct Plan,1459.67
+2026-07-13,119647,Aditya Birla Sun Life MNC Fund - DIRECT - IDCW,434.62
 2026-07-13,119648,Aditya Birla Sun Life Nifty 50 Index Fund - Growth - Direct Plan,252.4675
 2026-07-13,119649,Aditya Birla Sun Life Nifty 50 Index Fund -DIRECT - IDCW,25.5757
 2026-07-13,119655,Aditya Birla Sun Life Income Fund - Direct - Quarterly IDCW,14.1456
@@ -1772,10 +1869,17 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119714,SBI Medium to Long Duration Fund-DIRECT PLAN -Growth,80.2916
 2026-07-13,119715,SBI Midcap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),155.6775
 2026-07-13,119716,SBI MIDCAP FUND - DIRECT PLAN - GROWTH,274.5874
+2026-07-13,119717,SBI Flexicap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),60.6839
+2026-07-13,119718,SBI Flexicap Fund - DIRECT PLAN - Growth Option,121.4092
 2026-07-13,119719,SBI Children's Fund - Savings Plan - DIRECT PLAN - GROWTH,129.5349
+2026-07-13,119720,SBI Large & Midcap Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),372.8285
+2026-07-13,119721,SBI LARGE & MIDCAP FUND -DIRECT PLAN -Growth,715.2999
 2026-07-13,119722,SBI ELSS Tax Saver Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),118.7415
 2026-07-13,119723,SBI ELSS Tax Saver FUND - DIRECT PLAN -GROWTH,479.3982
+2026-07-13,119724,SBI Contra Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),87.7708
+2026-07-13,119727,SBI FOCUSED FUND - DIRECT PLAN -GROWTH,442.8398
 2026-07-13,119730,SBI Consumption Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),232.2750
+2026-07-13,119731,SBI Technology Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),155.6368
 2026-07-13,119732,SBI PSU Fund - DIRECT PLAN - GROWTH,38.4960
 2026-07-13,119733,SBI PSU Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),38.4397
 2026-07-13,119734,Kotak Bond Fund - Direct Plan - Standard IDCW option,30.2238
@@ -1803,8 +1907,14 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119773,Kotak ELSS Tax Saver Fund-Growth - Direct,138.042
 2026-07-13,119774,Kotak Midcap Fund  - Direct Plan - IDCW - Payout & Re-investment of Income Distribution cum capital withdrawal option,102.345
 2026-07-13,119775,Kotak Midcap Fund - Direct Plan - Growth,171.782
+2026-07-13,119776,Kotak Multi Asset Omni FOF - Direct Payout of Income Distribution cum capital withdrawal option,270.589
+2026-07-13,119777,Kotak Multi Asset Omni FOF - Direct Growth - Direct,275.547
+2026-07-13,119778,Kotak Global Emerging Market Overseas Equity Omni FOF - Payout of Income Distribution cum capital withdrawal option - Direct,42.249
+2026-07-13,119779,Kotak Global Emerging Market overseas Equity Omni FOF - Growth - Direct,42.072
 2026-07-13,119780,Kotak Gold Fund Payout of Income Distribution cum capital withdrawal option- Direct,57.1256
 2026-07-13,119781,Kotak Gold Fund Growth - Direct,57.1261
+2026-07-13,119782,SBI Healthcare Opportunities Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),401.0483
+2026-07-13,119783,SBI HEALTHCARE OPPORTUNITIES FUND - DIRECT PLAN -GROWTH,577.2386
 2026-07-13,119784,SBI Ultra Short Duration Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),2425.6583
 2026-07-13,119788,SBI GOLD FUND- DIRECT PLAN - GROWTH,43.2132
 2026-07-13,119789,SBI Gold Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),43.1510
@@ -1837,6 +1947,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119831,SBI Overnight Fund - Direct Plan - Daily Income Distribution cum Capital Withdrawal Option (IDCW),1379.1677
 2026-07-13,119832,SBI Overnight Fund - Direct Plan - Weekly Income Distribution cum Capital Withdrawal Option (IDCW),1408.3251
 2026-07-13,119833,SBI OVERNIGHT FUND - DIRECT PLAN - GROWTH,4443.3630
+2026-07-13,119834,SBI Focused Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),107.9157
+2026-07-13,119835,SBI CONTRA FUND - DIRECT PLAN - GROWTH,415.8896
 2026-07-13,119836,SBI Conservative Hybrid Fund  - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW),25.6453
 2026-07-13,119837,SBI Conservative Hybrid Fund - Direct Plan - Annual Income Distribution cum Capital Withdrawal Option (IDCW),33.4719
 2026-07-13,119838,SBI Conservative Hybrid Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW),28.1655
@@ -1857,10 +1969,14 @@ date,scheme_code,scheme_name,nav
 2026-07-13,119957,Tata Treasury Advantage Fund Direct Plan - Periodic Payout of IDCW Option,2738.6496
 2026-07-13,120029,HSBC Large Cap Fund - Direct IDCW,39.737
 2026-07-13,120030,HSBC Large Cap Fund - Direct Growth,531.0887
+2026-07-13,120035,HSBC Brazil Fund - Growth Direct,11.4296
+2026-07-13,120036,HSBC Brazil Fund - IDCW Direct Plan,11.4198
 2026-07-13,120037,HSBC Liquid Fund - Direct Daily IDCW,1001.576
 2026-07-13,120038,HSBC Liquid Fund -  Growth Direct,2801.0112
 2026-07-13,120039,HSBC Liquid Fund - Direct Monthly IDCW,1041.4142
 2026-07-13,120040,HSBC Liquid Fund - Direct Weekly IDCW,1196.4776
+2026-07-13,120043,HSBC Global Emerging Market Fund - Growth Direct,37.43
+2026-07-13,120044,HSBC Global Emerging Markets Fund - IDCW Direct Plan,29.5104
 2026-07-13,120045,HSBC Flexi Cap Fund - Direct IDCW,46.535
 2026-07-13,120046,HSBC Flexi Cap Fund - Direct Growth,255.4795
 2026-07-13,120059,HSBC Medium to Long Duration Fund - Direct Growth,48.9807
@@ -1882,6 +1998,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120164,Kotak-Small Cap Fund - Growth - Direct,321.643
 2026-07-13,120165,Kotak Flexicap Fund - Payout of Income Distribution cum capital withdrawal option- Direct,59.473
 2026-07-13,120166,Kotak Flexicap Fund - Growth - Direct,97.383
+2026-07-13,120185,ICICI Prudential US Bluechip Equity Fund - Direct Plan -  IDCW,86.37
+2026-07-13,120186,ICICI Prudential US Bluechip Equity Fund - Direct Plan -  Growth,86.38
 2026-07-13,120188,ICICI Prudential Liquid Fund - Direct Plan - Daily IDCW,100.1082
 2026-07-13,120190,ICICI Prudential Liquid Fund - Direct Plan - Weekly IDCW,100.2942
 2026-07-13,120191,ICICI Prudential Liquid Fund - Direct Plan -  IDCW Others,192.9442
@@ -1934,6 +2052,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120323,ICICI Prudential Value Fund (erstwhile Value Discovery Fund) - Direct Plan - Growth,514.07
 2026-07-13,120332,Invesco India Balanced Advantage Fund - Direct Plan - IDCW (Payout / Reinvestment),21.93
 2026-07-13,120333,Invesco India Balanced Advantage Fund - Direct Plan - Growth,63.14
+2026-07-13,120334,ICICI Prudential Multi-Asset Fund - Direct Plan - Growth,899.2754
+2026-07-13,120335,ICICI Prudential Multi-Asset Fund - Direct Plan - IDCW,59.6417
 2026-07-13,120336,LIC MF Banking & PSU Fund-Direct Plan-Weekly IDCW,10.0597
 2026-07-13,120337,LIC MF Banking & PSU Fund-Direct Plan-Daily IDCW,14.3017
 2026-07-13,120338,LIC MF Banking & PSU Fund-Direct Plan-Growth,39.8383
@@ -2062,6 +2182,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120535,Invesco India Liquid Fund - Direct Plan - Weekly IDCW (Reinvestment),1072.3773
 2026-07-13,120536,Invesco India Liquid Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),1085.1476
 2026-07-13,120537,Invesco India Liquid Fund - Direct Plan - Growth,3858.3966
+2026-07-13,120538,Aditya Birla Sun Life Digital India Fund -DIRECT - IDCW,50.89
+2026-07-13,120539,Aditya Birla Sun Life Digital India Fund - Growth - Direct Plan,169.7
 2026-07-13,120541,Invesco India Ultra Short Duration Fund - Direct Plan - Growth,3078.2193
 2026-07-13,120542,Invesco India Ultra Short Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),2085.8546
 2026-07-13,120543,Invesco India Ultra Short Duration Fund - Direct Plan - Annual IDCW (Payout / Reinvestment),2191.9094
@@ -2084,6 +2206,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120571,Invesco India Low Duration Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),1087.0923
 2026-07-13,120575,SBI CONSUMPTION OPPORTUNITIES FUND - DIRECT PLAN - GROWTH,329.9408
 2026-07-13,120576,SBI CONSUMPTION OPPORTUNITIES FUND - REGULAR - GROWTH,286.2469
+2026-07-13,120577,SBI TECHNOLOGY OPPORTUNITIES FUND - REGULAR PLAN - GROWTH,190.5200
+2026-07-13,120578,SBI TECHNOLOGY OPPORTUNITIES FUND - DIRECT PLAN - GROWTH,219.1247
 2026-07-13,120579,ICICI Prudential Children's Fund - Direct Plan,365.36
 2026-07-13,120585,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund)  - Direct Plan - IDCW,60.87
 2026-07-13,120586,ICICI Prudential Large Cap Fund (erstwhile Bluechip Fund) - Direct Plan - Growth,120.31
@@ -2094,6 +2218,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120591,ICICI Prudential Smallcap Fund - Direct Plan - Growth,101.26
 2026-07-13,120592,ICICI Prudential ELSS Tax Saver Fund - Direct Plan - Growth,1042.96
 2026-07-13,120593,ICICI Prudential ELSS Tax Saver Fund - Direct Plan - IDCW,44.79
+2026-07-13,120594,ICICI Prudential Technology Fund - Direct Plan -  Growth,196.22
+2026-07-13,120595,ICICI Prudential Technology Fund - Direct Plan -  IDCW,119.79
 2026-07-13,120596,ICICI Prudential Large & Mid Cap Fund - Direct Plan - Growth,1168.17
 2026-07-13,120597,ICICI Prudential Large & Mid Cap Fund - Direct Plan - IDCW,54.57
 2026-07-13,120598,ICICI Prudential Multicap Fund - Direct Plan -  IDCW,64.00
@@ -2126,6 +2252,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120675,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Quarterly IDCW,11.2272
 2026-07-13,120676,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Growth,32.0507
 2026-07-13,120677,ICICI Prudential Ultra Short Term Fund - Direct Plan -  Monthly IDCW,10.7980
+2026-07-13,120679,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - Growth,139.6038
+2026-07-13,120680,ICICI Prudential Dynamic Asset Allocation Active FOF - Direct Plan - IDCW,109.4768
 2026-07-13,120681,UTI MNC Fund - Direct Plan - IDCW,232.0147
 2026-07-13,120682,UTI - MNC Fund - Growth Option - Direct,447.2721
 2026-07-13,120683,ICICI Prudential Nifty Next 50 Index Fund - Direct Plan -  IDCW,66.9237
@@ -2139,6 +2267,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120692,ICICI Prudential Corporate Bond Fund - Direct Plan - Growth,33.4252
 2026-07-13,120694,ICICI Prudential Corporate Bond Fund - Direct Plan - Quarterly IDCW,15.7169
 2026-07-13,120697,ICICI Prudential Corporate Bond Fund - Direct Plan - Monthly IDCW,10.2349
+2026-07-13,120700,ICICI Prudential Aggressive Hybrid Active FOF - Direct Plan - Growth,244.6024
 2026-07-13,120702,ICICI Prudential Diversified Debt Strategy Active FOF  - Direct Plan - Growth,49.8152
 2026-07-13,120703,ICICI Prudential Diversified Debt Strategy Active FOF - Direct Plan -  IDCW,43.8570
 2026-07-13,120705,Aditya Birla Sun Life Regular Savings Fund - Growth / Payment - Direct Plan,79.1304
@@ -2207,6 +2336,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,120796,UTI Arbitrage Fund - Direct Plan - IDCW,23.2806
 2026-07-13,120818,quant Aggressive Hybrid Fund-IDCW Option-Direct Plan,71.9608
 2026-07-13,120819,quant Aggressive Hybrid Fund-Growth Option-Direct Plan,519.559
+2026-07-13,120820,quant Multi Asset Allocation Fund - IDCW Option - Direct Plan,170.3736
+2026-07-13,120821,quant Multi Asset Allocation Fund-GROWTH OPTION-Direct Plan,184.8689
 2026-07-13,120822,quant Multi Cap Fund-IDCW Option - Direct Plan,84.8782
 2026-07-13,120823,quant Multi Cap Fund-GROWTH OPTION-Direct Plan,732.9138
 2026-07-13,120825,quant Large & Mid Cap Fund - IDCW Option - Direct Plan,64.4756
@@ -2258,6 +2389,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,122531,ICICI Prudential Savings Fund - Monthly IDCW,101.7893
 2026-07-13,122612,360 ONE Dynamic Bond Fund - Regular Plan - Growth Option,24.1307
 2026-07-13,122618,BANDHAN Dynamic Bond Fund-Direct Plan-Half Yearly IDCW,11.5026
+2026-07-13,122639,Parag Parikh Flexi Cap Fund - Direct Plan - Growth,91.3166
+2026-07-13,122640,Parag Parikh Flexi Cap Fund - Regular Plan - Growth,83.2746
 2026-07-13,122643,Aditya Birla Sun Life Floating Rate Fund-Regular - DAILY IDCW,100.1844
 2026-07-13,122644,Aditya Birla Sun Life Floating Rate Fund-Regular Plan-Growth,370.6851
 2026-07-13,122645,Aditya Birla Sun Life Floating Rate Fund-Direct - daily IDCW,100.1777
@@ -2283,6 +2416,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,123287,DSP Savings Fund - Regular Plan - IDCW - Daily,10.1012
 2026-07-13,123288,DSP Savings Fund - Direct Plan -  IDCW - Daily,10.1522
 2026-07-13,123646,UTI Annual Interval Fund - I - Direct Plan - Growth Option,36.6856
+2026-07-13,123651,ICICI Prudential Global Stable Equity Fund (FOF) - Growth,32.89
+2026-07-13,123652,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - IDCW,35.73
+2026-07-13,123653,ICICI Prudential Global Stable Equity Fund (FOF) - IDCW,32.89
+2026-07-13,123654,ICICI Prudential Global Stable Equity Fund (FOF) - Direct - Growth,35.73
 2026-07-13,123663,UTI Annual Interval Fund - I - Direct Plan - Dividend Option,11.3992
 2026-07-13,123690,Kotak Banking and PSU Debt - Growth,69.3868
 2026-07-13,123691,Kotak Banking and PSU Debt - Monthly Payout of Income Distribution cum capital withdrawal option,13.0364
@@ -2368,6 +2505,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,125712,Shriram Aggressive Hybrid Fund- Direct- IDCW,29.2464
 2026-07-13,125713,Shriram Aggressive Hybrid Fund- Regular Growth,31.9044
 2026-07-13,125714,Shriram Aggressive Hybrid Fund- Regular-IDCW,25.5099
+2026-07-13,126350,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),26.3049
+2026-07-13,126351,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option,26.3052
+2026-07-13,126352,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),28.6564
+2026-07-13,126353,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,28.7431
 2026-07-13,126389,BANK OF INDIA Ultra Short Duration Fund- Direct Plan-Bonus,3474.7921
 2026-07-13,126391,DSP Dynamic Asset Allocation Fund - Direct Plan - IDCW - Monthly,16.9850
 2026-07-13,126392,DSP Dynamic Asset Allocation Fund - Regular Plan - IDCW - Monthly,14.1910
@@ -2385,6 +2526,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,127040,Motilal Oswal Midcap Fund-Regular - IDCW Payout/Reinvestment,44.8318
 2026-07-13,127042,Motilal Oswal Midcap Fund-Direct Plan-Growth Option,114.5375
 2026-07-13,127044,Motilal Oswal Midcap Fund-Direct - IDCW Payout/Reinvestment,46.7172
+2026-07-13,127070,HSBC Asia Pacific IDCW Yield Fund IDCW,25.0846
+2026-07-13,127071,HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth Direct,38.6585
+2026-07-13,127072,HSBC Asia Pacific IDCW Yield Fund Direct Plan IDCW,25.0708
+2026-07-13,127073,HSBC Asia Pacific (Ex Japan) Dividend Yield Fund - Growth,35.6459
 2026-07-13,127470,Bandhan Banking and PSU Fund - Regular Daily IDCW,10.8643
 2026-07-13,127471,Bandhan Banking and PSU Fund - Direct Daily IDCW,10.4635
 2026-07-13,127849,BANK OF INDIA BALANCED ADVANTAGE FUND REGULAR PLAN  GROWTH,26.0952
@@ -2418,6 +2563,22 @@ date,scheme_code,scheme_name,nav
 2026-07-13,129051,HDFC ARBITRAGE FUND - Regular Plan - Monthly IDCW Option,11.435
 2026-07-13,129052,HDFC ARBITRAGE FUND -Direct Plan - Growth Option,21.525
 2026-07-13,129054,HDFC ARBITRAGE FUND - Monthly IDCW - Direct Plan,11.33
+2026-07-13,129065,HSBC Aggressive Hybrid Active FOF - Growth,42.3796
+2026-07-13,129187,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - Growth,37.958
+2026-07-13,129188,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - Growth,42.1563
+2026-07-13,129189,Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),37.9038
+2026-07-13,129190,Invesco India - Invesco Global Equity Income Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),41.6451
+2026-07-13,129191,HSBC Multi Asset Active FOF - Growth,41.1512
+2026-07-13,129192,HSBC Multi Asset Active FOF IDCW,30.0295
+2026-07-13,129193,HSBC Multi Asset Active FOF - Growth Direct,43.8913
+2026-07-13,129194,HSBC Multi Asset Active FOF Direct Plan IDCW,21.0823
+2026-07-13,129195,HSBC Income Plus Arbitrage Active FOF - Growth,22.583
+2026-07-13,129196,HSBC Income Plus Arbitrage Active FOF IDCW,16.2757
+2026-07-13,129197,HSBC Income Plus Arbitrage Active FOF - Growth Direct,24.0214
+2026-07-13,129198,HSBC Income Plus Arbitrage Active FOF Direct Plan IDCW,19.2139
+2026-07-13,129199,HSBC Aggressive Hybrid Active FOF - Dividend,29.9028
+2026-07-13,129200,HSBC Aggressive Hybrid Active FOF - Growth Direct,45.1054
+2026-07-13,129201,HSBC Aggressive Hybrid Active FOF - Dividend Direct,32.3228
 2026-07-13,129210,Sundaram Infrastructure Advantage Fund Regular Plan - Income Distribution cum Capital Withdrawal (IDCW),58.6647
 2026-07-13,129211,Sundaram Infrastructure Advantage Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),63.3963
 2026-07-13,129212,Sundaram Infrastructure Advantage Fund Direct Plan - Growth,110.1067
@@ -2451,6 +2612,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,130312,Axis Credit Risk Fund - Direct Plan - Monthly IDCW,10.2708
 2026-07-13,130313,Axis Credit Risk Fund - Regular Plan - Monthly IDCW,10.2226
 2026-07-13,130314,Axis Credit Risk Fund - Direct Plan - Growth,26.1481
+2026-07-13,130490,DSP Income Plus Arbitrage Omni FoF - Regular Plan - IDCW,16.5407
+2026-07-13,130491,DSP Income Plus Arbitrage Omni FoF - Direct Plan - IDCW,18.4519
+2026-07-13,130492,DSP Income Plus Arbitrage Omni FoF - Regular Plan - Growth,22.3894
+2026-07-13,130493,DSP Income Plus Arbitrage Omni FoF - Direct Plan - Growth,23.7922
 2026-07-13,130496,HDFC Large and Mid Cap Fund - Growth Option,347.997
 2026-07-13,130497,HDFC Large and Mid Cap Fund - IDCW Option,35.767
 2026-07-13,130498,HDFC Large and Mid Cap Fund - Growth Option - Direct Plan,368.727
@@ -2544,6 +2709,34 @@ date,scheme_code,scheme_name,nav
 2026-07-13,131666,Aditya Birla Sun Life Balanced Advantage Fund - Regular Plan - Growth Option,112.37
 2026-07-13,131670,Aditya Birla Sun Life Balanced Advantage Fund - Direct Plan - Growth Option,128.93
 2026-07-13,131671,Aditya Birla Sun Life Balanced Advantage Fund -DIRECT - IDCW,30.37
+2026-07-13,131863,Aditya Birla Sun Life Multi Asset Omni FoF-REGULAR - IDCW,69.6034
+2026-07-13,131864,Aditya Birla Sun Life Multi Asset Omni FoF- Regular Plan - Growth Option,75.5861
+2026-07-13,131865,Aditya Birla Sun Life Multi Asset Omni FoF- Direct Plan - Growth Option,40.2686
+2026-07-13,131866,Aditya Birla Sun Life Multi Asset Omni FOF-DIRECT - IDCW,38.3716
+2026-07-13,131895,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- REGULAR - IDCW,24.8275
+2026-07-13,131896,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option,39.589
+2026-07-13,131897,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW,26.2724
+2026-07-13,131898,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option,41.9577
+2026-07-13,132003,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW,43.7309
+2026-07-13,132005,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option,43.7038
+2026-07-13,132009,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,46.7568
+2026-07-13,132010,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW,46.7807
+2026-07-13,132138,Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option,33.4615
+2026-07-13,132139,Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW,33.4675
+2026-07-13,132140,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,35.2135
+2026-07-13,132141,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW,31.1445
+2026-07-13,132174,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option,43.8383
+2026-07-13,132175,Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW,39.3198
+2026-07-13,132178,Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option,35.5646
+2026-07-13,132179,Aditya Birla Sun Life Conservative Hybrid Active FOF -Regular - IDCW,32.3563
+2026-07-13,132180,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Regular Plan - Growth Option,56.227
+2026-07-13,132181,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF-Regular - IDCW,51.4675
+2026-07-13,132183,Aditya Birla Sun Life Conservative Hybrid Active FOF- Direct Plan - Growth Option,37.9595
+2026-07-13,132184,Aditya Birla Sun Life Conservative Hybrid Active FOF-Direct - IDCW,25.7737
+2026-07-13,132185,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct Plan - Growth Option,47.126
+2026-07-13,132186,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct Plan - Growth Option,62.248
+2026-07-13,132187,Aditya Birla Sun Life Dynamic Asset Allocation Omni FOF- Direct - IDCW,57.0078
+2026-07-13,132189,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Direct - IDCW,42.8021
 2026-07-13,132756,Tata ELSS Fund-Growth-Direct Plan,53.9601
 2026-07-13,132757,Tata ELSS Fund-Growth-Regular Plan,46.6357
 2026-07-13,132848,HDFC Corporate Bond Fund - IDCW Option,20.8201
@@ -2554,6 +2747,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,132873,NIPPON INDIA CREDIT RISK FUND - DIRECT Plan - IDCW Option,22.6851
 2026-07-13,132917,Aditya Birla Sun Life Dynamic Bond Fund -Regular - IDCW,12.1918
 2026-07-13,132918,Aditya Birla Sun Life Dynamic Bond Fund -Direct - IDCW,13.2774
+2026-07-13,132987,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan,22.2472
+2026-07-13,132988,Franklin India Income Plus Arbitrage Active Fund of Funds- IDCW,20.5473
+2026-07-13,132989,Franklin India Income Plus Arbitrage Active Fund of Funds- Growth Plan - Direct,25.1721
+2026-07-13,132990,Franklin India Income Plus Arbitrage Active Fund of Funds - Direct - IDCW,23.0721
 2026-07-13,132995,Aditya Birla Sun Life Equity Savings Fund - Direct Plan - Growth,25.89
 2026-07-13,132996,Aditya Birla Sun Life Equity Savings Fund - Direct - IDCW,15.47
 2026-07-13,132997,Aditya Birla Sun Life Equity Savings Fund - Regular - IDCW,13.08
@@ -2764,6 +2961,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,134885,LIC MF ULIS (15 Yrs. Regular Premium Uniform Cover Half-Yearly)-Direct Plan-IDCW Reinvestment,40.8303
 2026-07-13,134886,LIC MF ULIS (15 Yrs. Regular Premium Uniform Cover Yearly)-Direct Plan-IDCW Reinvestment,40.8303
 2026-07-13,134887,LIC MF ULIS (15 Yrs. Regular Premium Uniform Cover Monthly)-Direct Plan-IDCW Reinvestment,40.8303
+2026-07-13,134922,Nippon India US Equity Opportunities Fund- Growth Plan- Growth Option,41.2187
+2026-07-13,134923,Nippon India US Equity Opportunities Fund- Direct Plan- Growth Plan- Growth Option,46.5004
+2026-07-13,134924,NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - IDCW Option,41.2187
+2026-07-13,134925,NIPPON INDIA - US EQUITY OPPORTUNITIES FUND - Direct Plan - IDCW Option,46.5004
 2026-07-13,134954,JM Large Cap Fund (Regular) - Quarterly IDCW,34.4729
 2026-07-13,134955,JM Large Cap Fund (Regular) - Half Yearly IDCW,25.0415
 2026-07-13,134956,JM Large Cap Fund (Direct) - Monthly IDCW,72.431
@@ -2935,10 +3136,18 @@ date,scheme_code,scheme_name,nav
 2026-07-13,138375,PGIM India Equity Savings Fund - Direct Plan - Annual Dividend,15.6627
 2026-07-13,138376,PGIM India Equity Savings Fund - Direct Plan - Growth,58.1326
 2026-07-13,138377,PGIM India Equity Savings Fund - Direct Plan - Monthly Dividend,13.7497
+2026-07-13,138381,PGIM India Aggressive Hybrid Equity Fund - Dividend Option,13.91
+2026-07-13,138382,PGIM India Aggressive Hybrid Equity Fund - Growth Option,129.72
+2026-07-13,138386,PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Growth,157.3
+2026-07-13,138387,PGIM India Aggressive Hybrid Equity Fund - Direct Plan - Dividend,24.97
+2026-07-13,138453,PGIM India Emerging Markets Equity Fund of Fund- Growth,21.96
+2026-07-13,138456,PGIM India Emerging Markets Equity Fund of Fund - Direct Plan - Growth,25.28
 2026-07-13,138467,PGIM India Gilt Fund - Quarterly Dividend,13.1525
 2026-07-13,138470,PGIM India Gilt Fund - Growth,30.8635
 2026-07-13,138472,PGIM India Gilt Fund - Direct Plan - Growth,33.6842
 2026-07-13,138474,PGIM India Gilt Fund - Direct Plan - Quarterly Dividend,14.0202
+2026-07-13,138523,PGIM India Global Equity Opportunities Fund of Fund- Growth,51.44
+2026-07-13,138528,PGIM India Global Equity Opportunities Fund of Fund- Direct Plan - Growth,58.75
 2026-07-13,138875,PGIM India Arbitrage Fund - Direct Plan - Growth,20.9081
 2026-07-13,138876,PGIM India Arbitrage Fund - Regular Plan - Growth,19.4263
 2026-07-13,138877,PGIM India Arbitrage Fund - Direct Plan - Regular Dividend,12.4389
@@ -2999,6 +3208,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,139781,Mahindra Manulife ELSS Tax Saver Fund - Direct Plan -Growth,32.8386
 2026-07-13,139782,Mahindra Manulife ELSS Tax Saver Fund- Direct Plan - IDCW,20.6760
 2026-07-13,139783,Mahindra Manulife ELSS Tax Saver Fund- Regular Plan - Growth,27.5820
+2026-07-13,139820,PGIM India Aggressive Hybrid Equity Fund-Direct Plan-Monthly Dividend Option,25.27
+2026-07-13,139821,PGIM India Aggressive Hybrid Equity Fund-Monthly Dividend Option,22.34
 2026-07-13,139838,UTI Liquid Fund - Regular Plan - Fortnightly IDCW,115.4569
 2026-07-13,139839,BANDHAN Nifty 50 ETF,267.1627
 2026-07-13,139840,BANDHAN BSE Sensex ETF,843.4168
@@ -3065,6 +3276,12 @@ date,scheme_code,scheme_name,nav
 2026-07-13,140235,Edelweiss Money Market Fund - Direct Plan - IDCW Option,31.2328
 2026-07-13,140236,Edelweiss Money Market Fund - Direct Plan - Annual - IDCW Option,33.4816
 2026-07-13,140237,Edelweiss Money Market Fund - Direct Plan - Growth Option,33.4892
+2026-07-13,140242,Edelweiss Greater China Equity Off-shore Fund - Regular Plan - Growth Option,64.504
+2026-07-13,140243,Edelweiss Greater China Equity Off-shore Fund - Direct Plan - Growth Option,73.117
+2026-07-13,140255,Edelweiss ASEAN Equity Off-shore Fund - Regular Plan - Growth Option,37.417
+2026-07-13,140256,Edelweiss ASEAN Equity Off-shore Fund - Direct Plan - Growth Option,42.066
+2026-07-13,140273,Edelweiss US Value Equity Offshore Fund - Regular Plan - Growth Option,43.7896
+2026-07-13,140274,Edelweiss US Value Equity Offshore Fund - Direct Plan - Growth Option,48.841
 2026-07-13,140283,Edelweiss Banking and PSU Debt Fund - Regular Plan - Growth Option,25.8581
 2026-07-13,140284,Edelweiss Banking and PSU Debt Fund - Regular Plan - IDCW Option,17.6771
 2026-07-13,140286,Edelweiss Banking and PSU Debt Fund - Direct Plan - Growth Option,26.877
@@ -3075,6 +3292,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,140292,Edelweiss Banking and PSU Debt Fund - Regular Plan Monthly - IDCW Option,11.1716
 2026-07-13,140293,Edelweiss Banking and PSU Debt Fund - Direct Plan Monthly - IDCW Option,10.9263
 2026-07-13,140294,Edelweiss Banking and PSU Debt Fund - Regular Plan Fortnightly - IDCW Option,13.8856
+2026-07-13,140295,Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Regular Plan,30.9
+2026-07-13,140296,Edelweiss Europe Dynamic Equity Offshore Fund - Growth Option - Direct Plan,34.371
 2026-07-13,140297,Edelweiss Government Securities Fund - Regular Plan - Growth Option,25.1766
 2026-07-13,140298,Edelweiss Government Securities Fund - Direct Plan - Growth Option,26.9661
 2026-07-13,140301,Edelweiss Government Securities Fund - Regular Plan - IDCW Option,25.1931
@@ -3087,6 +3306,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,140308,Edelweiss Government Securities Fund - Direct Plan Monthly - IDCW Option,16.6881
 2026-07-13,140309,Edelweiss Government Securities Fund - Direct Plan - Annual Dividend Option,26.9769
 2026-07-13,140310,Edelweiss Government Securities Fund - Regular Plan - Annual - IDCW Option,25.1876
+2026-07-13,140327,Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Direct Plan - Growth Option,30.6369
+2026-07-13,140328,Edelweiss Emerging Markets Opportunities Equity Offshore Fund - Regular Plan - Growth Option,27.9613
 2026-07-13,140347,Edelweiss Equity Savings Fund - Direct Plan - Growth Option,30.0635
 2026-07-13,140348,Edelweiss Equity Savings Fund - Direct Plan - IDCW Option,21.5515
 2026-07-13,140349,Edelweiss Equity Savings Fund - Regular Plan - IDCW Option,18.3421
@@ -3150,6 +3371,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,140913,UTI Liquid Fund - Direct Plan - Fortnightly IDCW,115.5396
 2026-07-13,141060,Quantum Dynamic Term Fund - Regular Plan Monthly IDCW,10.5115
 2026-07-13,141061,Quantum Dynamic Term Fund - Regular Plan Growth Option,22.3997
+2026-07-13,141062,Quantum Diversified Equity All Cap Active FOF - Regular Plan IDCW,84.628
+2026-07-13,141063,Quantum Diversified Equity All Cap Active FOF - Regular Plan Growth Option,84.844
 2026-07-13,141064,Quantum Gold ETF FOF - Regular Plan Growth Option,53.3211
 2026-07-13,141065,Quantum Liquid Fund - Regular Plan Daily IDCW,10.0002
 2026-07-13,141066,Quantum Liquid Fund - Regular Plan Growth Option,37.0618
@@ -3158,6 +3381,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,141069,Quantum Value Fund - Regular Plan IDCW,119.81
 2026-07-13,141070,Quantum ELSS Tax Saver Fund - Regular Plan Growth Option,119.14
 2026-07-13,141071,Quantum ELSS Tax Saver Fund - Regular Plan IDCW,118.33
+2026-07-13,141072,Quantum Multi Asset Active FOF - Regular Plan Growth Option,36.2335
 2026-07-13,141139,Sundaram Long Term Micro Cap Tax Advantage Fund Series V Regular Plan - Growth,31.3468
 2026-07-13,141140,Sundaram Long Term Micro Cap Tax Advantage Fund Series V Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),29.8065
 2026-07-13,141141,Sundaram Long Term Micro Cap Tax Advantage Fund Series V Direct Plan - Growth,32.3120
@@ -3469,6 +3693,12 @@ date,scheme_code,scheme_name,nav
 2026-07-13,144760,Axis Ultra Short Duration Fund - Regular Plan - Monthly IDCW,10.0658
 2026-07-13,144761,Axis Ultra Short Duration Fund - Regular Plan - Regular IDCW,15.6275
 2026-07-13,144762,Axis Ultra Short Duration Fund - Regular Plan - Weekly IDCW,10.0671
+2026-07-13,144834,Sundaram Services Fund Regular Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),21.7536
+2026-07-13,144835,Sundaram Services Fund Direct Plan - Growth,40.0614
+2026-07-13,144836,Sundaram Services Fund Direct Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),23.8597
+2026-07-13,144837,Sundaram Services Fund Direct Plan - Reinvestment of Income Distribution cum Capital Withdrawal (IDCW),23.8597
+2026-07-13,144838,Sundaram Services Fund Regular Plan - Growth,36.5945
+2026-07-13,144839,Sundaram Services Fund Regular Plan - Payout of Income Distribution cum Capital Withdrawal (IDCW),21.7536
 2026-07-13,144902,Shriram Flexi Cap Fund - Regular Growth,19.9832
 2026-07-13,144903,Shriram Flexi Cap Fund - Regular-IDCW,19.9761
 2026-07-13,144905,Shriram Flexi Cap Fund - Direct Growth,22.9174
@@ -3493,6 +3723,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,145076,ICICI Prudential Manufacturing Fund - Direct Plan - IDCW Option,24.88
 2026-07-13,145077,ICICI Prudential Manufacturing Fund - Cumulative Option,38.43
 2026-07-13,145078,ICICI Prudential Manufacturing Fund - IDCW Option,22.00
+2026-07-13,145109,Axis Large & Mid Cap Fund - Direct Plan - IDCW,25.78
+2026-07-13,145110,Axis Large & Mid Cap Fund - Direct Plan - Growth,38.42
+2026-07-13,145111,Axis Large & Mid Cap Fund - Regular Plan - IDCW,20.13
+2026-07-13,145112,Axis Large & Mid Cap Fund - Regular Plan - Growth,34.51
 2026-07-13,145137,Invesco India Smallcap Fund - Direct Plan - Growth,53.15
 2026-07-13,145138,Invesco India Smallcap Fund - Direct Plan - IDCW (Payout / Reinvestment),39.48
 2026-07-13,145139,Invesco India Smallcap Fund - Regular Plan - Growth,47.36
@@ -3525,6 +3759,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,145400,ICICI Prudential Ultra Short Term Fund - Direct Plan - Weekly IDCW,10.0850
 2026-07-13,145402,ICICI Prudential Ultra Short Term Fund - Weekly IDCW,10.0683
 2026-07-13,145404,ICICI Prudential Ultra Short Term Fund - Direct Plan - Daily IDCW,10.0072
+2026-07-13,145453,DSP Healthcare Fund - Regular Plan - IDCW,25.6770
+2026-07-13,145454,DSP Healthcare Fund - Direct Plan - Growth,49.5640
+2026-07-13,145455,DSP Healthcare Fund - Direct Plan - IDCW,28.6620
+2026-07-13,145456,DSP Healthcare Fund - Regular Plan - Growth,44.3260
 2026-07-13,145471,Union Value Fund - Regular Plan - Growth Option,29.11
 2026-07-13,145472,Union Value Fund - Regular Plan - IDCW Option,29.11
 2026-07-13,145473,Union Value Fund - Direct Plan - Growth Option,31.26
@@ -3857,6 +4095,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,147314,WhiteOak Capital Ultra Short Duration Fund- Regular plan-Monthly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1009.7007
 2026-07-13,147315,WhiteOak Capital Ultra Short Duration Fund- Direct plan-Fortnightly Payout/ Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1006.5930
 2026-07-13,147316,WhiteOak Capital Ultra Short Duration Fund- Direct plan-Daily Reinvestment of Income Distribution cum capital withdrawal option (IDCW),1004.9898
+2026-07-13,147345,ICICI Prudential MNC Fund - Growth Option,30.16
+2026-07-13,147346,ICICI Prudential MNC Fund - Direct Plan - Growth Option,32.98
+2026-07-13,147347,ICICI Prudential MNC Fund - Direct Plan - IDCW Option,19.78
+2026-07-13,147348,ICICI Prudential MNC Fund - IDCW Option,17.41
 2026-07-13,147371,QUANTUM ESG BEST IN CLASS STRATEGY FUND - REGULAR PLAN - GROWTH OPTION,23.27
 2026-07-13,147372,QUANTUM ESG BEST IN CLASS STRATEGY FUND - DIRECT PLAN - GROWTH OPTION,24.90
 2026-07-13,147373,Baroda BNP Paribas Money Market Fund - Direct Plan - Monthly IDCW,1035.2083
@@ -3975,6 +4217,14 @@ date,scheme_code,scheme_name,nav
 2026-07-13,147624,Motilal Oswal Nifty Smallcap 250 Index - Regular Plan,38.7822
 2026-07-13,147625,Motilal Oswal Nifty 500 Index Fund - Direct Plan,27.2402
 2026-07-13,147626,Motilal Oswal Nifty 500 Index Fund - Regular Plan,26.0035
+2026-07-13,147645,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - IDCW,22.9091
+2026-07-13,147646,ICICI Prudential Global Advantage Fund (FOF) - IDCW,21.8769
+2026-07-13,147647,ICICI Prudential Global Advantage Fund (FOF) - Growth Option,21.8775
+2026-07-13,147648,ICICI Prudential Global Advantage Fund (FOF) - Direct Plan - Growth Option,22.9091
+2026-07-13,147661,ICICI Prudential Commodities Fund - Growth Option,46.15
+2026-07-13,147662,ICICI Prudential Commodities Fund - Direct Plan - Growth Option,50.31
+2026-07-13,147663,ICICI Prudential Commodities Fund - IDCW Option,29.67
+2026-07-13,147664,ICICI Prudential Commodities Fund - Direct Plan - IDCW Option,33.36
 2026-07-13,147665,Axis Nifty 100 Index Fund - Regular Plan - Growth Option,21.4657
 2026-07-13,147666,Axis Nifty 100 Index Fund - Direct Plan - Growth Option,22.5991
 2026-07-13,147667,Axis Nifty 100 Index Fund - Regular Plan - IDCW,20.3599
@@ -3994,6 +4244,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,147716,ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option,1001.2597
 2026-07-13,147717,ITI Overnight Fund - Direct Plan - Monthly IDCW Option,1003.2609
 2026-07-13,147718,ITI Overnight Fund - Regular Plan - Monthly IDCW Option,1001.0714
+2026-07-13,147724,Kotak Pioneer Fund- Regular Plan- Growth Option,34.622
+2026-07-13,147725,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,38.406
+2026-07-13,147727,Kotak Pioneer Fund- Direct Plan- Growth Option,38.412
+2026-07-13,147728,Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option,34.637
 2026-07-13,147729,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Daily IDCW,1106.9170
 2026-07-13,147730,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Weekly IDCW,1000.5059
 2026-07-13,147731,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,1506.0948
@@ -4062,6 +4316,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,147846,Aditya Birla Sun Life PSU Equity Fund-Regular Plan-Growth,36.19
 2026-07-13,147847,Aditya Birla Sun Life PSU Equity Fund-Regular - Payout of IDCW,25.95
 2026-07-13,147849,Bharat Bond ETF - April 2030,1608.7637
+2026-07-13,147854,Bharat Bond FOF - April 2030 - Regular Plan - Growth Option,15.9768
+2026-07-13,147855,BHARAT Bond FOF - April 2030 - Direct Plan - IDCW Option,15.9768
+2026-07-13,147856,BHARAT Bond FOF - April 2030 - Regular Plan - IDCW Option,15.9768
+2026-07-13,147857,Bharat Bond FOF - April 2030 - Direct Plan - Growth Option,15.9768
 2026-07-13,147878,Invesco India Overnight Fund - Regular Plan - Growth,1375.8042
 2026-07-13,147879,Invesco India Overnight Fund - Regular Plan - Monthly IDCW (Payout / Reinvestment),1002.4235
 2026-07-13,147880,Invesco India Overnight Fund - Regular Plan - Daily IDCW (Reinvestment),1000.1395
@@ -4069,6 +4327,18 @@ date,scheme_code,scheme_name,nav
 2026-07-13,147883,Invesco India Overnight Fund - Direct Plan - Growth,1380.8535
 2026-07-13,147884,Invesco India Overnight Fund - Direct Plan - Daily IDCW (Reinvestment),1000.5303
 2026-07-13,147886,Invesco India Overnight Fund - Direct Plan - Monthly IDCW (Payout / Reinvestment),1002.1
+2026-07-13,147888,Axis Income Plus Arbitrage Active FOF - Regular Plan - IDCW,15.3100
+2026-07-13,147889,Axis Income Plus Arbitrage Active FOF - Direct Plan - Growth Option,15.6320
+2026-07-13,147890,Axis Income Plus Arbitrage Active FOF - Regular Plan - Growth Option,15.3056
+2026-07-13,147891,Axis Income Plus Arbitrage Active FOF - Direct Plan - IDCW,15.6451
+2026-07-13,147892,Axis Income Plus Arbitrage Active FOF - Direct Plan - Monthly IDCW,15.6451
+2026-07-13,147893,Axis Income Plus Arbitrage Active FOF - Direct Plan - Quarterly IDCW,12.2166
+2026-07-13,147894,Axis Income Plus Arbitrage Active FOF - Direct Plan - Half Yearly Dividend Option,11.6564
+2026-07-13,147895,Axis Income Plus Arbitrage Active FOF - Direct Plan - Annual IDCW,14.1579
+2026-07-13,147896,Axis Income Plus Arbitrage Active FOF - Regular Plan - Monthly IDCW,15.3048
+2026-07-13,147897,Axis Income Plus Arbitrage Active FOF - Regular Plan - Half Yearly IDCW,12.1971
+2026-07-13,147898,Axis Income Plus Arbitrage Active FOF - Regular Plan - Annual IDCW,13.8700
+2026-07-13,147905,Axis Income Plus Arbitrage Active FOF - Regular Plan - Quarterly IDCW,11.3739
 2026-07-13,147906,Mirae Asset Nifty Next 50 ETF,742.8601
 2026-07-13,147907,HSBC Ultra Short Duration Fund - Regular Growth,1443.1398
 2026-07-13,147908,HSBC Ultra Short Duration Fund - Direct Growth,1465.324
@@ -4078,10 +4348,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,147912,HSBC Ultra Short Duration Fund - Direct Weekly IDCW,1007.8331
 2026-07-13,147915,HSBC Ultra Short Duration Fund - Direct Monthly IDCW,1014.6665
 2026-07-13,147916,HSBC Ultra Short Duration Fund - Regular Monthly IDCW,1030.2161
-2026-07-13,147917,ITI Small Cap Fund - Direct Plan - IDCW Option,35.0153
-2026-07-13,147918,ITI Small Cap Fund - Regular Plan - IDCW Option,30.9188
-2026-07-13,147919,ITI Small Cap Fund - Direct Plan - Growth Option,36.9365
-2026-07-13,147920,ITI Small Cap Fund - Regular Plan - Growth Option,32.7937
+2026-07-13,147917,ITI Small Cap Fund - Direct Plan - IDCW Option,35.0152
+2026-07-13,147918,ITI Small Cap Fund - Regular Plan - IDCW Option,30.9187
+2026-07-13,147919,ITI Small Cap Fund - Direct Plan - Growth Option,36.9364
+2026-07-13,147920,ITI Small Cap Fund - Regular Plan - Growth Option,32.7936
 2026-07-13,147921,ICICI Prudential Nifty Midcap 150 ETF,23.9537
 2026-07-13,147928,Axis ESG Integration Strategy Fund - Direct Plan - Growth Option,22.71
 2026-07-13,147929,Axis ESG Integration Strategy Fund - Regular Plan - Growth Option,20.98
@@ -4097,6 +4367,18 @@ date,scheme_code,scheme_name,nav
 2026-07-13,147951,BANK OF INDIA Overnight Fund Direct Plan Growth,1390.2861
 2026-07-13,147952,BANK OF INDIA Overnight Fund Direct Plan- Daily IDCW,1000.0000
 2026-07-13,147953,BANK OF INDIA Overnight Fund Regular Plan- Daily IDCW,1000.0000
+2026-07-13,148033,ICICI Prudential Diversified Equity All Cap Omni FOF - Growth,31.7471
+2026-07-13,148034,ICICI Prudential Diversified Equity All Cap Omni FOF - IDCW,24.5460
+2026-07-13,148035,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - Growth,33.2331
+2026-07-13,148036,ICICI Prudential Diversified Equity All Cap Omni FOF - Direct Plan - IDCW,25.8819
+2026-07-13,148049,Tata Multi Asset Allocation Fund-Direct Plan-Dividend Payout,28.2908
+2026-07-13,148050,Tata Multi Asset Allocation Fund-Regular Plan-Growth,25.4855
+2026-07-13,148051,Tata Multi Asset Allocation Fund-Regular Plan-Dividend Reinvestment,25.4855
+2026-07-13,148052,Tata Multi Asset Allocation Fund-Direct Plan-Dividend Reinvestment,28.2908
+2026-07-13,148053,Tata Multi Asset Allocation Fund-Direct Plan-Growth,28.2908
+2026-07-13,148054,Tata Multi Asset Allocation Fund-Regular Plan-Dividend Payout,25.4855
+2026-07-13,148063,Edelweiss US Technology Equity Fund of Fund- Direct Plan- Growth,40.9543
+2026-07-13,148064,Edelweiss US Technology Equity Fund of Fund- Regular Plan- Growth,38.5556
 2026-07-13,148071,Union Midcap Fund - Regular Plan - Growth Option,51.99
 2026-07-13,148072,Union Midcap Fund - Regular Plan - IDCW Option,51.99
 2026-07-13,148073,Union Midcap Fund - Direct Plan - Growth Option,56.69
@@ -4114,6 +4396,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148352,ITI Large Cap Fund - Direct Plan - IDCW Option,18.3603
 2026-07-13,148353,ITI Large Cap Fund - Direct Plan - Growth Option,19.3455
 2026-07-13,148354,ITI Large Cap Fund - Regular Plan - IDCW Option,16.3302
+2026-07-13,148381,Motilal Oswal S&P 500 Index Fund - Direct Plan Growth,33.1566
+2026-07-13,148382,Motilal Oswal S&P 500 Index Fund - Regular Plan Growth,31.9974
 2026-07-13,148387,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Growth,14.8414
 2026-07-13,148388,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),14.8415
 2026-07-13,148389,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth,14.6364
@@ -4138,7 +4422,15 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148418,Mirae Asset Banking and PSU Fund - Regular plan - IDCW,13.6049
 2026-07-13,148419,Mirae Asset Banking and PSU Fund - Direct Plan - Growth,13.9737
 2026-07-13,148445,BHARAT Bond ETF- April 2031,1439.8833
+2026-07-13,148450,BHARAT Bond FOF- April 2031- Direct Plan- Growth Option,14.3205
+2026-07-13,148451,BHARAT Bond FOF - April 2031 - Regular Plan - IDCW Option,14.3205
+2026-07-13,148452,BHARAT Bond FOF- April 2031- Regular Plan- Growth Option,14.3205
+2026-07-13,148453,BHARAT Bond FOF - April 2031 - Direct Plan - IDCW Option,14.3205
 2026-07-13,148456,ICICI Prudential Nifty Alpha Low- Volatility 30 ETF,27.6719
+2026-07-13,148457,Nippon India Multi Asset Allocation Fund - Direct Plan - Growth Option,26.6721
+2026-07-13,148458,NIPPON INDIA MULTI ASSET ALLOCATION FUND - DIRECT Plan - IDCW Option,25.6004
+2026-07-13,148459,Nippon India Multi Asset Allocation Fund - Regular Plan - Growth Option,24.6777
+2026-07-13,148460,NIPPON INDIA MULTI ASSET ALLOCATION FUND - IDCW Option,23.6081
 2026-07-13,148461,HDFC NIFTY Bank ETF - GROWTH,59.8336
 2026-07-13,148466,ICICI Prudential Nifty IT ETF,32.1841
 2026-07-13,148467,Mahindra Manulife Arbitrage Fund - Regular Plan - Growth,13.0145
@@ -4153,6 +4445,12 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148482,Invesco India Focused Fund - Direct Plan - IDCW (Payout / Reinvestment),23.19
 2026-07-13,148483,Invesco India Focused Fund - Regular Plan - Growth,28.94
 2026-07-13,148484,Invesco India Focused Fund - Regular Plan - IDCW (Payout / Reinvestment),20.82
+2026-07-13,148485,Axis Global Equity Alpha Fund of Fund - Direct Plan - Growth Option,26.0368
+2026-07-13,148486,Axis Global Equity Alpha Fund of Fund - Regular Plan - Growth Option,24.5892
+2026-07-13,148487,Axis Global Equity Alpha Fund of Fund - Direct Plan - IDCW,26.0289
+2026-07-13,148488,Axis Global Equity Alpha Fund of Fund - Regular Plan - IDCW,24.5894
+2026-07-13,148489,SBI Children's Fund - Investment Plan - Regular Plan - Growth,49.5987
+2026-07-13,148490,SBI Children's Fund - Investment Plan - Direct Plan - Growth,53.3128
 2026-07-13,148500,Mirae Asset Diversified Equity Allocator Passive FOF - Direct Plan - Growth,25.294
 2026-07-13,148501,Mirae Asset Diversified Equity Allocator Passive FOF - Direct Plan - IDCW,25.313
 2026-07-13,148502,Mirae Asset Diversified Equity Allocator Passive FOF - Regular Plan - Growth,25.184
@@ -4175,6 +4473,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148530,Mirae Asset Ultra Short Duration Fund Regular Growth,1395.9472
 2026-07-13,148531,Mirae Asset Ultra Short Duration Fund Regular IDCW,1395.4414
 2026-07-13,148532,Mirae Asset Ultra Short Duration Fund Direct IDCW,1414.2473
+2026-07-13,148533,ITI Banking & PSU Debt Fund - Regular Plan - IDCW Option,13.7038
+2026-07-13,148534,ITI Banking & PSU Debt Fund - Direct Plan - Growth Option,14.1401
+2026-07-13,148535,ITI Banking & PSU Debt Fund - Regular Plan - Growth Option,13.7026
+2026-07-13,148536,ITI Banking & PSU Debt Fund - Direct Plan - IDCW Option,14.1384
 2026-07-13,148537,Aditya Birla Sun Life Special Opportunities Fund-Regular Plan-Growth,28.32
 2026-07-13,148538,Aditya Birla Sun Life Special Opportunities Fund-Regular - IDCW,21.99
 2026-07-13,148539,Aditya Birla Sun Life Special Opportunities Fund-Direct-Growth,30.64
@@ -4187,6 +4489,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148549,SBI Floating Rate DEBT Fund - Direct Plan - Quarterly Income Distribution cum Capital Withdrawal Option (IDCW),14.3474
 2026-07-13,148550,SBI Floating Rate Debt Fund - Direct Plan - Growth,14.3470
 2026-07-13,148551,SBI Floating Rate DEBT Fund - Direct Plan - Monthly Income Distribution cum Capital Withdrawal Option (IDCW),14.3461
+2026-07-13,148555,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund Direct Plan - Growth,24.0289
+2026-07-13,148556,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Direct Plan - IDCW Option,24.0289
+2026-07-13,148557,Edelweiss MSCI India Domestic & World Healthcare 45 index Fund Regular Plan - Growth,23.2634
+2026-07-13,148558,Edelweiss MSCI India Domestic & World Healthcare 45 Index Fund - Regular Plan - IDCW Option,23.2634
 2026-07-13,148559,Axis NIFTY Bank ETF,599.3043
 2026-07-13,148560,quant ESG Integration Strategy Fund - Growth Option - Regular Plan,39.4803
 2026-07-13,148561,quant ESG Integration Strategy Fund - IDCW Option - Regular Plan,39.2884
@@ -4205,6 +4511,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148591,Union Aggressive Hybrid Fund - Regular Plan - Growth Option,18.56
 2026-07-13,148592,Union Aggressive Hybrid Fund - Direct Plan - Growth Option,19.78
 2026-07-13,148593,Union Aggressive Hybrid Fund - Direct Plan - IDCW Option,18.40
+2026-07-13,148594,DSP Value Fund - Regular Plan - Growth,23.8670
+2026-07-13,148595,DSP Value Fund - Direct Plan - Growth,24.9250
+2026-07-13,148596,DSP Value Fund - Direct Plan - IDCW,18.8790
+2026-07-13,148597,DSP Value Fund - Regular Plan - IDCW,16.6820
 2026-07-13,148598,ICICI Prudential Quant Fund Growth,22.89
 2026-07-13,148599,ICICI Prudential Quant Fund IDCW,14.65
 2026-07-13,148600,ICICI Prudential Quant Fund Direct Plan Growth,23.75
@@ -4217,6 +4527,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148609,HDFC Dividend Yield Fund - Growth Option Direct Plan,26.808
 2026-07-13,148610,HDFC Dividend Yield Fund - Growth Plan,24.844
 2026-07-13,148611,HDFC Dividend Yield Fund - IDCW Plan,19.798
+2026-07-13,148612,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - IDCW (Payout / Reinvestment),13.2066
+2026-07-13,148613,Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan - Growth,13.2069
+2026-07-13,148614,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - Growth,13.9512
+2026-07-13,148615,Invesco India - Invesco Global Consumer Trends Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),13.9503
 2026-07-13,148616,UTI Small Cap Fund - Regular Plan - IDCW (Payout),27.6372
 2026-07-13,148617,UTI Small Cap Fund - Regular Plan - Growth Option,27.6374
 2026-07-13,148618,UTI Small Cap Fund - Direct Plan - Growth Option,30.0693
@@ -4226,6 +4540,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148622,Mirae Asset Banking and Financial Services Fund Regular IDCW,21.949
 2026-07-13,148623,Mirae Asset Banking and Financial Services Fund Direct Growth,23.906
 2026-07-13,148624,Mirae Asset Banking and Financial Services Fund Direct  IDCW,23.801
+2026-07-13,148631,Axis Innovation Fund - Regular Plan - Growth Option,20.21
+2026-07-13,148632,Axis Innovation Fund - Direct Plan - IDCW,18.14
+2026-07-13,148633,Axis Innovation Fund - Regular Plan - IDCW,16.92
+2026-07-13,148634,Axis Innovation Fund - Direct Plan - Growth Option,21.66
 2026-07-13,148635,Aditya Birla Sun Life ESG Integration Strategy Fund-Regular Plan-Growth,17.89
 2026-07-13,148636,Aditya Birla Sun Life ESG Integration Strategy Fund-Regular - Payout of IDCW,14.53
 2026-07-13,148637,Aditya Birla Sun Life ESG Integration Strategy Fund-Direct Plan-Growth,19.32
@@ -4234,10 +4552,20 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148642,Nippon India Diversified Equity Flexicap Passive FoF - Direct Plan - Growth Option,21.5151
 2026-07-13,148643,Nippon India Diversified Equity Flexicap Passive FoF - IDCW Option,20.9781
 2026-07-13,148644,Nippon India Diversified Equity Flexicap Passive FoF- DIRECT Plan - IDCW Option,21.5151
+2026-07-13,148645,Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Growth,11.7844
+2026-07-13,148646,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Growth,12.3791
+2026-07-13,148647,Kotak International REIT Overseas Equity Omni FOF - Regular Plan - Payout of Income Distribution cum capital withdrawal option,11.7846
+2026-07-13,148649,Kotak International REIT Overseas Equity Omni FOF - Direct Plan - Payout of Income Distribution cum capital withdrawal option,12.379
+2026-07-13,148651,ICICI Prudential Business Cycle Fund Direct Plan Growth,26.59
+2026-07-13,148652,ICICI Prudential Business Cycle Fund Direct Plan IDCW,19.36
+2026-07-13,148653,ICICI Prudential Business Cycle Fund Growth,24.95
+2026-07-13,148654,ICICI Prudential Business Cycle Fund IDCW,17.84
 2026-07-13,148657,PGIM India Balanced Advantage Fund - Regular Plan - Growth Option,15.12
 2026-07-13,148658,PGIM India Balanced Advantage Fund -  Direct Plan - Growth Option,16.62
 2026-07-13,148659,PGIM India Balanced Advantage Fund - Direct Plan - Dividend Option,10.95
 2026-07-13,148660,PGIM India Balanced Advantage Fund - Regular Plan - Dividend Option,10.77
+2026-07-13,148661,Kotak US Specific Equity Passive FOF - Regular Plan - Growth,28.105
+2026-07-13,148662,Kotak US Specific Equity Passive FOF- Direct Plan - Growth,28.7022
 2026-07-13,148663,Nippon India Multi - Asset Omni FoF - Regular Plan - Growth Option,23.5776
 2026-07-13,148664,Nippon India Multi - Asset Omni FoF - DIRECT Plan - IDCW Option,24.8774
 2026-07-13,148665,Nippon India Multi - Asset Omni FoF - IDCW Option,23.5776
@@ -4258,6 +4586,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148696,SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Growth,14.6647
 2026-07-13,148697,SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),15.8547
 2026-07-13,148698,SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Growth,20.1346
+2026-07-13,148699,Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option,12.18
+2026-07-13,148700,Axis Greater China Equity Fund of Fund - Direct Plan - IDCW,12.17
+2026-07-13,148701,Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option,11.48
+2026-07-13,148702,Axis Greater China Equity Fund of Fund - Regular Plan - IDCW,11.47
 2026-07-13,148703,UTI Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option,21.1872
 2026-07-13,148704,UTI Nifty 200 Momentum 30 Index Fund - Regular Plan - Growth Option,20.6399
 2026-07-13,148705,BANDHAN FLOATER FUND  - REGULAR PLAN GROWTH,13.7569
@@ -4294,6 +4626,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148744,Kotak Nifty Next 50 Index Fund - Regular Plan - Payout of Income Distribution cum capital withdrawal option,20.5558
 2026-07-13,148745,Kotak Nifty Next 50 Index Fund - Direct Plan - Growth Option,21.108
 2026-07-13,148746,Kotak Nifty Next 50 Index Fund - Direct Plan -Payout of Income Distribution cum capital withdrawal option,21.1077
+2026-07-13,148747,Motilal Oswal Multi Asset Passive Fund of Fund - Direct Growth,19.8543
+2026-07-13,148748,Motilal Oswal Multi Asset Passive Fund of Fund - Regular Growth,19.3165
+2026-07-13,148749,Motilal Oswal Asset Allocation FOF- C- Regular Growth,17.4484
+2026-07-13,148750,Motilal Oswal Asset Allocation FOF- C- Direct Growth,17.9347
 2026-07-13,148751,Invesco India ESG Integration Strategy Fund - Direct Plan - Growth,18.34
 2026-07-13,148752,Invesco India ESG Integration Strategy Fund - Direct Plan - IDCW (Payout / Reinvestment),14.96
 2026-07-13,148753,Invesco India ESG Integration Strategy Fund - Regular Plan - Growth,16.88
@@ -4302,6 +4638,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148756,Mirae Asset Corporate Bond Fund Direct IDCW,13.7695
 2026-07-13,148757,Mirae Asset Corporate Bond Fund Regular Growth,13.4554
 2026-07-13,148758,Mirae Asset Corporate Bond Fund Regular IDCW,13.4553
+2026-07-13,148759,SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),24.2299
+2026-07-13,148760,SBI US Specific Equity Active FoF - Direct Plan - Growth,25.1889
+2026-07-13,148761,SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),25.1890
+2026-07-13,148762,SBI US Specific Equity Active FoF- Regular Plan - Growth,24.2307
 2026-07-13,148763,Kotak Nifty IT ETF,32.1661
 2026-07-13,148768,DSP Floater Fund - Regular Plan - Growth,14.0556
 2026-07-13,148769,DSP Floater Fund - Direct Plan - IDCW,14.2637
@@ -4364,6 +4704,9 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148923,quant Quantamental Fund - Growth Option - Regular Plan,25.6144
 2026-07-13,148924,quant Quantamental Fund - IDCW Option - Direct Plan,27.8717
 2026-07-13,148925,quant Quantamental Fund - Growth Option - Direct Plan,27.7193
+2026-07-13,148927,Mirae Asset NYSE FANG + ETF,163.6791
+2026-07-13,148928,Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth,41.742
+2026-07-13,148929,Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth,40.910
 2026-07-13,148934,Axis NIFTY Healthcare ETF,165.8302
 2026-07-13,148943,SBI Nifty Next 50 Index Fund - Regular Plan - Growth,19.5070
 2026-07-13,148944,SBI Nifty Next 50 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),19.5073
@@ -4375,6 +4718,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,148950,Tata Dividend Yield Fund-Regular Plan-IDCW Payout,19.6642
 2026-07-13,148951,Tata Dividend Yield Fund-Direct Plan-IDCW Reinvestment,21.5011
 2026-07-13,148952,Tata Dividend Yield Fund-Direct Plan-IDCW Payout,21.5011
+2026-07-13,148953,Axis Global Innovation Fund of Fund - Regular Plan - Growth,18.74
+2026-07-13,148954,Axis Global Innovation Fund of Fund - Direct Plan - Growth,19.73
+2026-07-13,148955,Axis Global Innovation Fund of Fund - Direct Plan - IDCW,19.72
+2026-07-13,148956,Axis Global Innovation Fund of Fund - Regular Plan - IDCW,18.74
 2026-07-13,148957,ICICI Prudential Nifty Healthcare ETF,167.1871
 2026-07-13,148958,Parag Parikh Conservative Hybrid Fund - Direct Plan - Growth,16.1097
 2026-07-13,148959,Parag Parikh Conservative Hybrid Fund - Regular Plan - Growth,15.8624
@@ -4425,6 +4772,16 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149014,Invesco India Medium Duration Fund - Direct Plan - Quarterly IDCW (Payout / Reinvestment)),1042.628
 2026-07-13,149019,PGIM India Small Cap Fund - Direct Plan- Growth Option,19.15
 2026-07-13,149020,PGIM India Small Cap Fund - Regular Plan - Growth Option,17.64
+2026-07-13,149021,ITI Dynamic Bond Fund - Regular Plan - Growth Option,12.8709
+2026-07-13,149022,ITI Dynamic Bond Fund - Regular Plan - Monthly IDCW Option,10.0806
+2026-07-13,149023,ITI Dynamic Bond Fund - Direct Plan - Monthly IDCWOption,10.2087
+2026-07-13,149024,ITI Dynamic Bond Fund - Regular Plan - Quarterly IDCW Option,12.8744
+2026-07-13,149025,ITI Dynamic Bond Fund - Direct Plan - Quarterly IDCW Option,13.5953
+2026-07-13,149026,ITI Dynamic Bond Fund - Regular Plan - Half Yearly IDCW Option,12.8749
+2026-07-13,149027,ITI Dynamic Bond Fund - Regular Plan - Annually IDCWOption,12.8720
+2026-07-13,149028,ITI Dynamic Bond Fund - Direct Plan - Half Yearly IDCW Option,11.2779
+2026-07-13,149029,ITI Dynamic Bond Fund - Direct Plan - Growth Option,13.5665
+2026-07-13,149030,ITI Dynamic Bond Fund - Direct Plan - Annually IDCW Option,13.5625
 2026-07-13,149031,PGIM India Small Cap Fund - Direct Plan - IDCW Option,15.07
 2026-07-13,149032,PGIM India Small Cap Fund - Regular Plan - IDCW Option,14.35
 2026-07-13,149033,Tata Floating Rate Fund-Direct Plan-IDCW Periodic Dividend Reinvestment,13.8681
@@ -4450,6 +4807,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149053,Axis Floater Fund - Regular Plan - Monthly IDCW,1019.2929
 2026-07-13,149054,Axis Floater Fund - Regular Plan - Daily IDCW,1017.8230
 2026-07-13,149055,Axis Floater Fund - Direct Plan - Annual IDCW,1380.5090
+2026-07-13,149056,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan-Growth,14.5689
+2026-07-13,149058,Kotak Global Innovation Overseas Equity Omni FOF - Regular Plan -IDCW Option,14.5693
+2026-07-13,149059,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan -Growth,15.449
+2026-07-13,149060,Kotak Global Innovation Overseas Equity Omni FOF- Direct Plan - IDCW Option,15.4468
 2026-07-13,149062,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Growth Option,13.6087
 2026-07-13,149063,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Direct Plan - Payout of IDCW Option,13.6105
 2026-07-13,149064,Aditya Birla Sun Life Fixed Term Plan - Series TJ (1838 days) - Regular Plan - Growth Option,13.5461
@@ -4481,6 +4842,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149094,Nippon India Flexi Cap Fund - Direct Plan - Growth Plan - Growth Option,17.9612
 2026-07-13,149095,Nippon India Flexi Cap Fund - Direct Plan - IDCW Option,17.9612
 2026-07-13,149096,Nippon India Flexi Cap Fund - Regular Plan - IDCW Option,16.7756
+2026-07-13,149097,Bandhan US specific Equity Active FOF - IDCW - REGULAR PLAN,19.777
+2026-07-13,149098,Bandhan US specific Equity Active FOF - GROWTH - DIRECT PLAN,20.804
+2026-07-13,149099,Bandhan US specific Equity Active FOF - IDCW - DIRECT PLAN,20.804
+2026-07-13,149100,Bandhan US specific Equity Active FOF - GROWTH - REGULAR PLAN,19.777
 2026-07-13,149101,Mahindra Manulife Flexi Cap Fund - Regular Plan -Growth,15.8927
 2026-07-13,149102,Mahindra Manulife Flexi Cap Fund - Regular Plan -IDCW,12.5811
 2026-07-13,149103,Mahindra Manulife Flexi Cap Fund - Direct Plan -IDCW,13.9653
@@ -4517,10 +4882,15 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149166,Axis Value Fund - Direct Plan - Growth,21.00
 2026-07-13,149167,Axis Value Fund - Regular Plan - Growth,19.63
 2026-07-13,149168,Axis Value Fund - Direct Plan - IDCW,17.66
+2026-07-13,149169,Mirae Asset S&P 500 Top 50 ETF,65.8541
+2026-07-13,149170,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,28.198
+2026-07-13,149171,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth,27.652
 2026-07-13,149172,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth,13.1992
 2026-07-13,149173,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW),13.1992
 2026-07-13,149174,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,13.3038
 2026-07-13,149175,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Income Distribution Capital Withdrawal Option (IDCW),13.3039
+2026-07-13,149180,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,21.704
+2026-07-13,149181,HDFC Developed World Overseas Equity Passive FOF - Growth Option,21.228
 2026-07-13,149182,Kotak Multicap Fund-Regular Plan-Growth,20.301
 2026-07-13,149183,Kotak Multicap Fund- Regular Plan -IDCW Option,18.657
 2026-07-13,149185,Kotak Multicap Fund-Direct Plan-Growth,21.723
@@ -4539,6 +4909,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149201,Aditya Birla Sun Life Nifty SDL Plus PSU Bond SEP 2026 60:40 Index Fund-Regular IDCW,13.1096
 2026-07-13,149208,ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Growth,13.1547
 2026-07-13,149210,ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Direct Plan Growth,13.2751
+2026-07-13,149218,ICICI Prudential NASDAQ 100 Index Fund - Growth,23.8569
+2026-07-13,149219,ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - Growth,24.3983
+2026-07-13,149220,ICICI Prudential NASDAQ 100 Index Fund - IDCW,23.8565
+2026-07-13,149221,ICICI Prudential NASDAQ 100 Index Fund - Direct Plan - IDCW,24.3961
 2026-07-13,149224,ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Annual - IDCW,13.1545
 2026-07-13,149227,ICICI Prudential Nifty PSU Bond Plus SDL Sep 2027 40:60 Index Fund - Direct Plan Annual - IDCW,13.2751
 2026-07-13,149228,Mahindra Manulife Asia Pacific REITs FOF - Regular Plan - Growth,10.7232
@@ -4588,7 +4962,17 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149286,DSP Nifty 50 Equal Weight ETF,342.1779
 2026-07-13,149287,HDFC NIFTY Next 50 Index Fund - Growth Option,16.6939
 2026-07-13,149288,HDFC NIFTY Next 50 Index Fund - Direct Plan - Growth Option,17.0317
+2026-07-13,149289,Aditya Birla Sun Life US Equity Passive FOF-Direct IDCW,23.1615
+2026-07-13,149290,Aditya Birla Sun Life US Equity Passive FOF-Regular Growth,22.7459
+2026-07-13,149291,Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth,23.1584
+2026-07-13,149292,Aditya Birla Sun Life US Equity Passive FOF-Regular IDCW,22.7441
 2026-07-13,149293,Aditya Birla Sun Life Nifty IT ETF,31.7072
+2026-07-13,149294,Aditya Birla Sun Life Business Cycle Fund-Regular IDCW Payout,13.77
+2026-07-13,149295,Aditya Birla Sun Life Business Cycle Fund-Direct Growth,16.68
+2026-07-13,149296,Aditya Birla Sun Life Business Cycle Fund-Regular-Growth,15.74
+2026-07-13,149297,Aditya Birla Sun Life Business Cycle Fund-Direct IDCW Payout,14.6
+2026-07-13,149298,PGIM India Global Select Real Estate Securities Fund of Fund - Direct Plan - Growth Option,14.11
+2026-07-13,149299,PGIM India Global Select Real Estate Securities Fund of Fund - Regular Plan - Growth Option,13.57
 2026-07-13,149302,BANDHAN MULTI CAP FUND - IDCW - REGULAR PLAN,15.327
 2026-07-13,149303,BANDHAN MULTI CAP FUND - GROWTH - DIRECT PLAN,18.859
 2026-07-13,149304,BANDHAN MULTI CAP FUND - IDCW - DIRECT PLAN,16.617
@@ -4668,6 +5052,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149396,Groww Overnight Fund (formerly known as Indiabulls Overnight Fund)- Unclaimed Redemption < 3 Years,1291.9931
 2026-07-13,149397,Kotak Nifty Alpha 50 ETF,51.775
 2026-07-13,149398,BHARAT Bond ETF - April 2032,1350.8719
+2026-07-13,149399,BHARAT Bond ETF FOF - April 2032 Regular Plan Growth,13.4327
+2026-07-13,149400,BHARAT Bond ETF FOF - April 2032 Regular Plan Dividend,13.4327
+2026-07-13,149401,BHARAT Bond ETF FOF - April 2032 Direct Growth,13.4327
+2026-07-13,149402,BHARAT Bond ETF FOF - April 2032 Direct Plan Dividend,13.4327
 2026-07-13,149403,DSP Nifty Midcap 150 Quality 50 ETF,24.8877
 2026-07-13,149404,Mahindra Manulife Balanced Advantage Fund - Regular Plan - Growth,14.8789
 2026-07-13,149405,Mahindra Manulife Balanced Advantage Fund - Regular Plan - IDCW,11.7832
@@ -4685,6 +5073,11 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149431,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Direct Plan - Growth,13.1610
 2026-07-13,149432,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Growth,13.0904
 2026-07-13,149433,SBI Fixed Maturity Plan (FMP) - Series 57 (1835 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),13.0908
+2026-07-13,149438,Motilal Oswal Nasdaq Q50 ETF,118.9313
+2026-07-13,149439,ICICI Prudential Passive Multi-Asset Fund of Funds - Growth,16.6456
+2026-07-13,149440,ICICI Prudential Passive Multi-Asset Fund of Funds - IDCW,16.6457
+2026-07-13,149441,ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - Growth,16.9718
+2026-07-13,149442,ICICI Prudential Passive Multi-Asset Fund of Funds - Direct Plan - IDCW,16.9829
 2026-07-13,149443,Franklin India Overnight Fund- Unclaimed IDCW Plan,12.9404
 2026-07-13,149444,Franklin India Overnight Fund- Unclaimed Redemption Investor EducationPlan,10.0000
 2026-07-13,149445,Franklin India Overnight Fund- Unclaimed IDCW Investor Education Plan,10.0000
@@ -4697,6 +5090,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149452,Union Overnight Fund - Unclaimed Amounts Plan - IDCW Upto 3 years,1295.7723
 2026-07-13,149453,Union Overnight Fund - Unclaimed Amounts Plan - Redemption Beyond 3 years,1000.0000
 2026-07-13,149454,Union Overnight Fund - Unclaimed Amounts Plan - Redemption Upto 3 years,1295.7592
+2026-07-13,149455,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan Growth,28.9118
+2026-07-13,149456,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Growth,27.7293
+2026-07-13,149457,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - IDCW,27.7244
+2026-07-13,149458,ICICI Prudential Strategic Metal and Energy Equity Fund of Fund - Direct Plan IDCW,28.9113
 2026-07-13,149459,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Regular Plan - Growth,13.2118
 2026-07-13,149460,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Growth,13.2812
 2026-07-13,149461,SBI Fixed Maturity Plan (FMP) - Series 58 (1842 Days) - Direct Plan - Income Distribution cum Capital withdrawal option (IDCW),13.2815
@@ -4809,10 +5206,16 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149803,UTI BSE Sensex Index Fund - Direct Plan - Growth Option,14.0135
 2026-07-13,149804,Navi Nifty Bank Index Fund- Direct Plan- Growth,15.322
 2026-07-13,149805,Navi Nifty Bank Index Fund- Regular Plan- Growth,14.8314
+2026-07-13,149814,DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW,21.9034
+2026-07-13,149815,DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW,22.7972
+2026-07-13,149816,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,22.7972
+2026-07-13,149817,DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth,21.9034
 2026-07-13,149826,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936
 2026-07-13,149827,JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan,1073.9936
 2026-07-13,149828,JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan,1389.9772
 2026-07-13,149829,JM Overnight Fund - (Direct) - Unclaimed Redemption - Growth Plan,1384.5852
+2026-07-13,149830,Navi Total Stock Market US Specific Equity Passive FoF- Direct Plan- Growth,22.4798
+2026-07-13,149831,Navi Total Stock Market US Specific Equity Passive FoF- Regular Plan- Growth,22.4798
 2026-07-13,149832,BANDHAN NIFTY 100 INDEX FUND - DIRECT PLAN - GROWTH,15.1374
 2026-07-13,149833,BANDHAN NIFTY 100 INDEX FUND - REGULAR PLAN - GROWTH,14.8130
 2026-07-13,149834,BANDHAN NIFTY 100 INDEX FUND - REGULAR PLAN - IDCW,14.8153
@@ -4865,6 +5268,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149895,Axis Nifty Smallcap 50 Index Fund - Direct Plan - IDCW,20.4869
 2026-07-13,149896,Axis Nifty Smallcap 50 Index Fund - Regular Plan - Growth Option,19.8449
 2026-07-13,149897,Axis Nifty Smallcap 50 Index Fund - Regular Plan - IDCW,19.8452
+2026-07-13,149910,Navi NASDAQ100 US Specific Equity Passive FOF- Direct- Growth,24.9544
+2026-07-13,149911,Navi NASDAQ100 US Specific Equity Passive FOF- Regular- Growth,24.7642
 2026-07-13,149914,Nippon India Fixed Maturity Plan-XLIII-Series 5- Direct Plan-Payout of IDCW,13.4703
 2026-07-13,149915,Nippon India Fixed Maturity Plan-XLIII-Series 5- Regular Plan-Growth Option,13.3534
 2026-07-13,149916,Nippon India Fixed Maturity Plan-XLIII-Series 5- Regular Plan-Payout of IDCW,13.3534
@@ -4885,6 +5290,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,149937,Axis Nifty Midcap 50 Index Fund - Regular Plan - IDCW Option,21.2934
 2026-07-13,149938,Axis Nifty Midcap 50 Index Fund - Regular Plan - Growth Option,21.2934
 2026-07-13,149959,Tata Nifty India Digital Exchange Traded Fund,85.9707
+2026-07-13,149960,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Regular Plan - Growth,26.1191
+2026-07-13,149961,Invesco India - Invesco EQQQ Nasdaq-100 ETF Fund of Fund - Direct Plan - Growth,26.3827
 2026-07-13,149962,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Direct - Payout of IDCW,13.2705
 2026-07-13,149963,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - Growth,13.1677
 2026-07-13,149964,HSBC CRISIL IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund - Regular - payout of IDCW,13.1676
@@ -4990,6 +5397,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,150267,BARODA BNP PARIBAS India Consumption Fund - Regular Plan - IDCW Option,18.5673
 2026-07-13,150268,BARODA BNP PARIBAS India Consumption Fund - Regular Plan - Growth Option,30.1014
 2026-07-13,150269,BARODA BNP PARIBAS India Consumption Fund - Direct Plan - IDCW Option,21.5195
+2026-07-13,150284,Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth,15.7619
+2026-07-13,150285,Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option,16.6515
+2026-07-13,150286,Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option,15.7619
+2026-07-13,150287,Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option,16.6515
 2026-07-13,150308,ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Growth,17.55
 2026-07-13,150309,ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - IDCW,14.76
 2026-07-13,150310,ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Direct Plan Growth,18.46
@@ -5035,6 +5446,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,150386,Baroda BNP Paribas Flexi Cap Fund - Regular Plan - IDCW Option,13.2864
 2026-07-13,150387,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - Growth Option,16.7892
 2026-07-13,150388,Baroda BNP Paribas Flexi Cap Fund - Direct Plan - IDCW Option,14.0215
+2026-07-13,150389,Quantum Nifty 50 ETF FOF - Regular Plan - Growth,14.3406
+2026-07-13,150390,Quantum Nifty 50 ETF FOF - Direct Plan - Growth,14.4086
 2026-07-13,150391,LIC MF Money Market Fund-Direct Plan-IDCW,1287.414
 2026-07-13,150392,LIC MF Money Market Fund-Direct Plan-Growth,1287.414
 2026-07-13,150393,LIC MF Money Market Fund-Regular Plan-Growth,1268.1328
@@ -5152,6 +5565,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,150571,Sundaram Flexicap Fund Direct Growth,15.3810
 2026-07-13,150572,Sundaram Flexicap Fund Direct Plan IDCW Reinvestment,12.7270
 2026-07-13,150573,Sundaram Flexicap Fund Direct Plan IDCW Payout,12.7270
+2026-07-13,150578,Edelweiss Gold and Silver ETF FOF - Direct Plan - IDCW,32.115
+2026-07-13,150579,Edelweiss Gold and Silver ETF FOF - Regular Plan - Growth,31.628
+2026-07-13,150580,Edelweiss Gold and Silver ETF FOF - Regular Plan - IDCW,31.628
+2026-07-13,150581,Edelweiss Gold and Silver ETF FOF - Direct Plan - Growth,32.115
 2026-07-13,150582,WhiteOak Capital Mid Cap Fund Direct Plan IDCW,23.163
 2026-07-13,150583,WhiteOak Capital Mid Cap Fund Regular Plan Growth,21.829
 2026-07-13,150584,WhiteOak Capital Mid Cap Fund Direct Plan Growth,23.163
@@ -5164,6 +5581,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,150591,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - GROWTH - DIRECT PLAN,15.6028
 2026-07-13,150592,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - GROWTH - REGULAR PLAN,15.2326
 2026-07-13,150593,BANDHAN NIFTY200 MOMENTUM 30 INDEX FUND - IDCW - REGULAR PLAN,15.2321
+2026-07-13,150594,Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Regular Plan - Growth,16.597
+2026-07-13,150595,Mirae Asset Global Electric & Autonomous Vehicles Equity Passive FOF - Direct Plan - Growth,16.855
+2026-07-13,150596,Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Regular Plan - Growth,34.288
+2026-07-13,150597,Mirae Asset Global X Artificial Intelligence & Technology ETF Fund of Fund - Direct Plan- Growth,34.500
 2026-07-13,150610,Axis Silver ETF,215.5845
 2026-07-13,150615,Axis Silver Fund of Fund- Direct Plan-Growth Option,37.2516
 2026-07-13,150616,Axis Silver Fund of Fund- Direct Plan - IDCW Option,37.2512
@@ -5219,6 +5640,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,150685,ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND - Direct Plan - Growth,22.03
 2026-07-13,150686,ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND - IDCW,17.84
 2026-07-13,150687,ICICI PRUDENTIAL TRANSPORTATION AND LOGISTICS FUND - Direct Plan - IDCW,18.79
+2026-07-13,150688,Aditya Birla Sun Life Multi-Asset Passive FOF-Direct Growth,17.5851
+2026-07-13,150689,Aditya Birla Sun Life Multi-Asset Passive FOF-Direct IDCW,17.5859
+2026-07-13,150690,Aditya Birla Sun Life Multi-Asset Passive FOF-Regular Growth,17.3725
+2026-07-13,150691,Aditya Birla Sun Life Multi-Asset Passive FOF-Regular IDCW,17.3727
 2026-07-13,150702,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund-Direct Growth,13.2745
 2026-07-13,150703,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL Apr 2028 Index Fund-Regular Growth,13.1983
 2026-07-13,150704,Aditya Birla Sun Life Crisil IBX 50:50 Gilt Plus SDL APR 2028 Index Fund-Direct IDCW,13.2722
@@ -5261,6 +5686,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,150741,Tata Nifty Midcap 150 Momentum 50 Index Fund - Growth - Regular Plan,17.9823
 2026-07-13,150742,Tata Nifty Midcap 150 Momentum 50 Index Fund - IDCW Payout - Regular Plan,17.9823
 2026-07-13,150743,Tata Nifty Midcap 150 Momentum 50 Index Fund - IDCW Reinvestment - Regular Plan,17.9823
+2026-07-13,150748,Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - IDCW,29.5207
+2026-07-13,150749,Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - IDCW,29.9333
+2026-07-13,150750,Axis NASDAQ 100 US Specific Equity Passive FOF - Regular Plan - Growth,29.5208
+2026-07-13,150751,Axis NASDAQ 100 US Specific Equity Passive FOF - Direct Plan - Growth,29.9334
 2026-07-13,150752,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund-Regular Plan-Growth Option,12.9055
 2026-07-13,150753,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund-Direct Plan-IDCW Option,12.9940
 2026-07-13,150754,Nippon India Nifty AAA PSU Bond Plus SDL - Sep 2026 Maturity 50:50 Index Fund-Direct Plan-Growth Option,12.9940
@@ -5369,6 +5798,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,150931,ICICI Prudential Nifty Pharma Index Fund - IDCW,19.4000
 2026-07-13,150948,Kotak Silver ETF,21.0311
 2026-07-13,150987,BHARAT Bond ETF - April 2033,1311.8872
+2026-07-13,150988,BHARAT Bond ETF FOF - April 2033 - Regular Plan - IDCW,13.174
+2026-07-13,150989,BHARAT Bond ETF FOF - April 2033 - Direct Plan - Growth,13.1741
+2026-07-13,150990,BHARAT Bond ETF FOF - April 2033 - Direct Plan - IDCW,13.1741
+2026-07-13,150991,BHARAT Bond ETF FOF - April 2033 - Regular Plan - Growth,13.1741
 2026-07-13,150992,HSBC Corporate Bond Fund - Regular Growth,77.4493
 2026-07-13,150993,HSBC Corporate Bond Fund - Regular Quarterly IDCW,10.8483
 2026-07-13,150994,HSBC Corporate Bond Fund - Regular Semi Annual IDCW,16.6737
@@ -5595,7 +6028,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,151374,HDFC NIFTY Midcap 150 ETF - Growth Option,23.4407
 2026-07-13,151375,HDFC NIFTY Smallcap 250 ETF - Growth Option,182.9145
 2026-07-13,151376,HDFC BSE 500 ETF - Growth Option,37.4507
-2026-07-13,151377,ITI Flexi Cap Fund- Regular Plan- Growth,19.4804
+2026-07-13,151377,ITI Flexi Cap Fund- Regular Plan- Growth,19.4803
 2026-07-13,151378,ITI Flexi Cap Fund- Regular Plan- IDCW,18.8363
 2026-07-13,151379,ITI Flexi Cap Fund- Direct Plan- Growth,20.6448
 2026-07-13,151380,ITI Flexi Cap Fund- Direct Plan- IDCW,19.9965
@@ -5694,6 +6127,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,151531,UTI Long Duration Fund - Regular Plan - Annual IDCW Option,11.0967
 2026-07-13,151532,UTI Long Duration Fund - Regular Plan - Flexi IDCW Option,12.0508
 2026-07-13,151533,Aditya Birla Sun Life CRISIL Liquid Overnight ETF - IDCW Daily Reinvestment with Weekly Payout,1000.0000
+2026-07-13,151546,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - REGULAR PLAN - GROWTH,13.3848
+2026-07-13,151547,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF- REGULAR PLAN- IDCW,13.3848
+2026-07-13,151548,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - GROWTH,13.4110
+2026-07-13,151549,Bandhan US Treasury Bond 0-1 year specific Debt Passive FOF - DIRECT PLAN - IDCW,13.4110
 2026-07-13,151560,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund-Regular Growth,12.7732
 2026-07-13,151561,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund-Regular IDCW,12.7732
 2026-07-13,151562,Aditya Birla Sun Life Nifty SDL SEP 2027 Index Fund-Direct Growth,12.8699
@@ -5712,6 +6149,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,151575,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Direct Plan - IDCW Option,12.0663
 2026-07-13,151576,Baroda BNP Paribas NIFTY SDL December 2028 Index Fund - Regular Plan - Growth Option,12.7328
 2026-07-13,151577,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Direct Growth,12.6176
+2026-07-13,151578,ICICI Prudential Innovation Fund - Direct Plan - IDCW,16.90
+2026-07-13,151579,ICICI Prudential Innovation Fund - Growth,19.24
+2026-07-13,151580,ICICI Prudential Innovation Fund - Direct Plan - Growth,19.96
+2026-07-13,151581,ICICI Prudential Innovation Fund - IDCW,16.22
 2026-07-13,151582,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Regular IDCW,12.5096
 2026-07-13,151583,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Regular Growth,12.5102
 2026-07-13,151584,Aditya Birla Sun Life Crisil IBX Gilt Apr 2028 Index Fund-Direct IDCW,12.6211
@@ -5763,6 +6204,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,151737,DSP Gold ETF,137.2520
 2026-07-13,151738,UTI Nifty 500 Value 50 Index Fund - Regular Plan - Growth Option,22.0044
 2026-07-13,151739,UTI Nifty 500 Value 50 Index Fund - Direct Plan - Growth Option,22.3386
+2026-07-13,151745,WhiteOak Capital Multi Asset Allocation Fund Direct Plan Growth,16.440
+2026-07-13,151746,WhiteOak Capital Multi Asset Allocation Fund Regular Plan Growth,15.836
 2026-07-13,151747,Baroda BNP Paribas Value Fund - Regular Plan - Growth option,13.6796
 2026-07-13,151748,HDFC Defence Fund - IDCW Option,29.209
 2026-07-13,151749,HDFC Defence Fund - IDCW Option - Direct Plan,30.241
@@ -5973,12 +6416,20 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152050,UTI Nifty Midcap 150 Exchange Traded Fund,233.9077
 2026-07-13,152051,Shriram Multi Asset Allocation Fund - Direct Growth,13.7747
 2026-07-13,152052,Shriram Multi Asset Allocation Fund - Regular Growth,13.0882
+2026-07-13,152053,DSP Multi Asset Allocation Fund - Regular - Growth,16.1446
+2026-07-13,152054,DSP Multi Asset Allocation Fund - Regular - IDCW,14.5484
+2026-07-13,152055,DSP Multi Asset Allocation Fund - Direct - IDCW,15.9506
+2026-07-13,152056,DSP Multi Asset Allocation Fund - Direct - Growth,16.7475
 2026-07-13,152057,HDFC Technology Fund - IDCW Option,11.443
 2026-07-13,152058,HDFC Technology Fund - Growth Option,11.443
 2026-07-13,152059,HDFC Technology Fund - Growth Option - Direct Plan,11.839
 2026-07-13,152060,HDFC Technology Fund - IDCW Option - Direct Plan,11.839
 2026-07-13,152061,NAVI BSE SENSEX INDEX FUND - REGULAR PLAN - GROWTH,11.8541
 2026-07-13,152062,NAVI BSE SENSEX INDEX FUND - DIRECT PLAN - GROWTH,12.0856
+2026-07-13,152063,Kotak Multi Asset Allocation Fund - Direct Plan - IDCW Option,15.47
+2026-07-13,152064,Kotak Multi Asset Allocation Fund - Direct Plan - Growth Option,16.44
+2026-07-13,152065,Kotak Multi Asset Allocation Fund - Regular Plan - Growth Option,15.828
+2026-07-13,152066,Kotak Multi Asset Allocation Fund - Regular Plan - IDCW Option,14.896
 2026-07-13,152067,quant Teck Fund - Growth Option - Direct Plan,11.9617
 2026-07-13,152068,quant Teck Fund - IDCW Option - Direct Plan,11.9554
 2026-07-13,152069,quant Teck Fund - IDCW Option - Regular Plan,11.4359
@@ -6001,6 +6452,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152087,UTI Innovation Fund - Direct Plan - Growth Option,11.9768
 2026-07-13,152088,UTI Innovation Fund - Regular Plan - Payout of IDCW Option,11.5199
 2026-07-13,152089,UTI Innovation Fund - Direct Plan - Payout of IDCW Option,11.9768
+2026-07-13,152090,Motilal Oswal Developed Market Ex US ETFs Fund of Funds Direct Plan Growth,18.3050
+2026-07-13,152091,Motilal Oswal Developed Market Ex US ETFs Fund of Funds Regular Plan Growth,18.0446
 2026-07-13,152092,Groww Nifty Total Market Index Fund - Direct Plan - Growth,14.0503
 2026-07-13,152093,Edelweiss Multi Cap Fund - Direct Plan - IDCW,15.8772
 2026-07-13,152094,Edelweiss Multi Cap Fund - Direct Plan - Growth,16.3839
@@ -6035,6 +6488,14 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152136,Helios Flexi Cap Fund - Regular Plan - Growth Option,15.61
 2026-07-13,152137,Helios Flexi Cap Fund - Regular Plan - IDCW Option,15.61
 2026-07-13,152138,Helios Flexi Cap Fund - Direct Plan - IDCW Option,16.22
+2026-07-13,152139,Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct IDCW Payout,12.8595
+2026-07-13,152140,Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Direct Growth,12.8595
+2026-07-13,152142,Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular Growth,12.8433
+2026-07-13,152144,Aditya Birla Sun Life US Treasury 1-3 Year Bond ETFs Fund Of Funds-Regular IDCW,12.8421
+2026-07-13,152145,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Direct IDCW,13.0424
+2026-07-13,152147,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Regular Growth,13.0243
+2026-07-13,152149,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Regular IDCW,13.0243
+2026-07-13,152150,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Direct Growth,13.0424
 2026-07-13,152151,Helios Overnight Fund - Direct Plan - Daily IDCW Option,1000.0000
 2026-07-13,152152,Helios Overnight Fund - Direct Plan - Growth Option,1171.8092
 2026-07-13,152153,Helios Overnight Fund - Regular Plan - Growth Option,1170.2283
@@ -6104,6 +6565,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152234,Motilal Oswal Small Cap Fund - Regular - IDCW,16.4697
 2026-07-13,152235,Motilal Oswal Small Cap Fund - Direct IDCW,17.0364
 2026-07-13,152237,Motilal Oswal Small Cap Fund - Direct - Growth,17.0364
+2026-07-13,152238,Axis US Specific Treasury Dynamic Debt Passive FOF - Regular Plan - IDCW Option,12.2687
+2026-07-13,152239,Axis US Specific Treasury Dynamic Debt Passive FOF - Regular Plan - Growth Option,12.2688
+2026-07-13,152240,Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - Growth Option,12.2843
+2026-07-13,152241,Axis US Specific Treasury Dynamic Debt Passive FOF - Direct Plan - IDCW Option,12.2832
 2026-07-13,152242,DSP Nifty Smallcap250 Quality 50 Index Fund - Regular - IDCW,10.4556
 2026-07-13,152243,DSP Nifty Smallcap250 Quality 50 Index Fund - Direct - Growth,11.2551
 2026-07-13,152244,DSP Nifty Smallcap250 Quality 50 Index Fund - Direct - IDCW,11.2551
@@ -6155,6 +6620,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152316,Sundaram Multi Asset Allocation Fund Direct Plan IDCW Payout,13.6038
 2026-07-13,152321,WhiteOak Capital Banking & Financial Services Fund - Direct Growth,13.804
 2026-07-13,152322,WhiteOak Capital Banking & Financial Services Fund - Regular Growth,13.239
+2026-07-13,152323,Bandhan Multi Asset Allocation Fund - Direct Plan - IDCW,13.7652
+2026-07-13,152324,Bandhan Multi Asset Allocation Fund - Direct Plan - Growth,14.6757
+2026-07-13,152325,Bandhan Multi Asset Allocation Fund - Regular Plan - IDCW,13.2617
+2026-07-13,152326,Bandhan Multi Asset Allocation Fund - Regular Plan - Growth,14.1389
 2026-07-13,152327,Zerodha Nifty 1D Rate Liquid ETF - Growth Option,114.9730
 2026-07-13,152328,Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - IDCW option,11.3074
 2026-07-13,152329,Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - Growth option,11.4153
@@ -6239,6 +6708,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152433,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Growth,11.9648
 2026-07-13,152434,Groww Nifty Smallcap 250 Index Fund - Regular Plan - Regular Plan - IDCW,11.9504
 2026-07-13,152436,Groww Nifty Smallcap 250 Index Fund - Direct Plan - IDCW,12.1234
+2026-07-13,152437,Edelweiss Technology Fund - Direct Plan - Growth,12.6063
+2026-07-13,152438,Edelweiss Technology Fund - Direct Plan - IDCW,12.6063
+2026-07-13,152439,Edelweiss Technology Fund - Regular Plan - Growth,12.1078
+2026-07-13,152440,Edelweiss Technology Fund - Regular Plan - IDCW,12.1078
 2026-07-13,152441,Mahindra Manulife Multi Asset Allocation Fund- Regular Plan - Growth,13.7395
 2026-07-13,152443,Mahindra Manulife Multi Asset Allocation Fund- Direct Plan - Growth,14.2685
 2026-07-13,152444,Mahindra Manulife Multi Asset allocation Fund - Regular Plan - IDCW,12.9068
@@ -6252,6 +6725,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152457,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - Growth,10.430
 2026-07-13,152458,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Regular Plan - IDCW,10.432
 2026-07-13,152459,Mirae Asset Nifty Smallcap 250 Momentum Quality 100 ETF Fund of Fund - Direct Plan - Growth,10.553
+2026-07-13,152460,Kotak Technology Fund - Regular Plan - Growth Option,9.95
+2026-07-13,152461,Kotak Technology Fund - Regular Plan - IDCW Option,9.951
+2026-07-13,152462,Kotak Technology Fund - Direct Plan - Growth Option,10.298
+2026-07-13,152463,Kotak Technology Fund - Direct Plan - IDCW Option,10.298
 2026-07-13,152464,Parag Parikh Dynamic Asset Allocation Fund - Regular Plan Growth,11.7618
 2026-07-13,152467,Parag Parikh Dynamic Asset Allocation Fund - Regular Plan - Monthly IDCW Reinvestment,10.0877
 2026-07-13,152468,Parag Parikh Dynamic Asset Allocation Fund - Direct Plan Growth,11.8484
@@ -6262,6 +6739,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152473,Baroda BNP Paribas Innovation Fund Regular plan - IDCW Option,13.3053
 2026-07-13,152474,Quantum Multi Asset Allocation Fund - Direct Plan Growth Option,12.22
 2026-07-13,152475,Quantum Multi Asset Allocation Fund - Regular Plan Growth Option,11.77
+2026-07-13,152476,Zerodha Gold ETF,22.2193
 2026-07-13,152481,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Growth,12.4066
 2026-07-13,152482,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth,12.5617
 2026-07-13,152483,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Direct Plan - IDCW,12.5617
@@ -6280,6 +6758,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,152520,Bandhan Long Duration Fund - Direct Plan - Growth,11.5570
 2026-07-13,152521,HDFC NIFTY Realty Index Fund - Direct Plan,10.502
 2026-07-13,152522,HDFC NIFTY Reality Index Fund - Regular Plan,10.387
+2026-07-13,152527,DSP US Specific Debt Passive FoF - Regular - Growth,12.5693
+2026-07-13,152528,DSP US Specific Debt Passive FoF - Direct - Growth,12.5839
+2026-07-13,152529,DSP US Specific Debt Passive FoF - Direct - IDCW,12.5839
+2026-07-13,152530,DSP US Specific Debt Passive FoF - Regular - IDCW,12.5693
 2026-07-13,152535,Navi NiftyIT Index Fund - Direct Plan- Growth,8.646
 2026-07-13,152536,Navi NiftyIT Index Fund - Regular Plan -Growth,8.5049
 2026-07-13,152537,PGIM India Retirement Fund - Direct Plan - Growth Option,12.68
@@ -6782,6 +7264,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,153089,UTI Nifty Midcap 150 Index Fund - Direct Plan - Growth Option,11.1086
 2026-07-13,153090,Samco Arbitrage Fund - Direct Plan - Growth,10.88
 2026-07-13,153091,Samco Arbitrage Fund - Regular Plan - Growth,10.68
+2026-07-13,153092,Samco Multi Asset Allocation Fund - Direct Plan - Growth,12.40
+2026-07-13,153093,Samco Multi Asset Allocation Fund - Regular Plan - Growth,12.09
 2026-07-13,153094,Quantum Ethical Fund - Direct Plan Growth Option,9.95
 2026-07-13,153095,Quantum Ethical Fund - Regular Plan Growth Option,9.74
 2026-07-13,153096,HDFC Nifty India Digital Index Fund - Growth Option - Regular,8.2631
@@ -7076,6 +7560,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,153410,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Annual IDCW,10.9605
 2026-07-13,153411,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth,10.9605
 2026-07-13,153412,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Annual IDCW,10.9397
+2026-07-13,153413,Zerodha Silver ETF,21.9679
 2026-07-13,153414,Axis Nifty500 Value 50 ETF,32.9253
 2026-07-13,153415,360 ONE Silver ETF,213.3356
 2026-07-13,153416,Edelweiss Low Duration Fund - Direct Plan Growth,1094.3708
@@ -7346,6 +7831,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,153709,Groww Nifty 50 Index Fund Direct IDCW,9.7001
 2026-07-13,153710,Groww Nifty 50 Index Fund Regular Growth,9.6342
 2026-07-13,153711,Groww Nifty 50 Index Fund Regular IDCW,9.6343
+2026-07-13,153712,Edelweiss Income Plus Arbitrage Active Fund of Funds - Direct Plan Growth,10.5478
+2026-07-13,153713,Edelweiss Income Plus Arbitrage Active Fund of Funds - Regular-Growth,10.5219
+2026-07-13,153714,Edelweiss Income Plus Arbitrage Active Fund of Fund - Regular - Dividend- Payout,10.5219
+2026-07-13,153715,Edelweiss Income Plus Arbitrage Active Fund of Funds - Direct-Dividend-Payout,10.5478
 2026-07-13,153716,SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Growth,10.1449
 2026-07-13,153717,SBI Nifty100 Low Volatility 30 Index Fund- Regular Plan- Income Cum Distribution Capital Withdrawal Option (IDCW),10.1449
 2026-07-13,153718,SBI Nifty100 Low Volatility 30 Index Fund- Direct Plan- Growth,10.1830
@@ -7392,6 +7881,14 @@ date,scheme_code,scheme_name,nav
 2026-07-13,153769,BAJAJ FINSERV EQUITY SAVINGS FUND - REGULAR - GROWTH,10.366
 2026-07-13,153770,BAJAJ FINSERV EQUITY SAVINGS FUND -  DIRECT - IDCW,10.465
 2026-07-13,153771,BAJAJ FINSERV EQUITY SAVINGS FUND - REGULAR - IDCW,10.366
+2026-07-13,153772,360 ONE Multi Asset Allocation Fund - Regular Plan - Growth,12.0769
+2026-07-13,153773,360 ONE Multi Asset Allocation Fund - Direct Plan - IDCW,12.2515
+2026-07-13,153774,360 ONE Multi Asset Allocation Fund - Direct Plan - Growth,12.2515
+2026-07-13,153775,360 ONE Multi Asset Allocation Fund - Regular Plan - IDCW,12.0769
+2026-07-13,153776,Edelweiss Multi Asset Omni Fund of Fund- Direct Plan - Growth,11.4412
+2026-07-13,153777,Edelweiss Multi Asset Omni Fund of Fund- Direct Plan - IDCW,11.4412
+2026-07-13,153778,Edelweiss Multi Asset Omni Fund of Fund- Regular Plan - IDCW,11.3124
+2026-07-13,153779,Edelweiss Multi Asset Omni Fund of Fund- Regular Plan - Growth,11.3124
 2026-07-13,153780,Motilal Oswal Gold ETF,139.8006
 2026-07-13,153781,Kotak Nifty Alpha 50 Index Fund - Direct Plan - Growth,10.493
 2026-07-13,153782,Kotak Nifty Alpha 50 Index Fund - Direct Plan - IDCW - Payout & Reinvestment,10.493
@@ -7426,16 +7923,25 @@ date,scheme_code,scheme_name,nav
 2026-07-13,153813,Mirae Asset Gold Silver Passive FoF - Direct Plan - IDCW,15.856
 2026-07-13,153814,Mirae Asset Gold Silver Passive FoF - Regular Plan - Growth,15.775
 2026-07-13,153815,Mirae Asset Gold Silver Passive FoF - Regular Plan - IDCW,15.771
+2026-07-13,153816,Mirae Asset Multi Factor Passive FOF - Direct Plan - Growth,10.788
+2026-07-13,153817,Mirae Asset Multi Factor Passive FOF - Direct Plan - IDCW,10.786
+2026-07-13,153818,Mirae Asset Multi Factor Passive FOF - Regular Plan - Growth,10.739
+2026-07-13,153819,Mirae Asset Multi Factor Passive FOF - Regular Plan - IDCW,10.721
 2026-07-13,153820,Motilal Oswal Silver ETF,214.4828
 2026-07-13,153821,Groww Multi Asset Allocation Fund Direct Growth,10.2674
 2026-07-13,153822,Union Diversified Equity All Cap Active FOF - Regular Plan - Growth Option,10.6074
 2026-07-13,153823,Union Diversified Equity All Cap Active FOF - Regular Plan - IDCW Option,10.6074
 2026-07-13,153824,Union Diversified Equity All Cap Active FOF - Direct Plan - Growth Option,10.6922
 2026-07-13,153825,Union Diversified Equity All Cap Active FOF - Direct Plan - IDCW Option,10.6922
+2026-07-13,153826,ANGEL ONE GOLD ETF,13.2013
 2026-07-13,153827,ANGEL ONE GOLD ETF FOF- DIRECT GROWTH,12.8992
 2026-07-13,153828,ANGEL ONE GOLD ETF FOF - REGULAR GROWTH,12.8452
 2026-07-13,153829,Axis Nifty500 Quality 50 Index Fund - Direct Plan - Growth Option,10.2529
 2026-07-13,153830,Axis Nifty500 Quality 50 Index Fund - Regular Plan - Growth Option,10.1809
+2026-07-13,153831,SBI Dynamic Asset Allocation Active FoF - Regular Plan - Growth,10.2185
+2026-07-13,153832,SBI Dynamic Asset Allocation Active FoF - Direct Plan - Growth,10.3059
+2026-07-13,153833,SBI Dynamic Asset Allocation Active FoF- Direct Plan- Income Cum Distribution Capital Withdrawal Option,10.3052
+2026-07-13,153834,SBI Dynamic Asset Allocation Active FoF - Regular Plan - Income Distribution Cum Capital Withdrawal Option,10.2185
 2026-07-13,153837,Zerodha Nifty Smallcap 100 ETF,11.0179
 2026-07-13,153838,Bandhan BSE India Sector Leaders Index Fund - Direct Plan - Growth,9.7093
 2026-07-13,153839,Bandhan BSE India Sector Leaders Index Fund - Regular Plan - Growth,9.6513
@@ -7518,6 +8024,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,153921,Kotak Gold Silver Passive FOF - Direct Plan - Growth,14.303
 2026-07-13,153922,Kotak Gold Silver Passive FOF - Regular Plan - Growth,14.273
 2026-07-13,153923,Groww Nifty Smallcap250 ETF,10.4767
+2026-07-13,153924,Axis Income Plus Arbitrage Passive FOF - Direct Plan - Growth Option,10.4177
+2026-07-13,153925,Axis Income Plus Arbitrage Passive FOF - Direct Plan - IDCW Option,10.4177
+2026-07-13,153926,Axis Income Plus Arbitrage Passive FOF - Regular Plan - IDCW Option,10.3941
+2026-07-13,153927,Axis Income Plus Arbitrage Passive FOF - Regular Plan - Growth Option,10.3979
 2026-07-13,153928,Motilal Oswal Nifty 100 ETF,25.3753
 2026-07-13,153929,Bandhan Silver ETF,217.6184
 2026-07-13,153930,Bandhan Gold ETF,141.2091
@@ -7550,6 +8060,12 @@ date,scheme_code,scheme_name,nav
 2026-07-13,153957,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF,10.0742
 2026-07-13,153958,HDFC BSE India Sector Leaders Index Fund - Regular Plan - Growth Option,9.49
 2026-07-13,153959,HDFC BSE India Sector Leaders India Fund - Direct Plan - Growth Option,9.5207
+2026-07-13,153960,Axis Multi-Asset Active FoF - Direct Plan - Growth,10.6263
+2026-07-13,153961,Axis Multi-Asset Active FoF - Direct Plan - IDCW,10.6263
+2026-07-13,153962,Axis Multi-Asset Active FoF - Regular Plan - IDCW,10.5556
+2026-07-13,153963,Axis Multi-Asset Active FoF - Regular Plan - Growth,10.5556
+2026-07-13,153964,Parag Parikh Flexi Cap Fund - Direct Plan - IDCW,91.3165
+2026-07-13,153965,Parag Parikh Flexi Cap Fund - Regular Plan - IDCW,83.2745
 2026-07-13,153966,Edelweiss Nifty 50 ETF - Growth,24.3598
 2026-07-13,153967,Kotak Rural Opportunities Fund - Direct Plan - IDCW Divdend - Payouout & Reinvestment,9.804
 2026-07-13,153968,Kotak Rural Opportunities Fund - Regular Plan - IDCW Dividend - Payout & Reinvestment,9.708
@@ -7603,6 +8119,7 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154025,DSP Nifty Midcap 150 ETF,23.1976
 2026-07-13,154026,Navi Nifty Midsmall 400 Index Fund - Regular - Growth,10.7607
 2026-07-13,154027,Navi Nifty midsmallcap 400 Index Fund- Direct - Growth,10.8147
+2026-07-13,154028,Groww Multi Asset Omni FOF Direct Growth,10.3779
 2026-07-13,154029,Kotak Nifty500 Momentum 50 Index Fund - Direct Plan - IDCW - Payout & Investment,10.078
 2026-07-13,154030,Kotak Nifty500 Momentum 50 Index Fund - Regular Plan - Growth,10.059
 2026-07-13,154031,Kotak Nifty500 Momentum 50 Index Fund - Regular Plan - IDCW - Payout & Reinvestment,10.059
@@ -7623,6 +8140,9 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154054,Abakkus Liquid Fund - Regular Plan - Quarterly IDCW Reinvestment,101.6914
 2026-07-13,154055,Abakkus Liquid Fund - Direct Plan - Monthly IDCW Reinvestment,100.5596
 2026-07-13,154056,Abakkus Liquid Fund - Regular Plan - Weekly IDCW Reinvestment,100.0623
+2026-07-13,154057,Groww Multi Asset Omni FOF Regular Growth,10.3133
+2026-07-13,154058,Groww Multi Asset Omni FOF Direct IDCW,10.3779
+2026-07-13,154059,Groww Multi Asset Omni FOF Regular IDCW,10.3133
 2026-07-13,154060,Mirae Asset Nifty Top 20 Equal Weight ETF,8.8025
 2026-07-13,154061,Mirae Asset BSE 500 Dividend Leaders 50 ETF,35.1897
 2026-07-13,154062,Motilal Oswal Nifty MNC ETF,32.3132
@@ -7634,6 +8154,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154068,Tata BSE Multicap Consumption 50:30:20 Index Fund - Direct Plan IDCW Reinvestment Option,9.7295
 2026-07-13,154069,Tata BSE Multicap Consumption 50:30:20 Index Fund - Direct Plan IDCW Payout Option,9.7295
 2026-07-13,154070,JioBlackRock Overnight Fund - Unclaimed Redemption - Upto 3 years - Growth Option,1031.9113
+2026-07-13,154072,Edelweiss Silver ETF Fund of Fund - Direct Plan Growth Option,9.4559
+2026-07-13,154075,Edelweiss Silver ETF Fund of Fund - Regular Plan Growth Option,9.4327
 2026-07-13,154076,JioBlackRock Arbitrage Fund - Direct Plan - Growth Option,10.3984
 2026-07-13,154077,Axis Gold and Silver Passive FOF - Regular Plan - Growth,10.2706
 2026-07-13,154078,Axis Gold and Silver Passive FOF - Direct Plan - Growth,10.2935
@@ -7676,6 +8198,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154120,Mahindra Manulife Innovation Opportunities Fund - Regular - Growth,10.9254
 2026-07-13,154121,Mahindra Manulife Innovation Opportunities Fund - Direct - Growth,11.0161
 2026-07-13,154122,Mahindra Manulife Innovation Opportunities Fund - Direct - IDCW,11.0161
+2026-07-13,154123,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-Growth,10.3231
+2026-07-13,154124,Sundaram Income Plus Arbitrage Active FoF Fund-Direct-IDCW Payout,10.3231
+2026-07-13,154125,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-IDCW Payout,10.3093
+2026-07-13,154127,Sundaram Income Plus Arbitrage Active FoF Fund-Regular-Growth,10.3093
 2026-07-13,154129,Bandhan Gold ETF FOF-Direct-Growth,9.2638
 2026-07-13,154130,Bandhan Gold ETF FOF-Regular-Growth,9.2430
 2026-07-13,154131,THE WEALTH COMPANY GOLD ETF FOF DIRECT GROWTH,8.9728
@@ -7710,12 +8236,20 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154162,WhiteOak Capital Consumption Opportunities Fund Regular Plan Growth,10.192
 2026-07-13,154163,Groww Nifty PSE ETF,99.7926
 2026-07-13,154164,Groww Nifty PSE ETF FOF Direct Growth,9.602
+2026-07-13,154165,DSP Multi Asset Omni Fund of Funds - Regular - Growth,10.0104
+2026-07-13,154166,DSP Multi Asset Omni Fund of Funds - Direct - IDCW,10.0402
+2026-07-13,154167,DSP Multi Asset Omni Fund of Funds - Direct - Growth,10.0402
+2026-07-13,154168,DSP Multi Asset Omni Fund of Funds - Regular - IDCW,10.0104
 2026-07-13,154169,Mirae Asset Nifty 500 Healthcare ETF,21.1592
 2026-07-13,154170,Axis BSE India Sectors Leaders Index Fund- Regular Plan- Growth Option,9.5918
 2026-07-13,154171,Axis BSE India Sectors Leaders Index Fund- Direct Plan- Growth Option,9.6243
 2026-07-13,154172,Groww Nifty PSE ETF FOF Direct IDCW,9.602
 2026-07-13,154173,Groww Nifty PSE ETF FOF Regular Growth,9.5904
 2026-07-13,154174,Groww Nifty PSE ETF FOF Regular IDCW,9.5904
+2026-07-13,154175,SBI Quality Fund - Regular Plan - Growth,10.4136
+2026-07-13,154176,SBI Quality Fund - Regular Plan - Income Distribution Cum Capital Withdrawal,10.4136
+2026-07-13,154177,SBI Quality Fund - Direct Plan - Growth,10.4631
+2026-07-13,154178,SBI Quality Fund - Direct Plan - Income Distribution Cum Capital Withdrawal,10.4631
 2026-07-13,154179,HDFC Nifty India Consumption Index Fund - Direct Growth Plan,9.8027
 2026-07-13,154180,HDFC Nifty India Consumption Index  Fund - Regular Growth Plan,9.7847
 2026-07-13,154181,Mirae Asset Nifty India Infrastructure & Logistics ETF,12.2991
@@ -7740,10 +8274,15 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154202,Bajaj Finserv Low Duration Fund - Direct - IDCW,1026.3249
 2026-07-13,154203,Bajaj Finserv Low Duration Fund - Regular - Growth,1023.1747
 2026-07-13,154204,Bajaj Finserv Low Duration Fund - Direct - Growth,1026.3249
+2026-07-13,154205,ANGEL ONE SILVER ETF,8.2942
 2026-07-13,154206,ANGEL ONE SILVER ETF FOF -DIRECT GROWTH,7.5457
 2026-07-13,154207,ANGEL ONE SILVER ETF FOF -REGULAR GROWTH,7.5317
+2026-07-13,154208,Edelweiss Gold ETF Fund of Fund Direct Plan Growth Option,8.7856
+2026-07-13,154209,Edelweiss Gold ETF Fund of Fund Regular Plan Growth Option,8.7701
 2026-07-13,154210,TRUSTMF MID CAP FUND -DIRECT -GROWTH,11.97
 2026-07-13,154211,TRUSTMF MID CAP FUND -REGULAR-GROWTH,11.90
+2026-07-13,154212,Capitalmind Multi Asset Allocation Fund-Direct-IDCW,9.8788
+2026-07-13,154213,Capitalmind Multi Asset Allocation Fund-Regular-IDCW,9.8307
 2026-07-13,154214,Abakkus Small Cap Fund - Regular  Plan - Growth,12.3120
 2026-07-13,154215,Abakkus Small Cap Fund - Direct Plan - Growth,12.3660
 2026-07-13,154216,Mirae Asset Nifty Metal ETF FOF - Direct Plan - Growth,10.171
@@ -7759,6 +8298,8 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154226,Old Bridge Flexi Cap Fund Regular Growth,11.11
 2026-07-13,154227,Old Bridge Flexi Cap Fund Regular IDCW,11.11
 2026-07-13,154228,Old Bridge Flexi Cap Fund Direct IDCW,11.17
+2026-07-13,154231,Capitalmind Multi Asset Allocation Fund-Regular-Growth,9.8307
+2026-07-13,154232,Capitalmind Multi Asset Allocation Fund-Direct-Growth,9.8788
 2026-07-13,154233,Capitalmind Arbitrage Fund-regular-Growth,10.1696
 2026-07-13,154234,Capitalmind Arbitrage Fund-Direct-IDCW,10.1959
 2026-07-13,154235,Capitalmind Arbitrage Fund-Regular-IDCW,10.1697
@@ -7808,7 +8349,15 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154283,Groww Nifty PSU Bank Index Fund Direct IDCW,10.1011
 2026-07-13,154284,Groww Nifty PSU Bank Index Fund Regular Growth,10.0854
 2026-07-13,154285,Groww Nifty PSU Bank Index Fund Regular IDCW,10.0854
+2026-07-13,154286,Kotak Quality Overseas Equity Omni FOF - Regular Plan - Growth,11.127
+2026-07-13,154287,Kotak Quality Overseas Equity Omni FOF - Direct Plan - Growth-,11.15
+2026-07-13,154288,Kotak Quality Overseas Equity Omni FOF - Direct Plan - IDCW,11.15
+2026-07-13,154289,Kotak Quality Overseas Equity Omni FOF - Regular Plan - IDCW,11.127
 2026-07-13,154294,HSBC Gold ETF,123.0165
+2026-07-13,154295,HSBC Gold ETF Fund of fund - Direct Growth,9.7637
+2026-07-13,154296,HSBC Gold ETF Fund of fund - Regular IDCW,9.7525
+2026-07-13,154297,HSBC Gold ETF Fund of fund - Direct IDCW,9.7637
+2026-07-13,154298,HSBC Gold ETF Fund of fund - Regular Growth,9.7526
 2026-07-13,154299,Mirae Asset Nifty 500 Value 50 ETF,16.1726
 2026-07-13,154301,Choice Nifty 50 Index Fund - Direct Plan Growth,10.4698
 2026-07-13,154302,Choice Nifty 50 Index Fund - Regular Plan Growth,10.4615
@@ -7825,6 +8374,10 @@ date,scheme_code,scheme_name,nav
 2026-07-13,154313,Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund Regular Plan Monthly IDCW,10.8498
 2026-07-13,154314,Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund - Direct Plan - Quarterly IDCW,10.8695
 2026-07-13,154315,Edelweiss Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70-30 Index Fund - Regular Plan - Quarterly IDCW,10.8499
+2026-07-13,154316,Kotak Multi Asset Active FOF - Direct - Growth,10.145
+2026-07-13,154317,Kotak Multi Asset Active FOF - Direct - IDCW,10.145
+2026-07-13,154318,Kotak Multi Asset Active FOF - Regular- IDCW,10.129
+2026-07-13,154319,Kotak Multi Asset Active FOF - Regular - Growth,10.129
 2026-07-13,154320,Groww Arbitrage Fund Direct Growth,10.1275
 2026-07-13,154321,Zerodha Nifty LargeMidcap250 Plus 8-13 Yr G-Sec 70:30 Index Fund - Direct Plan - Growth Option,10.2550
 2026-07-13,154322,Motilal Oswal BSE Top 10 Banks ETF,17.4522
