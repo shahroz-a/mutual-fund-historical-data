@@ -1,16 +1,16 @@
 {
-  "as_of": "2026-08-07",
+  "as_of": "2026-08-09",
   "files": [
     {
-      "date_max": "2026-08-07",
+      "date_max": "2026-08-09",
       "date_min": "2006-04-03",
       "exists": true,
       "invalid_rows": 0,
       "issues": {},
       "path": "data/latest.csv",
       "rows": 37463,
-      "sha256": "9294e45603f5c515519819b560ee50d9e5b178e45164add5ff76295909949b05",
-      "size_bytes": 3416539,
+      "sha256": "fbb5c5a1dff6c9fe767c02f15db2832acb8fc4f999020764e38110b01617a1df",
+      "size_bytes": 3416614,
       "unique_scheme_codes": 37463,
       "valid_rows": 37463,
       "warnings": {}
@@ -104070,27 +104070,55 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/08/07.csv",
-      "rows": 127,
-      "sha256": "db147fc3b687deac07dcd8a5e46751cafa5a55cf10eb2769e17b657492c45fbf",
-      "size_bytes": 10700,
-      "unique_scheme_codes": 127,
-      "valid_rows": 127,
+      "rows": 8484,
+      "sha256": "283f999e660782e8463bdde3a095d0e94bb4926fa4ccee9b4d2decac0afc0254",
+      "size_bytes": 734756,
+      "unique_scheme_codes": 8484,
+      "valid_rows": 8484,
+      "warnings": {}
+    },
+    {
+      "date_max": "2026-08-08",
+      "date_min": "2026-08-08",
+      "exists": true,
+      "invalid_rows": 0,
+      "issues": {},
+      "path": "data/Year/2026/08/08.csv",
+      "rows": 585,
+      "sha256": "1080f55fe543059cfdc16cdf662989aed0777716e40ab5a1d0ca90c742800179",
+      "size_bytes": 50821,
+      "unique_scheme_codes": 585,
+      "valid_rows": 585,
+      "warnings": {}
+    },
+    {
+      "date_max": "2026-08-09",
+      "date_min": "2026-08-09",
+      "exists": true,
+      "invalid_rows": 0,
+      "issues": {},
+      "path": "data/Year/2026/08/09.csv",
+      "rows": 691,
+      "sha256": "4d545a41fab7b2011a934635051d6346c7374e505e1dced0caf71aa31bdead7d",
+      "size_bytes": 60212,
+      "unique_scheme_codes": 691,
+      "valid_rows": 691,
       "warnings": {}
     }
   ],
-  "generated_at": "2026-08-07T16:30:12+00:00",
+  "generated_at": "2026-08-09T16:05:35+00:00",
   "issues": {},
   "status": "passed",
   "summary": {
-    "date_max": "2026-08-07",
+    "date_max": "2026-08-09",
     "date_min": "2006-04-01",
-    "files": 7434,
-    "historical_rows": 36746236,
+    "files": 7436,
+    "historical_rows": 36755869,
     "invalid_rows": 0,
     "latest_rows": 37463,
-    "rows": 36783699,
+    "rows": 36793332,
     "unique_scheme_codes": 37463,
-    "valid_rows": 36783699
+    "valid_rows": 36793332
   },
   "warnings": {}
 }
