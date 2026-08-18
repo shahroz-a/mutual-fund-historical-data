@@ -73,7 +73,7 @@ date,scheme_code,scheme_name,nav
 2026-08-15,111644,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,1153.1830
 2026-08-15,111645,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,1156.7893
 2026-08-15,111646,Mirae Asset Liquid Fund - Regular Plan - Growth,2930.4847
-2026-08-15,111647,Mirae Asset Liquid Fund - Regular - Daily IDCW,1066.4347
+2026-08-15,111647,Mirae Asset Liquid Fund - Regular Plan - Daily IDCW,1066.4347
 2026-08-15,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,3213.7177
 2026-08-15,111705,Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION,1001.2509
 2026-08-15,111707,Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION,1001.1996
@@ -120,8 +120,8 @@ date,scheme_code,scheme_name,nav
 2026-08-15,118700,NIPPON INDIA LIQUID FUND - DIRECT Plan - WEEKLY IDCW OPTION,1531.1226
 2026-08-15,118701,Nippon India Liquid Fund - Direct Plan Growth Plan - Growth Option,6923.1265
 2026-08-15,118859,Mirae Asset Liquid Fund - Direct Plan - Growth,2984.6250
-2026-08-15,118860,Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW,1139.1385
-2026-08-15,118861,Mirae Asset Liquid Fund - Direct Plan -Daily IDCW,1075.8332
+2026-08-15,118860,Mirae Asset Liquid Fund - Direct Plan - Monthly IDCW,1139.1385
+2026-08-15,118861,Mirae Asset Liquid Fund - Direct Plan - Daily IDCW,1075.8332
 2026-08-15,118862,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,1216.8813
 2026-08-15,118901,HSBC Liquid Fund - Regular Daily IDCW,1001.5404
 2026-08-15,118902,HSBC Liquid Fund - Regular Growth,2787.9925
@@ -409,14 +409,14 @@ date,scheme_code,scheme_name,nav
 2026-08-15,147716,ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option,1001.5385
 2026-08-15,147717,ITI Overnight Fund - Direct Plan - Monthly IDCW Option,1003.5922
 2026-08-15,147718,ITI Overnight Fund - Regular Plan - Monthly IDCW Option,1002.7085
-2026-08-15,147736,Mirae Asset Overnight Fund Direct Plan Growth,1408.0579
-2026-08-15,147737,Mirae Asset Overnight Fund Direct Daily IDCW,1000.0243
-2026-08-15,147738,Mirae Asset Overnight Fund Direct Monthly IDCW,1003.0649
-2026-08-15,147739,Mirae Asset Overnight Fund Regular Plan Growth,1399.3476
-2026-08-15,147740,Mirae Asset Overnight Fund Direct Weekly IDCW,1000.4242
-2026-08-15,147741,Mirae Asset Overnight Fund Regular Weekly IDCW,1000.4298
-2026-08-15,147742,Mirae Asset Overnight Fund Regular Monthly IDCW,1003.0253
-2026-08-15,147743,Mirae Asset Overnight Fund Regular Daily  IDCW,1000.0067
+2026-08-15,147736,Mirae Asset Overnight Fund - Direct Plan - Growth,1408.0579
+2026-08-15,147737,Mirae Asset Overnight Fund - Direct Plan - Daily IDCW,1000.0243
+2026-08-15,147738,Mirae Asset Overnight Fund - Direct Plan - Monthly IDCW,1003.0649
+2026-08-15,147739,Mirae Asset Overnight Fund - Regular Plan - Growth,1399.3476
+2026-08-15,147740,Mirae Asset Overnight Fund - Direct Plan - Weekly IDCW,1000.4242
+2026-08-15,147741,Mirae Asset Overnight Fund - Regular Plan - Weekly IDCW,1000.4298
+2026-08-15,147742,Mirae Asset Overnight Fund - Regular Plan - Monthly IDCW,1003.0253
+2026-08-15,147743,Mirae Asset Overnight Fund - Regular Plan - Daily IDCW,1000.0067
 2026-08-15,147834,JM Overnight Fund (Regular) - Weekly IDCW,1000.5326
 2026-08-15,147835,JM Overnight Fund (Direct) - Weekly IDCW,1000.5377
 2026-08-15,147836,JM Overnight Fund (Regular) - Growth,1384.1125

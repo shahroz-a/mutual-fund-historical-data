@@ -758,8 +758,8 @@ date,scheme_code,scheme_name,nav
 2026-08-12,107477,Invesco India Gilt Fund - Regular Plan - Growth,2936.1896
 2026-08-12,107524,HDFC Infrastructure Fund - Growth Plan,47.347
 2026-08-12,107525,HDFC Infrastructure Fund - IDCW Plan,20.306
-2026-08-12,107578,Mirae Asset Large Cap Fund - Growth Plan,114.122
-2026-08-12,107579,Mirae Asset Large Cap Fund Regular IDCW,29.231
+2026-08-12,107578,Mirae Asset Large Cap Fund - Regular Plan - Growth,114.122
+2026-08-12,107579,Mirae Asset Large Cap Fund - Regular Plan - IDCW,29.231
 2026-08-12,107693,Quantum Gold ETF,126.1203
 2026-08-12,107700,Mirae Asset Low Duration Fund - Regular Plan - Daily IDCW,1005.1646
 2026-08-12,107701,Mirae Asset Low Duration Fund - Regular Plan - Weekly IDCW,1106.6348
@@ -906,7 +906,7 @@ date,scheme_code,scheme_name,nav
 2026-08-12,111644,Mirae Asset Liquid Fund - Regular Plan - Weekly IDCW,1152.5501
 2026-08-12,111645,Mirae Asset Liquid Fund - Regular Plan - Monthly IDCW,1156.1606
 2026-08-12,111646,Mirae Asset Liquid Fund - Regular Plan - Growth,2928.8922
-2026-08-12,111647,Mirae Asset Liquid Fund - Regular - Daily IDCW,1066.4347
+2026-08-12,111647,Mirae Asset Liquid Fund - Regular Plan - Daily IDCW,1066.4347
 2026-08-12,111675,LIC MF Low Duration Fund-Regular Plan-Weekly IDCW,14.4853
 2026-08-12,111676,LIC MF Low Duration Fund-Regular Plan-Daily IDCW,11.1501
 2026-08-12,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,3212.0120
@@ -1129,8 +1129,8 @@ date,scheme_code,scheme_name,nav
 2026-08-12,114758,Kotak Gold Fund Growth,58.4389
 2026-08-12,114858,Kotak Debt Hybrid - Monthly Payout of Income Distribution cum capital withdrawal option,12.3509
 2026-08-12,114859,Kotak Debt Hybrid - Growth,60.3263
-2026-08-12,114930,Mirae Asset Great Consumer Fund Regular IDCW,26.661
-2026-08-12,114931,Mirae Asset Great Consumer Fund - Regular Plan - Growth option,95.162
+2026-08-12,114930,Mirae Asset Great Consumer Fund - Regular Plan - IDCW,26.661
+2026-08-12,114931,Mirae Asset Great Consumer Fund - Regular Plan - Growth,95.162
 2026-08-12,114984,Motilal Oswal Nasdaq 100 ETF (MOFN100),277.1742
 2026-08-12,115068,Axis Dynamic Bond Fund - Regular Plan - Growth Option,31.6445
 2026-08-12,115069,Axis Dynamic Bond Fund - Regular Plan - Quarterly IDCW,11.5974
@@ -1523,19 +1523,19 @@ date,scheme_code,scheme_name,nav
 2026-08-12,118812,NIPPON INDIA CORPORATE BOND FUND - DIRECT Plan - WEEKLY IDCW Option,17.0984
 2026-08-12,118814,Nippon India Corporate Bond Fund - Direct Plan Growth Plan - Growth Option,67.3286
 2026-08-12,118825,Mirae Asset Large Cap Fund - Direct Plan - Growth,129.971
-2026-08-12,118826,Mirae Asset Large Cap Fund Direct IDCW,67.844
+2026-08-12,118826,Mirae Asset Large Cap Fund - Direct Plan - IDCW,67.844
 2026-08-12,118834,Mirae Asset Large & Midcap Fund - Direct Plan - Growth,181.573
 2026-08-12,118835,Mirae Asset Large & Midcap Fund - Direct Plan - IDCW,85.142
 2026-08-12,118837,Mirae Asset Great Consumer Fund - Direct Plan - Growth,115.133
-2026-08-12,118838,Mirae Asset Great Consumer Fund Direct IDCW,69.128
+2026-08-12,118838,Mirae Asset Great Consumer Fund - Direct Plan - IDCW,69.128
 2026-08-12,118840,Mirae Asset Low Duration Fund - Direct Plan - Growth,2644.8471
 2026-08-12,118841,Mirae Asset Low Duration Fund - Direct Plan - Monthly IDCW,1165.1014
 2026-08-12,118842,Mirae Asset Low Duration Fund - Direct Plan - Quarterly IDCW,1006.9734
 2026-08-12,118843,Mirae Asset Low Duration Fund - Direct Plan - Daily IDCW,1208.9337
 2026-08-12,118844,Mirae Asset Low Duration Fund - Direct Plan - Weekly IDCW,1454.3850
 2026-08-12,118859,Mirae Asset Liquid Fund - Direct Plan - Growth,2982.9772
-2026-08-12,118860,Mirae Asset Liquid Fund - Direct Plan -Monthly IDCW,1138.5096
-2026-08-12,118861,Mirae Asset Liquid Fund - Direct Plan -Daily IDCW,1075.8332
+2026-08-12,118860,Mirae Asset Liquid Fund - Direct Plan - Monthly IDCW,1138.5096
+2026-08-12,118861,Mirae Asset Liquid Fund - Direct Plan - Daily IDCW,1075.8332
 2026-08-12,118862,Mirae Asset Liquid Fund - Direct Plan - Weekly IDCW,1216.2089
 2026-08-12,118866,Taurus ELSS Tax Saver Fund - Direct Plan - Growth,201.68
 2026-08-12,118867,Taurus ELSS Tax Saver Fund - Direct Plan - Payout of Income Distribution cum Capital Withdrawal option,92.95
@@ -3353,10 +3353,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,140618,Mahindra Manulife Low Duration Fund - Direct Plan - Weekly IDCW,1030.8644
 2026-08-12,140619,Mahindra Manulife Low Duration Fund - Direct Plan - Monthly IDCW,1136.1241
 2026-08-12,140620,Mahindra Manulife Low Duration Fund - Regular Plan - Growth,1744.0996
-2026-08-12,140769,Mirae Asset Dynamic Bond Fund -Direct Plan -Growth,18.9144
-2026-08-12,140770,Mirae Asset Dynamic Bond Fund Direct IDCW,18.8910
-2026-08-12,140771,Mirae Asset Dynamic Bond Fund-Regular Plan Growth,17.1376
-2026-08-12,140772,Mirae Asset Dynamic Bond Fund Regular IDCW,17.1380
+2026-08-12,140769,Mirae Asset Dynamic Bond Fund - Direct Plan - Growth,18.9144
+2026-08-12,140770,Mirae Asset Dynamic Bond Fund - Direct Plan - IDCW,18.8910
+2026-08-12,140771,Mirae Asset Dynamic Bond Fund - Regular Plan - Growth,17.1376
+2026-08-12,140772,Mirae Asset Dynamic Bond Fund - Regular Plan - IDCW,17.1380
 2026-08-12,140809,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),23.7
 2026-08-12,140810,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Regular Plan- Monthly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),25.14
 2026-08-12,140811,Groww Largecap Fund (formerly known as Indiabulls Bluechip Fund)- Direct Plan- Quarterly - Income Distribution cum capital withdrawal Option (Payout & Reinvestment),29.61
@@ -3582,10 +3582,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,143710,NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND LONG DURATION - HALF YEARLY IDCW Option,12.6188
 2026-08-12,143711,NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - DIRECT Plan - ANNUAL IDCW Option,12.1845
 2026-08-12,143712,NIPPON INDIA NIVESH LAKSHYA LONG DURATION FUND - MONTHLY IDCW Option,11.8872
-2026-08-12,143783,Mirae Asset Healthcare Fund Direct Growth,51.653
-2026-08-12,143784,Mirae Asset Healthcare Fund Direct IDCW,31.111
-2026-08-12,143785,Mirae Asset Healthcare Fund -Regular Growth,45.623
-2026-08-12,143786,Mirae Asset Healthcare Fund Regular IDCW,26.858
+2026-08-12,143783,Mirae Asset Healthcare Fund - Direct Plan - Growth,51.653
+2026-08-12,143784,Mirae Asset Healthcare Fund - Direct Plan - IDCW,31.111
+2026-08-12,143785,Mirae Asset Healthcare Fund - Regular Plan - Growth,45.623
+2026-08-12,143786,Mirae Asset Healthcare Fund - Regular Plan - IDCW,26.858
 2026-08-12,143787,Navi Flexi Cap Fund - Regular Plan - Growth,25.3937
 2026-08-12,143788,NAVI FLEXI CAP FUND - REGULAR PLAN QUARTERLY IDCW PAYOUT,25.391
 2026-08-12,143789,NAVI FLEXI CAP FUND - REGULAR PLAN NORMAL IDCW PAYOUT,25.3975
@@ -3810,10 +3810,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,145676,BANK OF INDIA Small Cap Fund Regular Plan IDCW,42.01
 2026-08-12,145677,BANK OF INDIA Small Cap Fund Regular Plan Growth,57.63
 2026-08-12,145678,BANK OF INDIA Small Cap Fund Direct Plan Growth,65.27
-2026-08-12,145693,Mirae Asset Equity Savings Fund- Direct Plan- Growth,23.184
-2026-08-12,145694,Mirae Asset Equity Savings Fund Direct IDCW,13.865
-2026-08-12,145695,Mirae Asset Equity Savings Fund- Regular Plan- Growth,21.426
-2026-08-12,145696,Mirae Asset Equity Savings Fund Regular IDCW,12.682
+2026-08-12,145693,Mirae Asset Equity Savings Fund - Direct Plan - Growth,23.184
+2026-08-12,145694,Mirae Asset Equity Savings Fund - Direct Plan - IDCW,13.865
+2026-08-12,145695,Mirae Asset Equity Savings Fund - Regular Plan - Growth,21.426
+2026-08-12,145696,Mirae Asset Equity Savings Fund - Regular Plan - IDCW,12.682
 2026-08-12,145723,Tata Arbitrage Fund-Regular Plan-Growth,15.3240
 2026-08-12,145724,Tata Arbitrage Fund-Direct Plan-Growth,16.2593
 2026-08-12,145725,TATA Arbitrage Fund Direct Plan - Monthly Reinvestment of Income Distribution cum capital withdrawal option,15.6200
@@ -4056,10 +4056,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,147196,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1441.5937
 2026-08-12,147197,Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW,1000.0028
 2026-08-12,147198,Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW,1000.7311
-2026-08-12,147203,Mirae Asset Focused Fund Regular Plan Growth,25.408
-2026-08-12,147204,Mirae Asset Focused Fund Regular IDCW,23.358
-2026-08-12,147205,Mirae Asset Focused Fund Direct IDCW,25.748
-2026-08-12,147206,Mirae Asset Focused Fund Direct Plan Growth,27.994
+2026-08-12,147203,Mirae Asset Focused Fund - Regular Plan - Growth,25.408
+2026-08-12,147204,Mirae Asset Focused Fund - Regular Plan - IDCW,23.358
+2026-08-12,147205,Mirae Asset Focused Fund - Direct Plan - IDCW,25.748
+2026-08-12,147206,Mirae Asset Focused Fund - Direct Plan - Growth,27.994
 2026-08-12,147211,Franklin India Overnight Fund - Direct Weekly Dividend Plan - Weekly - IDCW,1000.4202
 2026-08-12,147212,Franklin India Overnight Fund - Direct Daily Dividend Plan - Daily - IDCW,1000.0007
 2026-08-12,147213,Franklin India Overnight fund- Growth,1426.7872
@@ -4122,7 +4122,7 @@ date,scheme_code,scheme_name,nav
 2026-08-12,147442,Motilal Oswal Liquid Fund - Unclaimed Dividend - Greater than 3 years,10.0000
 2026-08-12,147443,Motilal Oswal Liquid Fund - Unclaimed Redemption - Greater than 3 years,10.0000
 2026-08-12,147444,Motilal Oswal Liquid Fund - Unclaimed Redemption - Upto 3 years,14.2047
-2026-08-12,147445,Mirae Asset Midcap Fund- Direct Growth Option,44.562
+2026-08-12,147445,Mirae Asset Midcap Fund - Direct Plan - Growth,44.562
 2026-08-12,147446,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan -Growth,30.8714
 2026-08-12,147447,Mahindra Manulife Aggressive Hybrid Fund - Regular Plan - Growth,27.2639
 2026-08-12,147448,Mahindra Manulife Aggressive Hybrid Fund - Direct Plan - Monthly IDCW,21.1710
@@ -4141,9 +4141,9 @@ date,scheme_code,scheme_name,nav
 2026-08-12,147473,Kotak Focused Fund- Direct Plan- Growth option,31.13
 2026-08-12,147475,Kotak Focused Fund-Direct Plan- Income Distribution cum capital withdrawal option,31.132
 2026-08-12,147477,Kotak Focused Fund- Regular plan _ Growth Option,27.925
-2026-08-12,147478,Mirae Asset Midcap Fund Direct IDCW,29.285
-2026-08-12,147479,Mirae Asset Midcap Fund - Regular Plan-Growth Option,40.727
-2026-08-12,147480,Mirae Asset Midcap Fund Regular IDCW,26.597
+2026-08-12,147478,Mirae Asset Midcap Fund - Direct Plan - IDCW,29.285
+2026-08-12,147479,Mirae Asset Midcap Fund - Regular Plan - Growth,40.727
+2026-08-12,147480,Mirae Asset Midcap Fund - Regular Plan - IDCW,26.597
 2026-08-12,147481,Parag Parikh ELSS Tax Saver Fund- Direct Growth,32.3007
 2026-08-12,147482,Parag Parikh ELSS Tax Saver Fund- Regular Growth,29.7018
 2026-08-12,147483,ICICI Prudential Nifty Bank ETF,59.5183
@@ -4256,14 +4256,14 @@ date,scheme_code,scheme_name,nav
 2026-08-12,147733,Mahindra Manulife Ultra Short Duration Fund - Direct Plan - Daily IDCW,1259.7440
 2026-08-12,147734,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Growth,1472.3738
 2026-08-12,147735,Aditya Birla Sun Life Nifty Bank ETF,59.4207
-2026-08-12,147736,Mirae Asset Overnight Fund Direct Plan Growth,1407.4646
-2026-08-12,147737,Mirae Asset Overnight Fund Direct Daily IDCW,1000.0243
-2026-08-12,147738,Mirae Asset Overnight Fund Direct Monthly IDCW,1002.6422
-2026-08-12,147739,Mirae Asset Overnight Fund Regular Plan Growth,1398.7673
-2026-08-12,147740,Mirae Asset Overnight Fund Direct Weekly IDCW,1000.0025
-2026-08-12,147741,Mirae Asset Overnight Fund Regular Weekly IDCW,1000.0002
-2026-08-12,147742,Mirae Asset Overnight Fund Regular Monthly IDCW,1002.6093
-2026-08-12,147743,Mirae Asset Overnight Fund Regular Daily  IDCW,1000.0068
+2026-08-12,147736,Mirae Asset Overnight Fund - Direct Plan - Growth,1407.4646
+2026-08-12,147737,Mirae Asset Overnight Fund - Direct Plan - Daily IDCW,1000.0243
+2026-08-12,147738,Mirae Asset Overnight Fund - Direct Plan - Monthly IDCW,1002.6422
+2026-08-12,147739,Mirae Asset Overnight Fund - Regular Plan - Growth,1398.7673
+2026-08-12,147740,Mirae Asset Overnight Fund - Direct Plan - Weekly IDCW,1000.0025
+2026-08-12,147741,Mirae Asset Overnight Fund - Regular Plan - Weekly IDCW,1000.0002
+2026-08-12,147742,Mirae Asset Overnight Fund - Regular Plan - Monthly IDCW,1002.6093
+2026-08-12,147743,Mirae Asset Overnight Fund - Regular Plan - Daily IDCW,1000.0068
 2026-08-12,147748,Union Large & Midcap Fund - Regular Plan - Growth Option,27.54
 2026-08-12,147749,Union Large & Midcap Fund - Regular Plan - IDCW Option,27.54
 2026-08-12,147750,Union Large & Midcap Fund - Direct Plan - Growth Option,29.91
@@ -4404,10 +4404,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,148388,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),14.9453
 2026-08-12,148389,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Growth,14.7364
 2026-08-12,148390,SBI Fixed Maturity Plan (FMP) - Series 34 (3682 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),14.7365
-2026-08-12,148400,Mirae Asset Arbitrage Fund Regular Growth,13.881
-2026-08-12,148401,Mirae Asset Arbitrage Fund Direct Growth,14.528
-2026-08-12,148402,Mirae Asset Arbitrage Fund Direct IDCW,14.508
-2026-08-12,148403,Mirae Asset Arbitrage Fund Regular IDCW,13.881
+2026-08-12,148400,Mirae Asset Arbitrage Fund - Regular Plan - Growth,13.881
+2026-08-12,148401,Mirae Asset Arbitrage Fund - Direct Plan - Growth,14.528
+2026-08-12,148402,Mirae Asset Arbitrage Fund - Direct Plan - IDCW,14.508
+2026-08-12,148403,Mirae Asset Arbitrage Fund - Regular Plan - IDCW,13.881
 2026-08-12,148404,BANK OF INDIA Flexi Cap Fund Direct Plan -Growth,42.68
 2026-08-12,148405,BANK OF INDIA Flexi Cap Fund Regular Plan -Growth,38.82
 2026-08-12,148406,BANK OF INDIA Flexi Cap Fund Direct Plan -IDCW,36.47
@@ -4471,10 +4471,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,148519,Nippon India Nifty Smallcap 250 Index Fund - Direct Plan - Growth Option,36.3695
 2026-08-12,148520,NIPPON INDIA NIFTY SMALLCAP 250 INDEX FUND - IDCW Option,34.9802
 2026-08-12,148521,NIPPON INDIA NIFTY SMALLCAP 250 INDEX FUND - DIRECT Plan - IDCW Option,36.3695
-2026-08-12,148529,Mirae Asset Ultra Short Duration Fund Direct Growth,1423.1280
-2026-08-12,148530,Mirae Asset Ultra Short Duration Fund Regular Growth,1404.0353
-2026-08-12,148531,Mirae Asset Ultra Short Duration Fund Regular IDCW,1403.4803
-2026-08-12,148532,Mirae Asset Ultra Short Duration Fund Direct IDCW,1422.6651
+2026-08-12,148529,Mirae Asset Ultra Short Duration Fund - Direct Plan - Growth,1423.1280
+2026-08-12,148530,Mirae Asset Ultra Short Duration Fund - Regular Plan - Growth,1404.0353
+2026-08-12,148531,Mirae Asset Ultra Short Duration Fund - Regular Plan - IDCW,1403.4803
+2026-08-12,148532,Mirae Asset Ultra Short Duration Fund - Direct Plan - IDCW,1422.6651
 2026-08-12,148533,ITI Banking & PSU Debt Fund - Regular Plan - IDCW Option,13.7611
 2026-08-12,148534,ITI Banking & PSU Debt Fund - Direct Plan - Growth Option,14.2052
 2026-08-12,148535,ITI Banking & PSU Debt Fund - Regular Plan - Growth Option,13.7599
@@ -4505,10 +4505,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,148569,Mahindra Manulife Focused Fund - Direct Plan - IDCW,20.3591
 2026-08-12,148571,Mahindra Manulife Focused Fund - Regular Plan - Growth,26.9460
 2026-08-12,148572,Mirae Asset Nifty 100 ESG Sector Leaders ETF,42.1628
-2026-08-12,148573,Mirae Asset Nifty 100 ESG Sector Leaders Fund  of Fund Regular IDCW,18.196
-2026-08-12,148574,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Direct Growth,18.609
-2026-08-12,148575,Mirae Asset Nifty 100 ESG Sector Leaders Fund  of Fund Direct IDCW,18.604
-2026-08-12,148576,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund Regular Growth,18.232
+2026-08-12,148573,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Regular Plan - IDCW,18.196
+2026-08-12,148574,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Direct Plan - Growth,18.609
+2026-08-12,148575,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Direct Plan - IDCW,18.604
+2026-08-12,148576,Mirae Asset Nifty 100 ESG Sector Leaders Fund of Fund - Regular Plan - Growth,18.232
 2026-08-12,148590,Union Aggressive Hybrid Fund - Regular Plan - IDCW Option,17.15
 2026-08-12,148591,Union Aggressive Hybrid Fund - Regular Plan - Growth Option,18.85
 2026-08-12,148592,Union Aggressive Hybrid Fund - Direct Plan - Growth Option,20.11
@@ -4538,10 +4538,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,148618,UTI Small Cap Fund - Direct Plan - Growth Option,30.3139
 2026-08-12,148619,UTI Small Cap Fund - Direct Plan - IDCW (Payout),30.3138
 2026-08-12,148620,Motilal Oswal Nifty 5 year Benchmark G-sec ETF,65.5334
-2026-08-12,148621,Mirae Asset Banking and Financial Services Fund Regular Growth,21.657
-2026-08-12,148622,Mirae Asset Banking and Financial Services Fund Regular IDCW,21.685
-2026-08-12,148623,Mirae Asset Banking and Financial Services Fund Direct Growth,23.645
-2026-08-12,148624,Mirae Asset Banking and Financial Services Fund Direct  IDCW,23.541
+2026-08-12,148621,Mirae Asset Banking and Financial Services Fund - Regular Plan - Growth,21.657
+2026-08-12,148622,Mirae Asset Banking and Financial Services Fund - Regular Plan - IDCW,21.685
+2026-08-12,148623,Mirae Asset Banking and Financial Services Fund - Direct Plan - Growth,23.645
+2026-08-12,148624,Mirae Asset Banking and Financial Services Fund - Direct Plan - IDCW,23.541
 2026-08-12,148631,Axis Innovation Fund - Regular Plan - Growth Option,21.35
 2026-08-12,148632,Axis Innovation Fund - Direct Plan - IDCW,19.18
 2026-08-12,148633,Axis Innovation Fund - Regular Plan - IDCW,17.87
@@ -4636,10 +4636,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,148752,Invesco India ESG Integration Strategy Fund - Direct Plan - IDCW (Payout / Reinvestment),15.43
 2026-08-12,148753,Invesco India ESG Integration Strategy Fund - Regular Plan - Growth,17.4
 2026-08-12,148754,Invesco India ESG Integration Strategy Fund - Regular Plan - IDCW (Payout / Reinvestment),14.03
-2026-08-12,148755,Mirae Asset Corporate Bond Fund Direct Growth Plan,13.8549
-2026-08-12,148756,Mirae Asset Corporate Bond Fund Direct IDCW,13.8514
-2026-08-12,148757,Mirae Asset Corporate Bond Fund Regular Growth,13.5309
-2026-08-12,148758,Mirae Asset Corporate Bond Fund Regular IDCW,13.5309
+2026-08-12,148755,Mirae Asset Corporate Bond Fund - Direct Plan - Growth,13.8549
+2026-08-12,148756,Mirae Asset Corporate Bond Fund - Direct Plan - IDCW,13.8514
+2026-08-12,148757,Mirae Asset Corporate Bond Fund - Regular Plan - Growth,13.5309
+2026-08-12,148758,Mirae Asset Corporate Bond Fund - Regular Plan - IDCW,13.5309
 2026-08-12,148759,SBI US Specific Equity Active FoF- Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),24.6060
 2026-08-12,148760,SBI US Specific Equity Active FoF - Direct Plan - Growth,25.5929
 2026-08-12,148761,SBI US Specific Equity Active FoF- Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),25.5929
@@ -4707,8 +4707,8 @@ date,scheme_code,scheme_name,nav
 2026-08-12,148924,quant Quantamental Fund - IDCW Option - Direct Plan,27.4249
 2026-08-12,148925,quant Quantamental Fund - Growth Option - Direct Plan,27.2751
 2026-08-12,148927,Mirae Asset NYSE FANG + ETF,172.8344
-2026-08-12,148928,Mirae Asset NYSE FANG + ETF Fund of Fund Direct Growth,44.349
-2026-08-12,148929,Mirae Asset NYSE FANG + ETF Fund of Fund Regular Growth,43.451
+2026-08-12,148928,Mirae Asset NYSE FANG + ETF Fund of Fund - Direct Plan - Growth,44.349
+2026-08-12,148929,Mirae Asset NYSE FANG + ETF Fund of Fund - Regular Plan - Growth,43.451
 2026-08-12,148934,Axis NIFTY Healthcare ETF,169.3395
 2026-08-12,148943,SBI Nifty Next 50 Index Fund - Regular Plan - Growth,20.2582
 2026-08-12,148944,SBI Nifty Next 50 Index Fund - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),20.2585
@@ -4847,10 +4847,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,149105,Mirae Asset Nifty Financial Services ETF,27.4966
 2026-08-12,149106,HDFC NIFTY50 Equal weight Index Fund - Growth Option,18.5126
 2026-08-12,149107,HDFC NIFTY50 Equal weight Index Fund - Direct Plan - Growth Option,18.9914
-2026-08-12,149112,Mirae Asset Money Market Fund Direct Growth,1373.2276
-2026-08-12,149113,Mirae Asset Money Market Fund Direct IDCW,1370.9694
-2026-08-12,149114,Mirae Asset Money Market Fund Regular IDCW,1349.2155
-2026-08-12,149115,Mirae Asset Money Market Fund Regular Growth,1349.2254
+2026-08-12,149112,Mirae Asset Money Market Fund - Direct Plan - Growth,1373.2276
+2026-08-12,149113,Mirae Asset Money Market Fund - Direct Plan - IDCW,1370.9694
+2026-08-12,149114,Mirae Asset Money Market Fund - Regular Plan - IDCW,1349.2155
+2026-08-12,149115,Mirae Asset Money Market Fund - Regular Plan - Growth,1349.2254
 2026-08-12,149116,Union Money Market Fund - Regular Plan -  Growth Option,1316.3630
 2026-08-12,149117,Union Money Market Fund - Direct Plan -  Growth Option,1363.1458
 2026-08-12,149118,Union Money Market Fund - Regular Plan - Daily IDCW Option,1003.2031
@@ -4877,8 +4877,8 @@ date,scheme_code,scheme_name,nav
 2026-08-12,149167,Axis Value Fund - Regular Plan - Growth,20.38
 2026-08-12,149168,Axis Value Fund - Direct Plan - IDCW,18.36
 2026-08-12,149169,Mirae Asset S&P 500 Top 50 ETF,67.2735
-2026-08-12,149170,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Direct Growth,28.857
-2026-08-12,149171,Mirae Asset S&P 500 Top 50 ETF Fund of Fund Regular Growth,28.289
+2026-08-12,149170,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Direct Plan - Growth,28.857
+2026-08-12,149171,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Regular Plan - Growth,28.289
 2026-08-12,149172,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan - Growth,13.2554
 2026-08-12,149173,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Regular Plan -Income Distribution Capital Withdrawal Option (IDCW),13.2554
 2026-08-12,149174,SBI Fixed Maturity Plan (FMP) - Series 50 (1843 Days) - Direct Plan - Growth,13.3620
@@ -5030,8 +5030,8 @@ date,scheme_code,scheme_name,nav
 2026-08-12,149373,Axis Nifty 50 Index Fund - Direct Plan - Growth,14.8682
 2026-08-12,149374,Axis Nifty 50 Index Fund - Direct Plan - IDCW,14.1022
 2026-08-12,149379,Mirae Asset Hang Seng TECH ETF,19.5086
-2026-08-12,149380,Mirae Asset Hang Seng TECH ETF Fund of Fund Regular Plan - Growth Option,12.028
-2026-08-12,149381,Mirae AssetHang Seng TECH ETF Fund of Fund Direct Plan - Growth Option,12.287
+2026-08-12,149380,Mirae Asset Hang Seng TECH ETF Fund of Fund - Regular Plan - Growth,12.028
+2026-08-12,149381,Mirae Asset Hang Seng TECH ETF Fund of Fund - Direct Plan - Growth,12.287
 2026-08-12,149382,Axis Multicap Fund - Regular Plan - Growth,19.77
 2026-08-12,149383,Axis Multicap Fund - Direct Growth,20.96
 2026-08-12,149384,Axis Multicap Fund - Direct Plan - IDCW,19.94
@@ -5181,7 +5181,7 @@ date,scheme_code,scheme_name,nav
 2026-08-12,149783,Aditya Birla Sun Life Silver ETF FOF-Regular Growth,35.9373
 2026-08-12,149784,Aditya Birla Sun Life Silver ETF FOF-Regular IDCW,35.9304
 2026-08-12,149786,Mirae Asset Nifty India Manufacturing ETF,169.3017
-2026-08-12,149787,Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan- IDCW,21.189
+2026-08-12,149787,Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan - IDCW,21.189
 2026-08-12,149788,Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - Growth,20.821
 2026-08-12,149789,Mirae Asset Nifty India Manufacturing ETF FOF - Regular Plan - IDCW,20.899
 2026-08-12,149790,Mirae Asset Nifty India Manufacturing ETF FOF - Direct Plan - Growth,21.188
@@ -5424,7 +5424,7 @@ date,scheme_code,scheme_name,nav
 2026-08-12,150351,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-Apr 2027 Index Fund-Regular Growth,13.0234
 2026-08-12,150352,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-Apr 2027 Index Fund-Direct IDCW,13.1209
 2026-08-12,150353,Aditya Birla Sun Life Crisil IBX 60:40 SDL+AAA PSU-Apr 2027 Index Fund-Direct Growth,13.1187
-2026-08-12,150358,Mirae Asset Nifty SDL Jun 2027 Index Fund -Direct Plan - Growth,13.2180
+2026-08-12,150358,Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - Growth,13.2180
 2026-08-12,150359,Mirae Asset Nifty SDL Jun 2027 Index Fund - Direct Plan - IDCW,13.2185
 2026-08-12,150360,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - Growth,13.1250
 2026-08-12,150361,Mirae Asset Nifty SDL Jun 2027 Index Fund - Regular Plan - IDCW,13.1256
@@ -5486,10 +5486,10 @@ date,scheme_code,scheme_name,nav
 2026-08-12,150467,ICICI Prudential Nifty IT Index Fund - IDCW,10.9020
 2026-08-12,150468,ICICI Prudential Nifty IT Index Fund - Direct Plan - Growth,11.1383
 2026-08-12,150469,ICICI Prudential Nifty IT Index Fund - Direct Plan - IDCW,11.1438
-2026-08-12,150470,Mirae Asset Balanced Advantage Fund Direct Plan- Growth,15.672
-2026-08-12,150471,Mirae Asset Balanced Advantage Fund Direct Plan- IDCW,14.429
-2026-08-12,150473,Mirae Asset Balanced Advantage Fund Regular Plan- Growth,14.822
-2026-08-12,150474,Mirae Asset Balanced Advantage Fund Regular Plan IDCW,13.656
+2026-08-12,150470,Mirae Asset Balanced Advantage Fund - Direct Plan - Growth,15.672
+2026-08-12,150471,Mirae Asset Balanced Advantage Fund - Direct Plan - IDCW,14.429
+2026-08-12,150473,Mirae Asset Balanced Advantage Fund - Regular Plan - Growth,14.822
+2026-08-12,150474,Mirae Asset Balanced Advantage Fund - Regular Plan - IDCW,13.656
 2026-08-12,150476,HDFC NIFTY 100 ETF - Growth Option,26.4936
 2026-08-12,150477,HDFC NIFTY NEXT 50 ETF - Growth Option,76.4363
 2026-08-12,150478,Franklin India Balanced Advantage Fund- IDCW,13.5797
@@ -6165,8 +6165,8 @@ date,scheme_code,scheme_name,nav
 2026-08-12,151691,Mirae Asset Nifty SDL June 2028 Index Fund - Direct Plan - Growth,12.8521
 2026-08-12,151692,Mirae Asset Nifty SDL June 2028 Index Fund - Direct Plan - IDCW,12.8512
 2026-08-12,151693,Mirae Asset Nifty SDL June 2028 Index Fund - Regular Plan - IDCW,12.6918
-2026-08-12,151694,Mirae Asset Nifty SDL June 2028 Index Fund -Regular Plan - Growth,12.6915
-2026-08-12,151695,Mirae Asset Nifty 8-13 yr Gsec ETF,30.5763
+2026-08-12,151694,Mirae Asset Nifty SDL June 2028 Index Fund - Regular Plan - Growth,12.6915
+2026-08-12,151695,Mirae Asset Nifty 8-13 yr G-Sec ETF,30.5763
 2026-08-12,151708,Nippon India Fixed Maturity Plan-XLV-Series 5-Direct Plan-Growth Option,13.3051
 2026-08-12,151710,Nippon India Fixed Maturity Plan-XLV-Series 5-Regular Plan-Growth Option,13.1767
 2026-08-12,151712,quant Dynamic Asset Allocation Fund - IDCW Option - Direct Plan,17.3829
