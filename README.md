@@ -40,7 +40,7 @@ The dataset is organized as plain CSV files:
 | Unique scheme codes | 37,488 |
 | Date range | 2006-04-01 to 2026-08-18 |
 | Latest NAV date | 2026-08-18 |
-| Last validation | 2026-08-18T16:04:51+00:00 |
+| Last validation | 2026-08-19T16:05:08+00:00 |
 | Validation status | passed |
 <!-- DATASET_STATS_END -->
 
