@@ -91,7 +91,7 @@ def history_url(base_url: str, nav_date: date) -> str:
     return f"{base_url}?{query}"
 
 
-def parse_export(text: str) -> list[NavRow]:
+def parse_export(text: str, *, require_header: bool = True) -> list[NavRow]:
     rows: list[NavRow] = []
     columns: dict[str, int] | None = None
     for line_number, raw_line in enumerate(text.splitlines(), start=1):
@@ -127,7 +127,7 @@ def parse_export(text: str) -> list[NavRow]:
             )
         )
 
-    if columns is None:
+    if columns is None and require_header:
         raise RuntimeError("AMFI export header was not found; the response format may have changed")
     return rows
 
@@ -137,7 +137,9 @@ def parse_latest_export(text: str) -> list[NavRow]:
 
 
 def parse_history_export(text: str) -> list[NavRow]:
-    return parse_export(text)
+    # AMFI returns an empty/headerless response for dates it has not published.
+    # The latest export remains the authoritative, strict format check.
+    return parse_export(text, require_header=False)
 
 
 def parse_row(

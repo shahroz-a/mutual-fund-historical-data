@@ -44,6 +44,9 @@ class ParseAmfiExportTests(unittest.TestCase):
         with self.assertRaisesRegex(RuntimeError, "header was not found"):
             parse_latest_export("unexpected response")
 
+    def test_history_allows_unpublished_date_without_header(self) -> None:
+        self.assertEqual(parse_history_export(""), [])
+
 
 if __name__ == "__main__":
     unittest.main()
