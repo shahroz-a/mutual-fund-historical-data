@@ -91,54 +91,53 @@ def history_url(base_url: str, nav_date: date) -> str:
     return f"{base_url}?{query}"
 
 
-def parse_latest_export(text: str) -> list[NavRow]:
+def parse_export(text: str) -> list[NavRow]:
     rows: list[NavRow] = []
+    columns: dict[str, int] | None = None
     for line_number, raw_line in enumerate(text.splitlines(), start=1):
         line = raw_line.strip()
         if not line or ";" not in line:
             continue
         parts = [part.strip() for part in line.split(";")]
-        if parts[:6] == [
-            "Scheme Code",
-            "ISIN Div Payout/ ISIN Growth",
-            "ISIN Div Reinvestment",
-            "Scheme Name",
-            "Net Asset Value",
-            "Date",
-        ]:
-            continue
-        if len(parts) != 6:
+
+        if "Scheme Code" in parts and "Net Asset Value" in parts and "Date" in parts:
+            scheme_name_column = next(
+                (name for name in ("Scheme Name", "NAV Name") if name in parts), None
+            )
+            if scheme_name_column is None:
+                raise RuntimeError("AMFI export header does not contain a scheme name column")
+            columns = {
+                "scheme_code": parts.index("Scheme Code"),
+                "scheme_name": parts.index(scheme_name_column),
+                "nav": parts.index("Net Asset Value"),
+                "date": parts.index("Date"),
+            }
             continue
 
-        scheme_code, _, _, scheme_name, nav, raw_date = parts
-        rows.extend(parse_row(scheme_code, scheme_name, nav, raw_date, line_number))
+        if columns is None or len(parts) <= max(columns.values()):
+            continue
+
+        rows.extend(
+            parse_row(
+                parts[columns["scheme_code"]],
+                parts[columns["scheme_name"]],
+                parts[columns["nav"]],
+                parts[columns["date"]],
+                line_number,
+            )
+        )
+
+    if columns is None:
+        raise RuntimeError("AMFI export header was not found; the response format may have changed")
     return rows
+
+
+def parse_latest_export(text: str) -> list[NavRow]:
+    return parse_export(text)
 
 
 def parse_history_export(text: str) -> list[NavRow]:
-    rows: list[NavRow] = []
-    for line_number, raw_line in enumerate(text.splitlines(), start=1):
-        line = raw_line.strip()
-        if not line or ";" not in line:
-            continue
-        parts = [part.strip() for part in line.split(";")]
-        if parts[:8] == [
-            "Scheme Code",
-            "Scheme Name",
-            "ISIN Div Payout/ISIN Growth",
-            "ISIN Div Reinvestment",
-            "Net Asset Value",
-            "Repurchase Price",
-            "Sale Price",
-            "Date",
-        ]:
-            continue
-        if len(parts) != 8:
-            continue
-
-        scheme_code, scheme_name, _, _, nav, _, _, raw_date = parts
-        rows.extend(parse_row(scheme_code, scheme_name, nav, raw_date, line_number))
-    return rows
+    return parse_export(text)
 
 
 def parse_row(
