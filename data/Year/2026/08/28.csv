@@ -41,10 +41,10 @@ date,scheme_code,scheme_name,nav
 2026-08-28,100244,JM Liquid Fund (Regular) - Quarterly IDCW,43.2335
 2026-08-28,100247,JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option,43.9195
 2026-08-28,100254,JM Value Fund (Regular) - Growth Option,98.3702
-2026-08-28,100264,Kotak Gilt-Investment Regular-Payout of Income Distribution cum capital withdrawal option,18.9963
-2026-08-28,100265,Kotak Gilt-Investment Regular-Growth,97.2161
-2026-08-28,100280,Kotak Gilt-Investment  Provident Fund and Trust-Payout of Income Distribution cum capital withdrawal option,11.812
-2026-08-28,100281,Kotak Gilt-Investment  Provident Fund and Trust-Growth,99.459
+2026-08-28,100264,Kotak Gilt Fund -Investment Regular-Payout of Income Distribution cum capital withdrawal option,18.9963
+2026-08-28,100265,Kotak Gilt Fund -Investment Regular-Growth,97.2161
+2026-08-28,100280,Kotak Gilt Fund -Investment  Provident Fund and Trust-Payout of Income Distribution cum capital withdrawal option,11.812
+2026-08-28,100281,Kotak Gilt Fund -Investment  Provident Fund and Trust-Growth,99.459
 2026-08-28,100286,Kotak Aggressive Hybrid Fund - Regular Plan - IDCW - Payout & Reinvestment of Income Distribution cum capital withdrawal option,38.823
 2026-08-28,100299,Kotak Medium to Long Term Fund - Regular Plan Growth,80.1155
 2026-08-28,100300,Kotak Medium to Long Term Fund - Regular Plan - Standard IDCW Option,49.0844
@@ -1893,9 +1893,9 @@ date,scheme_code,scheme_name,nav
 2026-08-28,119751,Kotak Ultra Short Term Fund -Monthly Payout of Income Distribution cum capital withdrawal option - Direct,20.8437
 2026-08-28,119753,Kotak Dynamic Term Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option,15.3082
 2026-08-28,119755,Kotak Dynamic Term Fund - Growth - Direct,43.6188
-2026-08-28,119757,Kotak Gilt-Investment  Provident Fund and Trust-Growth - Direct,114.3324
-2026-08-28,119758,Kotak Gilt-Investment Regular-Payout of Income Distribution cum capital withdrawal option - Direct,24.5638
-2026-08-28,119759,Kotak Gilt-Investment Regular-Growth - Direct,111.6273
+2026-08-28,119757,Kotak Gilt Fund -Investment  Provident Fund and Trust-Growth - Direct,114.3324
+2026-08-28,119758,Kotak Gilt Fund -Investment Regular-Payout of Income Distribution cum capital withdrawal option - Direct,24.5638
+2026-08-28,119759,Kotak Gilt Fund -Investment Regular-Growth - Direct,111.6273
 2026-08-28,119764,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81
 2026-08-28,119766,Kotak Liquid Fund - Direct Plan - Growth,5724.7459
 2026-08-28,119767,Kotak Aggressive Hybrid Fund - Direct Plan - IDCW - Payout & Reinvestment of Income Distribution cum  capital withdrawal option,48.235

@@ -41,10 +41,10 @@ date,scheme_code,scheme_name,nav
 2026-08-31,100244,JM Liquid Fund (Regular) - Quarterly IDCW,43.2555
 2026-08-31,100247,JM Liquid Fund (Regular) - Super Institutional Plan - Growth Option,43.9419
 2026-08-31,100254,JM Value Fund (Regular) - Growth Option,97.9354
-2026-08-31,100264,Kotak Gilt-Investment Regular-Payout of Income Distribution cum capital withdrawal option,18.9648
-2026-08-31,100265,Kotak Gilt-Investment Regular-Growth,97.0549
-2026-08-31,100280,Kotak Gilt-Investment  Provident Fund and Trust-Payout of Income Distribution cum capital withdrawal option,11.7924
-2026-08-31,100281,Kotak Gilt-Investment  Provident Fund and Trust-Growth,99.294
+2026-08-31,100264,Kotak Gilt Fund -Investment Regular-Payout of Income Distribution cum capital withdrawal option,18.9648
+2026-08-31,100265,Kotak Gilt Fund -Investment Regular-Growth,97.0549
+2026-08-31,100280,Kotak Gilt Fund -Investment  Provident Fund and Trust-Payout of Income Distribution cum capital withdrawal option,11.7924
+2026-08-31,100281,Kotak Gilt Fund -Investment  Provident Fund and Trust-Growth,99.294
 2026-08-31,100286,Kotak Aggressive Hybrid Fund - Regular Plan - IDCW - Payout & Reinvestment of Income Distribution cum capital withdrawal option,38.772
 2026-08-31,100299,Kotak Medium to Long Term Fund - Regular Plan Growth,79.9911
 2026-08-31,100300,Kotak Medium to Long Term Fund - Regular Plan - Standard IDCW Option,49.0081
@@ -719,6 +719,8 @@ date,scheme_code,scheme_name,nav
 2026-08-31,106260,NIPPON INDIA GROWTH MID CAP FUND - INSTITUTIONAL Plan - IDCW Option,1395.3421
 2026-08-31,106316,Invesco India Balanced Advantage Fund - Regular Plan - IDCW (Payout / Reinvestment),17.33
 2026-08-31,106317,Invesco India Balanced Advantage Fund - Regular Plan - Growth,52.84
+2026-08-31,106369,Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW,35.7725
+2026-08-31,106370,Sundaram Global Brand Theme-Equity Active FOF - Regular Growth,44.2520
 2026-08-31,106383,UTI Short Term Fund - Discontinued Regular Option - Dividend Sub Option,25.0484
 2026-08-31,106384,UTI Short Term Fund - Discontinued Regular Option -Growth Sub Option,47.382
 2026-08-31,106425,UTI India Consumer Fund - Regular Plan - Growth Option,58.9021
@@ -1822,6 +1824,8 @@ date,scheme_code,scheme_name,nav
 2026-08-31,119596,Sundaram Financial Services Opportunities Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),34.5376
 2026-08-31,119597,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,126.6509
 2026-08-31,119598,SBI Large Cap FUND-DIRECT PLAN -GROWTH,104.7043
+2026-08-31,119601,Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW,41.0936
+2026-08-31,119602,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,48.9652
 2026-08-31,119604,SBI Aggresive Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),103.5602
 2026-08-31,119605,Aditya Birla Sun Life Government Securities Fund - Growth - Direct Plan,88.2685
 2026-08-31,119606,Aditya Birla Sun Life Govenment Securities Fund -DIRECT - Quarterly IDCW,11.5585
@@ -1885,9 +1889,9 @@ date,scheme_code,scheme_name,nav
 2026-08-31,119751,Kotak Ultra Short Term Fund -Monthly Payout of Income Distribution cum capital withdrawal option - Direct,20.8566
 2026-08-31,119753,Kotak Dynamic Term Fund - Direct Plan - Standard Income Distribution cum capital withdrawal option,15.293
 2026-08-31,119755,Kotak Dynamic Term Fund - Growth - Direct,43.5753
-2026-08-31,119757,Kotak Gilt-Investment  Provident Fund and Trust-Growth - Direct,114.1521
-2026-08-31,119758,Kotak Gilt-Investment Regular-Payout of Income Distribution cum capital withdrawal option - Direct,24.525
-2026-08-31,119759,Kotak Gilt-Investment Regular-Growth - Direct,111.4514
+2026-08-31,119757,Kotak Gilt Fund -Investment  Provident Fund and Trust-Growth - Direct,114.1521
+2026-08-31,119758,Kotak Gilt Fund -Investment Regular-Payout of Income Distribution cum capital withdrawal option - Direct,24.525
+2026-08-31,119759,Kotak Gilt Fund -Investment Regular-Growth - Direct,111.4514
 2026-08-31,119764,Kotak Liquid Fund - Direct Plan - Daily Reinvestment of Income Distribution cum capital withdrawal option,1222.81
 2026-08-31,119766,Kotak Liquid Fund - Direct Plan - Growth,5727.7577
 2026-08-31,119767,Kotak Aggressive Hybrid Fund - Direct Plan - IDCW - Payout & Reinvestment of Income Distribution cum  capital withdrawal option,48.177
@@ -2704,6 +2708,14 @@ date,scheme_code,scheme_name,nav
 2026-08-31,131896,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option,39.7547
 2026-08-31,131897,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW,26.3951
 2026-08-31,131898,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option,42.1537
+2026-08-31,132003,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW,43.7776
+2026-08-31,132005,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option,43.7505
+2026-08-31,132009,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,46.8444
+2026-08-31,132010,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW,46.8683
+2026-08-31,132138,Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option,32.9974
+2026-08-31,132139,Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW,33.0034
+2026-08-31,132140,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,34.7508
+2026-08-31,132141,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW,30.7353
 2026-08-31,132174,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option,44.3870
 2026-08-31,132175,Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW,39.8120
 2026-08-31,132178,Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option,35.7112
