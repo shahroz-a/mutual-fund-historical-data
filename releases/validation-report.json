@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-09-01",
+  "as_of": "2026-09-02",
   "files": [
     {
-      "date_max": "2026-09-01",
+      "date_max": "2026-09-02",
       "date_min": "2006-04-03",
       "exists": true,
       "invalid_rows": 0,
       "issues": {},
       "path": "data/latest.csv",
-      "rows": 37535,
-      "sha256": "48a6550d574e6379b5f3435361b7d0469b31d5768505238e52531cc10e83905e",
-      "size_bytes": 3288770,
-      "unique_scheme_codes": 37535,
-      "valid_rows": 37535,
+      "rows": 37551,
+      "sha256": "c3133a8ac9d6b0f1eb2ecd4a2a715a7d22eb808c80da66d57bdac54a24fb4933",
+      "size_bytes": 3289991,
+      "unique_scheme_codes": 37551,
+      "valid_rows": 37551,
       "warnings": {}
     },
     {
@@ -104420,27 +104420,41 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/09/01.csv",
-      "rows": 8038,
-      "sha256": "6c50ec43a3662f4d8799b40ab53259883fd39c55de319ecf88f009d39eb6c3ab",
-      "size_bytes": 695337,
-      "unique_scheme_codes": 8038,
-      "valid_rows": 8038,
+      "rows": 8575,
+      "sha256": "d591c37586cf51e65c29b35083ac5afeda8b1f261f70a51a5535f6b785a5a5e8",
+      "size_bytes": 743611,
+      "unique_scheme_codes": 8575,
+      "valid_rows": 8575,
+      "warnings": {}
+    },
+    {
+      "date_max": "2026-09-02",
+      "date_min": "2026-09-02",
+      "exists": true,
+      "invalid_rows": 0,
+      "issues": {},
+      "path": "data/Year/2026/09/02.csv",
+      "rows": 8067,
+      "sha256": "4f3ebe18c94ac2bec0f861fafa9cf9a6e5e724bc912b028c4ec750746c07a791",
+      "size_bytes": 698024,
+      "unique_scheme_codes": 8067,
+      "valid_rows": 8067,
       "warnings": {}
     }
   ],
-  "generated_at": "2026-09-01T18:51:48+00:00",
+  "generated_at": "2026-09-02T18:59:10+00:00",
   "issues": {},
   "status": "passed",
   "summary": {
-    "date_max": "2026-09-01",
+    "date_max": "2026-09-02",
     "date_min": "2006-04-01",
-    "files": 7459,
-    "historical_rows": 36901677,
+    "files": 7460,
+    "historical_rows": 36910281,
     "invalid_rows": 0,
-    "latest_rows": 37535,
-    "rows": 36939212,
-    "unique_scheme_codes": 37535,
-    "valid_rows": 36939212
+    "latest_rows": 37551,
+    "rows": 36947832,
+    "unique_scheme_codes": 37551,
+    "valid_rows": 36947832
   },
   "warnings": {}
 }
