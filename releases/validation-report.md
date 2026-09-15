@@ -1,27 +1,27 @@
 # Dataset Validation Report
 
-- Generated at: `2026-09-14T20:01:58+00:00`
-- Validation date: `2026-09-14`
+- Generated at: `2026-09-15T19:15:41+00:00`
+- Validation date: `2026-09-15`
 - Status: `passed`
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Files | 7472 |
-| Total rows | 37011657 |
-| Valid rows | 37011657 |
+| Files | 7473 |
+| Total rows | 37019773 |
+| Valid rows | 37019773 |
 | Invalid rows | 0 |
-| Historical rows | 36974075 |
+| Historical rows | 36982191 |
 | Latest rows | 37582 |
 | Unique scheme codes | 37582 |
-| Date range | 2006-04-01 to 2026-09-14 |
+| Date range | 2006-04-01 to 2026-09-15 |
 
 ## Files
 
 | File | Rows | Invalid | Unique schemes | Date range | SHA-256 |
 | --- | ---: | ---: | ---: | --- | --- |
-| data/latest.csv | 37582 | 0 | 37582 | 2006-04-03 to 2026-09-14 | `4b4e61fb08aae3eb6123b4f18e157b4b00dc040299580a9b365b6a4a4644209b` |
+| data/latest.csv | 37582 | 0 | 37582 | 2006-04-03 to 2026-09-15 | `70718c4add409b1b5a986d21de7b76dd4483a9a25daf858dc481ac4bfd96fceb` |
 | data/Year/2006/04/01.csv | 82 | 0 | 82 | 2006-04-01 to 2006-04-01 | `b62ef71842f9cc29358819c6d45f5dddfc66640b1740ccc13ef6709643ca54d9` |
 | data/Year/2006/04/02.csv | 386 | 0 | 386 | 2006-04-02 to 2006-04-02 | `6534c09a9932610a0565c78756c5baf4671ae8e6af5952152fc0874a36d4b5bb` |
 | data/Year/2006/04/03.csv | 1738 | 0 | 1738 | 2006-04-03 to 2006-04-03 | `29f05f2152ab58a27d17eb8880685f6ecb4f63efb7cd236bf478b639664bc5b8` |
@@ -7489,10 +7489,11 @@
 | data/Year/2026/09/08.csv | 8606 | 0 | 8606 | 2026-09-08 to 2026-09-08 | `6df195fcd1c76fba94473f811c08ebdbcb2f23a3ba36ab5f3cfbfd04b76ae161` |
 | data/Year/2026/09/09.csv | 8609 | 0 | 8609 | 2026-09-09 to 2026-09-09 | `71247d4644e5d8593e05b3effbba1d67f59b4db9e8e207cc9966b7e5bc495b91` |
 | data/Year/2026/09/10.csv | 8613 | 0 | 8613 | 2026-09-10 to 2026-09-10 | `eaf85f2212aeba325462a93ba6ebebac1d688ca7750036f6b3cff94421e1523c` |
-| data/Year/2026/09/11.csv | 8591 | 0 | 8591 | 2026-09-11 to 2026-09-11 | `c288cfd717fbe8e72295c01f1f1cd3b567fe619148580bb7c1d74b0a8f0c3c4b` |
+| data/Year/2026/09/11.csv | 8613 | 0 | 8613 | 2026-09-11 to 2026-09-11 | `1136a141585cb011562ebed8980bc04811800ca68bf7972caf4db08b3be1da55` |
 | data/Year/2026/09/12.csv | 599 | 0 | 599 | 2026-09-12 to 2026-09-12 | `c0719c1aa52983b7dae50ba78ea7623659d260c90ee7b4d882d3b75bdc785ce4` |
 | data/Year/2026/09/13.csv | 601 | 0 | 601 | 2026-09-13 to 2026-09-13 | `4c4768a2d57a958bbb6eb1bea7bc5c4b86fddb77886580a686e3bb582db5413f` |
 | data/Year/2026/09/14.csv | 705 | 0 | 705 | 2026-09-14 to 2026-09-14 | `4681a292e73e6991ff0259d352e0ebe617ff339b88dcfd417007a7347f398677` |
+| data/Year/2026/09/15.csv | 8094 | 0 | 8094 | 2026-09-15 to 2026-09-15 | `c3edaa9d1061068637ebbd2b4bd0a838655bfeb33d702586f171a961e8c5f60f` |
 
 ## Issues
 
