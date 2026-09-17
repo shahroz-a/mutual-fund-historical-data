@@ -844,8 +844,8 @@ date,scheme_code,scheme_name,nav
 2026-09-11,109059,Sundaram Financial Services Opportunities Fund Regular Plan - Growth,108.5977
 2026-09-11,109254,BANK OF INDIA Liquid Fund- Regular Plan- Growth,3238.6305
 2026-09-11,109255,BANK OF INDIA Liquid Fund- Regular Plan- Weekly IDCW,1005.6136
-2026-09-11,109264,BANK OF INDIA Ultra Short Duration Fund- Regular Plan- Weekly IDCW,1005.0463
-2026-09-11,109269,BANK OF INDIA Ultra Short Duration Fund- Regular Plan- Growth,3390.8700
+2026-09-11,109264,BANK OF INDIA Ultra Short Term Fund- Regular Plan- Weekly IDCW,1005.0463
+2026-09-11,109269,BANK OF INDIA Ultra Short Term Fund- Regular Plan- Growth,3390.8700
 2026-09-11,109274,quant Focused Fund - IDCW Option - Regular Plan,68.5591
 2026-09-11,109275,quant Focused Fund - Growth Option - Regular Plan,92.2052
 2026-09-11,109349,CANARA ROBECO LIQUID FUND - REGULAR PLAN - DAILY IDCW (Reinvestment),1005.5000
@@ -894,9 +894,9 @@ date,scheme_code,scheme_name,nav
 2026-09-11,111550,Quantum ELSS Tax Saver Fund - Direct Plan IDCW,121.08
 2026-09-11,111569,BANDHAN ELSS - Tax Saver Fund - Regular Plan - Growth,151.673
 2026-09-11,111570,BANDHAN ELSS - Tax Saver Fund - Regular Plan - IDCW,30.634
-2026-09-11,111585,BANK OF INDIA Short Term Income Fund-Regular Plan- Growth,28.4146
-2026-09-11,111589,BANK OF INDIA Short Term Income Fund-Regular Plan- Monthly IDCW,14.5810
-2026-09-11,111590,BANK OF INDIA Short Term Income Fund-Regular Plan- Quarterly IDCW,14.3690
+2026-09-11,111585,BANK OF INDIA Short Term Fund-Regular Plan- Growth,28.4146
+2026-09-11,111589,BANK OF INDIA Short Term Fund-Regular Plan- Monthly IDCW,14.5810
+2026-09-11,111590,BANK OF INDIA Short Term Fund-Regular Plan- Quarterly IDCW,14.3690
 2026-09-11,111599,UTI Multi Asset Allocation Fund - Regular Plan - Growth Option,78.023
 2026-09-11,111602,UTI Multi Asset Allocation Fund - Regular Plan - IDCW,29.1847
 2026-09-11,111638,Edelweiss ELSS Tax Saver Fund - Regular Plan - Growth Option,114.61
@@ -912,10 +912,10 @@ date,scheme_code,scheme_name,nav
 2026-09-11,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,3228.7296
 2026-09-11,111705,Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION,1001.0988
 2026-09-11,111707,Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION,1001.1996
-2026-09-11,111708,BANK OF INDIA ELSS Tax Saver -Regular Plan-IDCW,31.54
-2026-09-11,111709,BANK OF INDIA ELSS Tax Saver -ECO Plan-Growth,177.66
-2026-09-11,111710,BANK OF INDIA ELSS Tax Saver -Regular Plan- Growth,163.70
-2026-09-11,111711,BANK OF INDIA ELSS Tax Saver -ECO Plan-IDCW,29.49
+2026-09-11,111708,BANK OF INDIA ELSS Tax Saver FUND -Regular Plan-IDCW,31.54
+2026-09-11,111709,BANK OF INDIA ELSS Tax Saver FUND -ECO Plan-Growth,177.66
+2026-09-11,111710,BANK OF INDIA ELSS Tax Saver FUND  -Regular Plan- Growth,163.70
+2026-09-11,111711,BANK OF INDIA ELSS Tax Saver FUND -ECO Plan-IDCW,29.49
 2026-09-11,111712,BANK OF INDIA Conservative Hybrid Fund-Regular Plan-Growth,35.1849
 2026-09-11,111713,BANK OF INDIA Conservative Hybrid Fund-Regular Plan-Quarterly IDCW,18.7752
 2026-09-11,111714,BANK OF INDIA Conservative Hybrid Fund-Regular Plan-Annual IDCW,17.0801
@@ -954,7 +954,7 @@ date,scheme_code,scheme_name,nav
 2026-09-11,111958,ICICI Prudential Focused Fund - IDCW,25.10
 2026-09-11,111962,CANARA ROBECO DYNAMIC TERM FUND - REGULAR PLAN - GROWTH OPTION,29.6830
 2026-09-11,111963,CANARA ROBECO DYNAMIC TERM FUND - REGULAR PLAN - IDCW (Payout/Reinvestment),13.2443
-2026-09-11,111970,BANK OF INDIA Ultra Short Duration Fund- Regular Plan- Daily IDCW,1004.6771
+2026-09-11,111970,BANK OF INDIA Ultra Short Term Fund- Regular Plan- Daily IDCW,1004.6771
 2026-09-11,111971,BANK OF INDIA Liquid Fund- Regular Plan- Daily IDCW,1005.0000
 2026-09-11,111987,ICICI Prudential Corporate Bond Fund - Growth,31.9551
 2026-09-11,111991,ICICI Prudential Corporate Bond Fund - Monthly IDCW,10.3908
@@ -1736,8 +1736,8 @@ date,scheme_code,scheme_name,nav
 2026-09-11,119346,BANK OF INDIA Large & Mid Cap Fund Direct Plan-Regular IDCW,29.51
 2026-09-11,119349,BANK OF INDIA Large & Mid Cap Fund Direct  Plan- Quarterly IDCW,29.95
 2026-09-11,119350,BANK OF INDIA Large & Mid Cap Fund Direct Plan-Growth,107.88
-2026-09-11,119351,BANK OF INDIA ELSS Tax Saver -Direct Plan- Growth,193.21
-2026-09-11,119352,BANK OF INDIA ELSS Tax Saver -Direct Plan-IDCW,77.16
+2026-09-11,119351,BANK OF INDIA ELSS Tax Saver FUND -Direct Plan- Growth,193.21
+2026-09-11,119352,BANK OF INDIA ELSS Tax Saver FUND -Direct Plan-IDCW,77.16
 2026-09-11,119353,Baroda BNP Paribas MULTI CAP FUND - Direct Plan - IDCW Option,54.8773
 2026-09-11,119354,Baroda BNP Paribas MULTI CAP FUND - Direct Plan - Growth Option,333.9756
 2026-09-11,119363,BANK OF INDIA Manufacturing & Infrastructure Fund-Direct Plan-Regular IDCW,74.30
@@ -1746,12 +1746,12 @@ date,scheme_code,scheme_name,nav
 2026-09-11,119368,BANK OF INDIA Liquid Fund- Direct Plan- Daily IDCW,1005.0000
 2026-09-11,119369,BANK OF INDIA Liquid Fund- Direct Plan- Growth,3272.4192
 2026-09-11,119370,BANK OF INDIA Liquid Fund- Direct Plan- Weekly IDCW,1005.6200
-2026-09-11,119379,BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Growth,3529.3728
-2026-09-11,119380,BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Daily IDCW,1004.7077
-2026-09-11,119381,BANK OF INDIA Ultra Short Duration Fund- Direct Plan- Weekly IDCW,1005.1538
-2026-09-11,119382,BANK OF INDIA Short Term Income Fund-Direct Plan- Growth,31.1035
-2026-09-11,119383,BANK OF INDIA Short Term Income Fund-Direct Plan- Monthly IDCW,15.1220
-2026-09-11,119384,BANK OF INDIA Short Term Income Fund-Direct Plan- Quarterly IDCW,14.3388
+2026-09-11,119379,BANK OF INDIA Ultra Short Term Fund- Direct Plan- Growth,3529.3728
+2026-09-11,119380,BANK OF INDIA Ultra Short Term Fund- Direct Plan- Daily IDCW,1004.7077
+2026-09-11,119381,BANK OF INDIA Ultra Short Term Fund- Direct Plan- Weekly IDCW,1005.1538
+2026-09-11,119382,BANK OF INDIA Short Term Fund-Direct Plan- Growth,31.1035
+2026-09-11,119383,BANK OF INDIA Short Term Fund-Direct Plan- Monthly IDCW,15.1220
+2026-09-11,119384,BANK OF INDIA Short Term Fund-Direct Plan- Quarterly IDCW,14.3388
 2026-09-11,119393,BANK OF INDIA Conservative Hybrid Fund Fund-Direct Plan-Growth,38.0528
 2026-09-11,119394,BANK OF INDIA Conservative Hybrid Fund-Direct Plan-Monthly IDCW,16.9498
 2026-09-11,119395,BANK OF INDIA Conservative Hybrid  Fund-Direct Plan-Quarterly IDCW,18.6954
@@ -2509,7 +2509,7 @@ date,scheme_code,scheme_name,nav
 2026-09-11,126351,Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan - Growth Option,26.946
 2026-09-11,126352,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - IDCW (Payout / Reinvestment),29.3713
 2026-09-11,126353,Invesco India - Invesco Pan European Equity Fund of Fund - Direct Plan - Growth Option,29.461
-2026-09-11,126389,BANK OF INDIA Ultra Short Duration Fund- Direct Plan-Bonus,3514.0300
+2026-09-11,126389,BANK OF INDIA Ultra Short Term Fund- Direct Plan-Bonus,3514.0300
 2026-09-11,126391,DSP Dynamic Asset Allocation Fund - Direct Plan - IDCW - Monthly,16.6350
 2026-09-11,126392,DSP Dynamic Asset Allocation Fund - Regular Plan - IDCW - Monthly,13.8620
 2026-09-11,126393,DSP Dynamic Asset Allocation Fund - Direct Plan - Growth,33.1110
@@ -3171,10 +3171,10 @@ date,scheme_code,scheme_name,nav
 2026-09-11,139519,ICICI Prudential BSE Midcap Select ETF,19.7547
 2026-09-11,139520,Axis Equity Savings Fund - Direct Plan - Regular IDCW,13.19
 2026-09-11,139521,Axis Equity Savings Fund - Regular Plan - Regular IDCW,12.24
-2026-09-11,139527,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN GROWTH,47.97
-2026-09-11,139528,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN IDCW,34.59
-2026-09-11,139529,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - REGULAR  PLAN  GROWTH,43.34
-2026-09-11,139530,BANK OF INDIA MID & SMALL CAP EQUITY & DEBT FUND - DIRECT PLAN IDCW,36.87
+2026-09-11,139527,BANK OF INDIA AGGRESSIVE HYBRID FUND - DIRECT PLAN GROWTH,47.97
+2026-09-11,139528,BANK OF INDIA AGGRESSIVE HYBRID FUND - REGULAR  PLAN IDCW,34.59
+2026-09-11,139529,BANK OF INDIA AGGRESIVE HYBRID FUND - REGULAR  PLAN  GROWTH,43.34
+2026-09-11,139530,BANK OF INDIA AGGRESSIVE HYBRID FUND - DIRECT PLAN IDCW,36.87
 2026-09-11,139534,Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW,1001.6836
 2026-09-11,139535,Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW,1299.6210
 2026-09-11,139536,Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW,1003.1589
