@@ -289,8 +289,8 @@ date,scheme_code,scheme_name,nav
 2026-09-09,101667,NIPPON INDIA SHORT TERM FUND - MONTHLY IDCW Option,11.5578
 2026-09-09,101669,NIPPON INDIA SHORT TERM FUND - QUARTERLY IDCW OPTION,15.0428
 2026-09-09,101672,Tata Value Fund - Regular Plan -Growth Option,349.6984
-2026-09-09,101685,HSBC Medium to Long Duration Fund - Regular Growth,43.6994
-2026-09-09,101686,HSBC Medium to Long Duration Fund - Regular Quarterly IDCW,10.651
+2026-09-09,101685,HSBC Medium to Long Term Fund - Regular Growth,43.6994
+2026-09-09,101686,HSBC Medium to Long Term Fund - Regular Quarterly IDCW,10.651
 2026-09-09,101705,ICICI Prudential BSE Sensex ETF,860.6127
 2026-09-09,101706,ICICI Prudential Multi Cap Fund - IDCW,34.59
 2026-09-09,101714,Tata Liquid Fund- Regular Plan - Daily Reinvestment of IDCW Option,1001.5157
@@ -1979,13 +1979,13 @@ date,scheme_code,scheme_name,nav
 2026-09-09,120044,HSBC Global Emerging Markets Fund - IDCW Direct Plan,30.6572
 2026-09-09,120045,HSBC Flexi Cap Fund - Direct IDCW,48.0458
 2026-09-09,120046,HSBC Flexi Cap Fund - Direct Growth,263.7741
-2026-09-09,120059,HSBC Medium to Long Duration Fund - Direct Growth,48.9076
+2026-09-09,120059,HSBC Medium to Long Term Fund - Direct Growth,48.9076
 2026-09-09,120073,HSBC Conservative Hybrid Fund - Direct Growth,71.825
 2026-09-09,120074,HSBC Conservative Hybrid Fund - Direct Monthly IDCW,17.1944
 2026-09-09,120075,HSBC Conservative Hybrid Fund - Direct Quarterly IDCW,14.9838
 2026-09-09,120084,PGIM India Dynamic Term Fund - Direct Plan-Growth Option,3116.7631
 2026-09-09,120086,PGIM India Dynamic Term Fund - Direct Plan-Quarterly Dividend Option,1165.5554
-2026-09-09,120101,HSBC Medium to Long Duration Fund - Direct Quarterly IDCW,10.5037
+2026-09-09,120101,HSBC Medium to Long Term Fund - Direct Quarterly IDCW,10.5037
 2026-09-09,120136,SBI 10 Year Constant Maturity Gilt Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),22.5814
 2026-09-09,120137,SBI 10 YEAR CONSTANT MATURITY GILT FUND - DIRECT PLAN - GROWTH,69.4204
 2026-09-09,120152,Kotak Large Cap  Fund - Growth - Direct,647.773
@@ -4332,14 +4332,14 @@ date,scheme_code,scheme_name,nav
 2026-09-09,147898,Axis Income Plus Arbitrage Omni FOF - Regular Plan - Annual IDCW,13.9537
 2026-09-09,147905,Axis Income Plus Arbitrage Omni FOF - Regular Plan - Quarterly IDCW,11.4426
 2026-09-09,147906,Mirae Asset Nifty Next 50 ETF,753.0377
-2026-09-09,147907,HSBC Ultra Short Duration Fund - Regular Growth,1459.9621
-2026-09-09,147908,HSBC Ultra Short Duration Fund - Direct Growth,1482.8785
-2026-09-09,147909,HSBC Ultra Short Duration Fund - Regular Daily IDCW,1031.7278
-2026-09-09,147910,HSBC Ultra Short Duration Fund - Direct Daily IDCW,1079.9409
-2026-09-09,147911,HSBC Ultra Short Duration Fund - Regular Weekly IDCW,1041.4603
-2026-09-09,147912,HSBC Ultra Short Duration Fund - Direct Weekly IDCW,1007.3635
-2026-09-09,147915,HSBC Ultra Short Duration Fund - Direct Monthly IDCW,1015.5059
-2026-09-09,147916,HSBC Ultra Short Duration Fund - Regular Monthly IDCW,1031.0856
+2026-09-09,147907,HSBC Ultra Short Term Fund - Regular Growth,1459.9621
+2026-09-09,147908,HSBC Ultra Short Term Fund - Direct Growth,1482.8785
+2026-09-09,147909,HSBC Ultra Short Term Fund - Regular Daily IDCW,1031.7278
+2026-09-09,147910,HSBC Ultra Short Term Fund - Direct Daily IDCW,1079.9409
+2026-09-09,147911,HSBC Ultra Short Term Fund - Regular Weekly IDCW,1041.4603
+2026-09-09,147912,HSBC Ultra Short Term Fund - Direct Weekly IDCW,1007.3635
+2026-09-09,147915,HSBC Ultra Short Term Fund - Direct Monthly IDCW,1015.5059
+2026-09-09,147916,HSBC Ultra Short Term Fund - Regular Monthly IDCW,1031.0856
 2026-09-09,147917,ITI Small Cap Fund - Direct Plan - IDCW Option,37.1283
 2026-09-09,147918,ITI Small Cap Fund - Regular Plan - IDCW Option,32.7143
 2026-09-09,147919,ITI Small Cap Fund - Direct Plan - Growth Option,39.1655
@@ -5816,25 +5816,25 @@ date,scheme_code,scheme_name,nav
 2026-09-09,151059,HSBC Equity Savings Fund - Direct Quarterly IDCW,18.3971
 2026-09-09,151060,HSBC Equity Savings Fund - Direct Growth,41.1701
 2026-09-09,151061,HSBC Equity Savings Fund - Direct Monthly IDCW,17.5738
-2026-09-09,151062,HSBC Short Duration Fund - Bonus,28.2042
-2026-09-09,151063,HSBC Short Duration Fund -  Regular Plan - Monthly IDCW,11.079
-2026-09-09,151064,HSBC Short Duration Fund - Regular Quarterly IDCW,10.4311
-2026-09-09,151065,HSBC Short Duration Fund - Regular Growth,28.2054
-2026-09-09,151067,HSBC Short Duration Fund - Direct Growth,30.0188
-2026-09-09,151068,HSBC Short Duration Fund - Direct Plan -  Monthly IDCW,11.7517
-2026-09-09,151069,HSBC Short Duration Fund - Direct Quarterly IDCW,11.2974
-2026-09-09,151070,HSBC Short Duration Fund - Direct Annual IDCW,12.273
-2026-09-09,151071,HSBC Short Duration Fund - Regular Annual IDCW,11.6803
+2026-09-09,151062,HSBC Short Term Fund - Bonus,28.2042
+2026-09-09,151063,HSBC Short Term Fund -  Regular Plan - Monthly IDCW,11.079
+2026-09-09,151064,HSBC Short Term Fund - Regular Quarterly IDCW,10.4311
+2026-09-09,151065,HSBC Short Term Fund - Regular Growth,28.2054
+2026-09-09,151067,HSBC Short Term Fund - Direct Growth,30.0188
+2026-09-09,151068,HSBC Short Term Fund - Direct Plan -  Monthly IDCW,11.7517
+2026-09-09,151069,HSBC Short Term Fund - Direct Quarterly IDCW,11.2974
+2026-09-09,151070,HSBC Short Term Fund - Direct Annual IDCW,12.273
+2026-09-09,151071,HSBC Short Term Fund - Regular Annual IDCW,11.6803
 2026-09-09,151076,HSBC ELSS Tax saver Fund - Regular Growth,141.7328
 2026-09-09,151077,HSBC ELSS Tax saver Fund - Regular IDCW Payout,27.3005
 2026-09-09,151078,HSBC ELSS Tax saver Fund - Direct Growth,155.8194
 2026-09-09,151079,HSBC ELSS Tax saver Fund - Direct IDCW Payout,40.3224
-2026-09-09,151084,HSBC Dynamic Bond Fund - Regular Growth,30.7114
-2026-09-09,151085,HSBC Dynamic Bond Fund - Regular Monthly IDCW,10.6399
-2026-09-09,151086,HSBC Dynamic Bond Fund - Direct Monthly IDCW,12.6777
-2026-09-09,151087,HSBC Dynamic Bond Fund - Direct Growth,33.4406
-2026-09-09,151088,HSBC Dynamic Bond Fund - Direct Annual IDCW,10.8249
-2026-09-09,151089,HSBC Dynamic Bond Fund - Regular Annual IDCW,10.2659
+2026-09-09,151084,HSBC Dynamic Term Fund - Regular Growth,30.7114
+2026-09-09,151085,HSBC Dynamic Term Fund - Regular Monthly IDCW,10.6399
+2026-09-09,151086,HSBC Dynamic Term Fund - Direct Monthly IDCW,12.6777
+2026-09-09,151087,HSBC Dynamic Term Fund - Direct Growth,33.4406
+2026-09-09,151088,HSBC Dynamic Term Fund - Direct Annual IDCW,10.8249
+2026-09-09,151089,HSBC Dynamic Term Fund - Regular Annual IDCW,10.2659
 2026-09-09,151102,HSBC Banking and PSU Debt Fund - Regular Daily IDCW,11.1122
 2026-09-09,151103,HSBC Banking and PSU Debt Fund - Regular Weekly IDCW,10.3192
 2026-09-09,151104,HSBC Banking and PSU Debt Fund - Regular Growth,25.7893
@@ -5847,12 +5847,12 @@ date,scheme_code,scheme_name,nav
 2026-09-09,151111,HSBC Value Fund - Regular IDCW,49.2217
 2026-09-09,151112,HSBC Value Fund - Direct IDCW,63.4364
 2026-09-09,151113,HSBC Value Fund - Direct Growth,128.1879
-2026-09-09,151114,HSBC Low Duration Fund - Regular Growth,30.819
-2026-09-09,151115,HSBC Low Duration Fund - Regular Monthly IDCW,10.3798
-2026-09-09,151116,HSBC Low Duration Fund - Direct Monthly IDCW,11.0951
-2026-09-09,151117,HSBC Low Duration Fund - Direct Growth,32.6943
-2026-09-09,151118,HSBC Low Duration Fund - Direct Annual IDCW,10.6392
-2026-09-09,151119,HSBC Low Duration Fund - Regular Annual IDCW,10.4423
+2026-09-09,151114,HSBC Ultra Short to Short Term Fund - Regular Growth,30.819
+2026-09-09,151115,HSBC Ultra Short to Short Term Fund - Regular Monthly IDCW,10.3798
+2026-09-09,151116,HSBC Ultra Short to Short Term Fund - Direct Monthly IDCW,11.0951
+2026-09-09,151117,HSBC Ultra Short to Short Term Fund - Direct Growth,32.6943
+2026-09-09,151118,HSBC Ultra Short to Short Term Fund - Direct Annual IDCW,10.6392
+2026-09-09,151119,HSBC Ultra Short to Short Term Fund - Regular Annual IDCW,10.4423
 2026-09-09,151120,HSBC Aggressive Hybrid Fund - Regular Growth,59.9828
 2026-09-09,151121,HSBC Aggressive Hybrid Fund - Regular IDCW,28.1082
 2026-09-09,151122,HSBC Aggressive Hybrid Fund - Direct Growth,68.9677
@@ -5877,12 +5877,12 @@ date,scheme_code,scheme_name,nav
 2026-09-09,151143,HSBC Business Cycles Fund - Regular IDCW,23.4091
 2026-09-09,151144,HSBC Business Cycles Fund - Regular Growth,44.1393
 2026-09-09,151145,HSBC Business Cycles Fund - Direct IDCW,26.1102
-2026-09-09,151146,HSBC Medium Duration Fund - Direct Growth,23.9344
-2026-09-09,151147,HSBC Medium Duration Fund - Regular IDCW,10.5608
-2026-09-09,151148,HSBC Medium Duration Fund - Direct IDCW,11.5095
-2026-09-09,151149,HSBC Medium Duration Fund - Regular Growth,21.7576
-2026-09-09,151150,HSBC Medium Duration Fund - Direct Annual IDCW,11.7287
-2026-09-09,151151,HSBC Medium Duration Fund - Regular Annual IDCW,10.6165
+2026-09-09,151146,HSBC Medium Term Fund - Direct Growth,23.9344
+2026-09-09,151147,HSBC Medium Term Fund - Regular IDCW,10.5608
+2026-09-09,151148,HSBC Medium Term Fund - Direct IDCW,11.5095
+2026-09-09,151149,HSBC Medium Term Fund - Regular Growth,21.7576
+2026-09-09,151150,HSBC Medium Term Fund - Direct Annual IDCW,11.7287
+2026-09-09,151151,HSBC Medium Term Fund - Regular Annual IDCW,10.6165
 2026-09-09,151156,HSBC NIFTY 50 INDEX FUND - Direct IDCW,27.7601
 2026-09-09,151157,HSBC NIFTY 50 INDEX FUND - Direct Growth,27.7602
 2026-09-09,151158,HSBC NIFTY 50 INDEX FUND - Regular Growth,27.2441
