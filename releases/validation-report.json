@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-09-27",
+  "as_of": "2026-09-28",
   "files": [
     {
-      "date_max": "2026-09-27",
+      "date_max": "2026-09-28",
       "date_min": "2006-04-03",
       "exists": true,
       "invalid_rows": 0,
       "issues": {},
       "path": "data/latest.csv",
-      "rows": 37617,
-      "sha256": "271d80e70ca235cb4434a306bd81b58623c29e140bdb88a69302cb21a9da9195",
-      "size_bytes": 3294583,
-      "unique_scheme_codes": 37617,
-      "valid_rows": 37617,
+      "rows": 37627,
+      "sha256": "89b62ae856ce95077a15254e6763f15422376d3a519205a9e00b9fa5bfecd0dd",
+      "size_bytes": 3295523,
+      "unique_scheme_codes": 37627,
+      "valid_rows": 37627,
       "warnings": {}
     },
     {
@@ -104756,11 +104756,11 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/09/25.csv",
-      "rows": 8586,
-      "sha256": "e9190a79a386b71450a1801a6b8d9e5b5350b8da630308b7acf5ef9a185d190a",
-      "size_bytes": 743154,
-      "unique_scheme_codes": 8586,
-      "valid_rows": 8586,
+      "rows": 8626,
+      "sha256": "a3702169d59c26d458cd6d82fef56e24f49da153344ff6c67dddbc087d8a2f30",
+      "size_bytes": 747054,
+      "unique_scheme_codes": 8626,
+      "valid_rows": 8626,
       "warnings": {}
     },
     {
@@ -104790,21 +104790,35 @@
       "unique_scheme_codes": 708,
       "valid_rows": 708,
       "warnings": {}
+    },
+    {
+      "date_max": "2026-09-28",
+      "date_min": "2026-09-28",
+      "exists": true,
+      "invalid_rows": 0,
+      "issues": {},
+      "path": "data/Year/2026/09/28.csv",
+      "rows": 8153,
+      "sha256": "6f5d5b8eb1ef283d02bb10a275fdc0a9cc1fc3593101a9486931d6225d961bfb",
+      "size_bytes": 705398,
+      "unique_scheme_codes": 8153,
+      "valid_rows": 8153,
+      "warnings": {}
     }
   ],
-  "generated_at": "2026-09-27T19:19:14+00:00",
+  "generated_at": "2026-09-28T21:24:49+00:00",
   "issues": {},
   "status": "passed",
   "summary": {
-    "date_max": "2026-09-27",
+    "date_max": "2026-09-28",
     "date_min": "2006-04-01",
-    "files": 7485,
-    "historical_rows": 37054229,
+    "files": 7486,
+    "historical_rows": 37062422,
     "invalid_rows": 0,
-    "latest_rows": 37617,
-    "rows": 37091846,
-    "unique_scheme_codes": 37617,
-    "valid_rows": 37091846
+    "latest_rows": 37627,
+    "rows": 37100049,
+    "unique_scheme_codes": 37627,
+    "valid_rows": 37100049
   },
   "warnings": {}
 }
