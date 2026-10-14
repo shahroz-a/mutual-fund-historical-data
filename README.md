@@ -35,12 +35,12 @@ The dataset is organized as plain CSV files:
 <!-- DATASET_STATS_START -->
 | Metric | Value |
 | --- | --- |
-| Historical rows | 37,151,869 |
-| Latest rows | 37,660 |
-| Unique scheme codes | 37,660 |
-| Date range | 2006-04-01 to 2026-10-13 |
-| Latest NAV date | 2026-10-13 |
-| Last validation | 2026-10-13T20:54:32+00:00 |
+| Historical rows | 37,160,483 |
+| Latest rows | 37,661 |
+| Unique scheme codes | 37,661 |
+| Date range | 2006-04-01 to 2026-10-14 |
+| Latest NAV date | 2026-10-14 |
+| Last validation | 2026-10-14T19:42:56+00:00 |
 | Validation status | passed |
 <!-- DATASET_STATS_END -->
 
