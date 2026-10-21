@@ -2708,6 +2708,14 @@ date,scheme_code,scheme_name,nav
 2026-10-19,131896,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option,39.8848
 2026-10-19,131897,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW,26.4943
 2026-10-19,131898,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option,42.3120
+2026-10-19,132003,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW,43.3852
+2026-10-19,132005,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option,43.3583
+2026-10-19,132009,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,46.4619
+2026-10-19,132010,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW,46.4857
+2026-10-19,132138,Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option,31.8132
+2026-10-19,132139,Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW,31.8189
+2026-10-19,132140,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,33.5284
+2026-10-19,132141,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW,29.6541
 2026-10-19,132174,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option,42.3763
 2026-10-19,132175,Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW,38.0085
 2026-10-19,132178,Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option,35.2015
@@ -4833,6 +4841,8 @@ date,scheme_code,scheme_name,nav
 2026-10-19,149169,Mirae Asset S&P 500 Top 50 ETF,67.4756
 2026-10-19,149170,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Direct Plan - Growth,37.134
 2026-10-19,149171,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Regular Plan - Growth,36.376
+2026-10-19,149180,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,21.802
+2026-10-19,149181,HDFC Developed World Overseas Equity Passive FOF - Growth Option,21.301
 2026-10-19,149182,Kotak Multi Cap Fund-Regular Plan-Growth,19.365
 2026-10-19,149183,Kotak Multi Cap Fund- Regular Plan -IDCW Option,17.797
 2026-10-19,149185,Kotak Multi Cap Fund-Direct Plan-Growth,20.783
@@ -5062,10 +5072,10 @@ date,scheme_code,scheme_name,nav
 2026-10-19,149570,Sundaram ELSS Tax Saver Fund Direct Plan Growth,505.6799
 2026-10-19,149571,Sundaram ELSS Tax Saver Fund Direct Plan - Income Distribution CUM Capital Withdrawal Option (IDCW),484.2551
 2026-10-19,149572,Sundaram ELSS Tax Saver Fund Regular Plan - Income Distribution CUM Capital Withdrawal Option (IDCW),361.1117
-2026-10-19,149585,Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Growth Plan,47.1007
-2026-10-19,149586,Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Income Distribution CUM Capital Withdrawal Option (IDCW),13.0418
-2026-10-19,149587,Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund)- Direct Plan - Growth Option,51.3170
-2026-10-19,149588,Sundaram Short Duration Fund (Formerly Known as Principal Short Term Debt Fund) - Direct Plan - Income Distribution CUM Capital Withdrawal Plan (IDCW),13.1997
+2026-10-19,149585,Sundaram Short Term Fund - Growth Plan,47.1007
+2026-10-19,149586,Sundaram Short Term Fund - Income Distribution CUM Capital Withdrawal Option (IDCW),13.0418
+2026-10-19,149587,Sundaram Short Term Fund - Direct Plan - Growth Option,51.3170
+2026-10-19,149588,Sundaram Short Term Fund - Direct Plan - Income Distribution CUM Capital Withdrawal Plan (IDCW),13.1997
 2026-10-19,149599,Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)-Growth,152.4606
 2026-10-19,149600,Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Monthly Income Distribution CUM Capital Withdrawal,22.9881
 2026-10-19,149601,Sundaram Aggressive Hybrid Fund (Formerly Known as Principal Hybrid Equity Fund)- Direct Plan - Growth Option,177.0675
@@ -7928,6 +7938,10 @@ date,scheme_code,scheme_name,nav
 2026-10-19,153957,ANGEL ONE NIFTY TOTAL MARKET MOMENTUM QUALITY 50 ETF,9.7316
 2026-10-19,153958,HDFC BSE India Sector Leaders Index Fund - Regular Plan - Growth Option,8.9914
 2026-10-19,153959,HDFC BSE India Sector Leaders India Fund - Direct Plan - Growth Option,9.0321
+2026-10-19,153960,Axis Multi-Asset Omni FoF - Direct Plan - Growth,10.5335
+2026-10-19,153961,Axis Multi-Asset Omni FoF - Direct Plan - IDCW,10.5335
+2026-10-19,153962,Axis Multi-Asset Omni FoF - Regular Plan - IDCW,10.4290
+2026-10-19,153963,Axis Multi-Asset Omni FoF - Regular Plan - Growth,10.4291
 2026-10-19,153964,Parag Parikh Flexi Cap Fund - Direct Plan - IDCW,90.3546
 2026-10-19,153965,Parag Parikh Flexi Cap Fund - Regular Plan - IDCW,82.2629
 2026-10-19,153966,Edelweiss Nifty 50 ETF - Growth,23.1419

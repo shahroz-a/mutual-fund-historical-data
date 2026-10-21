@@ -1,18 +1,18 @@
 {
-  "as_of": "2026-10-20",
+  "as_of": "2026-10-21",
   "files": [
     {
-      "date_max": "2026-10-20",
+      "date_max": "2026-10-21",
       "date_min": "2006-04-03",
       "exists": true,
       "invalid_rows": 0,
       "issues": {},
       "path": "data/latest.csv",
-      "rows": 37682,
-      "sha256": "d52405daf1d6be50bfac072b570e75036731301573ed13cfb5682441641d69d6",
-      "size_bytes": 3298987,
-      "unique_scheme_codes": 37682,
-      "valid_rows": 37682,
+      "rows": 37686,
+      "sha256": "4400c65a774e55bd7aed832047d5bbb0ad458b789861cc372f25b721ee873d41",
+      "size_bytes": 3299094,
+      "unique_scheme_codes": 37686,
+      "valid_rows": 37686,
       "warnings": {}
     },
     {
@@ -104939,8 +104939,8 @@
       "issues": {},
       "path": "data/Year/2026/10/08.csv",
       "rows": 8635,
-      "sha256": "fd6cfdf237f042cb3ef582a2786f8a49f90cd15f720d5e08f950083c55d3acf7",
-      "size_bytes": 747204,
+      "sha256": "573b56de2a93c5c0dae8fd145001c4244e10439bb7b82169650ab58d3afabdd3",
+      "size_bytes": 746987,
       "unique_scheme_codes": 8635,
       "valid_rows": 8635,
       "warnings": {}
@@ -104953,8 +104953,8 @@
       "issues": {},
       "path": "data/Year/2026/10/09.csv",
       "rows": 8628,
-      "sha256": "d8f8040eab8c3e835ef8e59f84a294128694b869605351de01a5efc2f69d80dc",
-      "size_bytes": 746721,
+      "sha256": "5cd719d2f9a68bead10b36996753badb5ca59bc91f3647293708263e4b923489",
+      "size_bytes": 746504,
       "unique_scheme_codes": 8628,
       "valid_rows": 8628,
       "warnings": {}
@@ -104995,8 +104995,8 @@
       "issues": {},
       "path": "data/Year/2026/10/12.csv",
       "rows": 8572,
-      "sha256": "c9758f4d71cb6af533e7d5458d589c5915e2ac2cb70c0d123debf32bb842c7d8",
-      "size_bytes": 741009,
+      "sha256": "fe7acfaa0b857f86b0a0446c2ebef1b43ca41e43069a587e68e5d0e26498dd53",
+      "size_bytes": 740792,
       "unique_scheme_codes": 8572,
       "valid_rows": 8572,
       "warnings": {}
@@ -105009,8 +105009,8 @@
       "issues": {},
       "path": "data/Year/2026/10/13.csv",
       "rows": 8639,
-      "sha256": "3e38d42f446558f5f78a1e2a7e70b98d61cc858fe2eb51c1e20232adc6bad593",
-      "size_bytes": 747689,
+      "sha256": "bbf6044ae79583c62358ec799ed52c77835e5c96781d396cf532ebed89beee26",
+      "size_bytes": 747472,
       "unique_scheme_codes": 8639,
       "valid_rows": 8639,
       "warnings": {}
@@ -105023,8 +105023,8 @@
       "issues": {},
       "path": "data/Year/2026/10/14.csv",
       "rows": 8640,
-      "sha256": "9ee731dd82a6eb887a0e8d743dff95810407e82dd6e6137dfb4760ba1d2fef21",
-      "size_bytes": 747745,
+      "sha256": "7981d891103ca4fa7336650eed9ea2f210ab8ee3a45a711b773b4ce7101d9aa7",
+      "size_bytes": 747528,
       "unique_scheme_codes": 8640,
       "valid_rows": 8640,
       "warnings": {}
@@ -105037,8 +105037,8 @@
       "issues": {},
       "path": "data/Year/2026/10/15.csv",
       "rows": 8639,
-      "sha256": "5952056dd18b63fccf4ce23b418bfe682866bfb7507b676a2576a91cca6a25f1",
-      "size_bytes": 747707,
+      "sha256": "2b2596d0238f8fa7c01e5c984c945b4ae85162449b06e1a7f8f672bc29b6db37",
+      "size_bytes": 747490,
       "unique_scheme_codes": 8639,
       "valid_rows": 8639,
       "warnings": {}
@@ -105051,8 +105051,8 @@
       "issues": {},
       "path": "data/Year/2026/10/16.csv",
       "rows": 8652,
-      "sha256": "ccef2cbfc4bbc9109925acb185485d1ad670c4fc51b4c9a9fe3196c515ee6846",
-      "size_bytes": 748784,
+      "sha256": "6ae09973b56b8b88b445d5c18d97746a177b8b377ca6593661eef955aad9ba66",
+      "size_bytes": 748567,
       "unique_scheme_codes": 8652,
       "valid_rows": 8652,
       "warnings": {}
@@ -105092,11 +105092,11 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/10/19.csv",
-      "rows": 8620,
-      "sha256": "fc5de5fa1347d96bff8f6333a95ada9f159f74df3422ea2f3aa360bdd7187ec6",
-      "size_bytes": 745621,
-      "unique_scheme_codes": 8620,
-      "valid_rows": 8620,
+      "rows": 8634,
+      "sha256": "af89d48f2fd93ad8e71fbf70c755932c1aaea423b25a8bd24383a6f6dc61125f",
+      "size_bytes": 746801,
+      "unique_scheme_codes": 8634,
+      "valid_rows": 8634,
       "warnings": {}
     },
     {
@@ -105112,21 +105112,35 @@
       "unique_scheme_codes": 714,
       "valid_rows": 714,
       "warnings": {}
+    },
+    {
+      "date_max": "2026-10-21",
+      "date_min": "2026-10-21",
+      "exists": true,
+      "invalid_rows": 0,
+      "issues": {},
+      "path": "data/Year/2026/10/21.csv",
+      "rows": 8132,
+      "sha256": "53d4d5c6b1fab7835dab0c7f1b6b8f30bd4b14e882c719e6a0991a6f9ea0f958",
+      "size_bytes": 702004,
+      "unique_scheme_codes": 8132,
+      "valid_rows": 8132,
+      "warnings": {}
     }
   ],
-  "generated_at": "2026-10-20T19:37:29+00:00",
+  "generated_at": "2026-10-21T19:35:45+00:00",
   "issues": {},
   "status": "passed",
   "summary": {
-    "date_max": "2026-10-20",
+    "date_max": "2026-10-21",
     "date_min": "2006-04-01",
-    "files": 7508,
-    "historical_rows": 37188943,
+    "files": 7509,
+    "historical_rows": 37197089,
     "invalid_rows": 0,
-    "latest_rows": 37682,
-    "rows": 37226625,
-    "unique_scheme_codes": 37682,
-    "valid_rows": 37226625
+    "latest_rows": 37686,
+    "rows": 37234775,
+    "unique_scheme_codes": 37686,
+    "valid_rows": 37234775
   },
   "warnings": {}
 }
