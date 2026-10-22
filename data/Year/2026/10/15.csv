@@ -3334,14 +3334,14 @@ date,scheme_code,scheme_name,nav
 2026-10-15,140610,BANDHAN Credit Risk Fund-Direct Plan-Annual IDCW,10.5963
 2026-10-15,140611,BANDHAN Credit Risk Fund - Regular Plan Half Yearly IDCW,10.1211
 2026-10-15,140612,BANDHAN Credit Risk Fund - Regular Plan Periodic IDCW,13.4622
-2026-10-15,140613,Mahindra Manulife Low Duration Fund - Direct Plan -Growth,1900.5702
-2026-10-15,140614,Mahindra Manulife Low Duration Fund - Regular Plan - Daily IDCW,999.3207
-2026-10-15,140615,Mahindra Manulife Low Duration Fund - Regular Plan - Weekly IDCW,1051.6435
-2026-10-15,140616,Mahindra Manulife Low Duration Fund - Regular Plan - Monthly IDCW,1114.4276
-2026-10-15,140617,Mahindra Manulife Low Duration Fund - Direct Plan - Daily IDCW,1279.2783
-2026-10-15,140618,Mahindra Manulife Low Duration Fund - Direct Plan - Weekly IDCW,1029.4186
-2026-10-15,140619,Mahindra Manulife Low Duration Fund - Direct Plan - Monthly IDCW,1134.2670
-2026-10-15,140620,Mahindra Manulife Low Duration Fund - Regular Plan - Growth,1754.4836
+2026-10-15,140613,Mahindra Manulife Ultra Short to Short Term Fund - Direct Plan -Growth,1900.5702
+2026-10-15,140614,Mahindra Manulife Ultra Short to Short Term Fund - Regular Plan - Daily IDCW,999.3207
+2026-10-15,140615,Mahindra Manulife Ultra Short to Short Term Fund - Regular Plan - Weekly IDCW,1051.6435
+2026-10-15,140616,Mahindra Manulife Ultra Short to Short Term Fund - Regular Plan - Monthly IDCW,1114.4276
+2026-10-15,140617,Mahindra Manulife Ultra Short to Short Term Fund - Direct Plan - Daily IDCW,1279.2783
+2026-10-15,140618,Mahindra Manulife Ultra Short to Short Term Fund - Direct Plan - Weekly IDCW,1029.4186
+2026-10-15,140619,Mahindra Manulife Ultra Short to Short Term Fund- Direct Plan - Monthly IDCW,1134.2670
+2026-10-15,140620,Mahindra Manulife Ultra Short to Short Term Fund - Regular Plan - Growth,1754.4836
 2026-10-15,140769,Mirae Asset Dynamic Term Fund - Direct Plan - Growth,18.5549
 2026-10-15,140770,Mirae Asset Dynamic Term Fund - Direct Plan - IDCW,18.5320
 2026-10-15,140771,Mirae Asset Dynamic Term Fund - Regular Plan - Growth,16.7877
@@ -3635,12 +3635,12 @@ date,scheme_code,scheme_name,nav
 2026-10-15,144398,Axis Aggressive Hybrid Fund - Direct Plan - Quarterly IDCW,14.14
 2026-10-15,144399,Axis Aggressive Hybrid Fund - Regular Plan - Monthly IDCW,12.09
 2026-10-15,144400,Axis Aggressive Hybrid Fund - Regular Plan - Quarterly IDCW,12.17
-2026-10-15,144401,Mahindra Manulife Dynamic Bond Fund - Regular Plan - Growth,14.8538
-2026-10-15,144402,Mahindra Manulife Dynamic Bond Fund - Regular Plan - Quarterly IDCW,10.1762
-2026-10-15,144403,Mahindra Manulife Dynamic Bond Fund - Direct Plan - Growth,16.2834
-2026-10-15,144404,Mahindra Manulife Dynamic Bond Fund - Direct Plan - Quarterly IDCW,11.3931
-2026-10-15,144405,Mahindra Manulife Dynamic Bond Fund - Regular Plan - IDCW,11.5121
-2026-10-15,144406,Mahindra Manulife Dynamic Bond Fund - Direct Plan - IDCW,12.8225
+2026-10-15,144401,Mahindra Manulife Dynamic Term Fund - Regular Plan - Growth,14.8538
+2026-10-15,144402,Mahindra Manulife Dynamic Term Fund - Regular Plan - Quarterly IDCW,10.1762
+2026-10-15,144403,Mahindra Manulife Dynamic Term Fund - Direct Plan - Growth,16.2834
+2026-10-15,144404,Mahindra Manulife Dynamic Term Fund - Direct Plan - Quarterly IDCW,11.3931
+2026-10-15,144405,Mahindra Manulife Dynamic Term Fund - Regular Plan - IDCW,11.5121
+2026-10-15,144406,Mahindra Manulife Dynamic Term Fund - Direct Plan - IDCW,12.8225
 2026-10-15,144461,Franklin India Equity Savings Fund- Growth,16.9420
 2026-10-15,144462,Franklin India Equity Savings Fund - Direct - IDCW,14.3195
 2026-10-15,144463,Franklin India Equity Savings Fund - Quarterly - IDCW,12.1385
@@ -4236,11 +4236,11 @@ date,scheme_code,scheme_name,nav
 2026-10-15,147725,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,38.128
 2026-10-15,147727,Kotak Pioneer Fund- Direct Plan- Growth Option,38.134
 2026-10-15,147728,Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option,34.273
-2026-10-15,147729,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Daily IDCW,1116.1005
+2026-10-15,147729,Mahindra Manulife Ultra Short Term Fund - Regular Plan - Daily IDCW,1116.1005
 2026-10-15,147730,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Weekly IDCW,1000.2039
-2026-10-15,147731,Mahindra Manulife Ultra Short Duration Fund - Direct Plan -Growth,1530.4615
-2026-10-15,147732,Mahindra Manulife Ultra Short Duration Fund - Direct Plan - Weekly IDCW,1000.2492
-2026-10-15,147733,Mahindra Manulife Ultra Short Duration Fund - Direct Plan - Daily IDCW,1272.3965
+2026-10-15,147731,Mahindra Manulife Ultra Short Term Fund - Direct Plan -Growth,1530.4615
+2026-10-15,147732,Mahindra Manulife Ultra Short Term Fund - Direct Plan - Weekly IDCW,1000.2492
+2026-10-15,147733,Mahindra Manulife Ultra Short Term Fund - Direct Plan - Daily IDCW,1272.3965
 2026-10-15,147734,Mahindra Manulife Ultra Short Duration Fund - Regular Plan - Growth,1486.1305
 2026-10-15,147735,Aditya Birla Sun Life Nifty Bank ETF,57.2883
 2026-10-15,147736,Mirae Asset Overnight Fund - Direct Plan - Growth,1419.8066
