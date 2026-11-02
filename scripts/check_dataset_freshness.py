@@ -6,8 +6,14 @@ from __future__ import annotations
 import argparse
 import csv
 import sys
-from datetime import date
+from datetime import date, datetime
+from zoneinfo import ZoneInfo
 from pathlib import Path
+
+# AMFI dates NAVs in India time, and the updater writes files for the India
+# date. Using the runner's UTC date here flagged those rows as future-dated
+# whenever the job ran after 18:30 UTC.
+INDIA_ZONE = ZoneInfo("Asia/Kolkata")
 
 
 def parse_iso_date(value: str, *, source: str) -> date:
@@ -95,7 +101,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     )
     parser.add_argument(
         "--as-of",
-        default=date.today().isoformat(),
+        default=datetime.now(INDIA_ZONE).date().isoformat(),
         help="Freshness reference date in YYYY-MM-DD format.",
     )
     return parser.parse_args(argv)

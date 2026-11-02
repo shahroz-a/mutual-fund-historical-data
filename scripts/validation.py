@@ -12,9 +12,15 @@ import sys
 from collections import defaultdict
 from dataclasses import dataclass, field
 from datetime import date, datetime, timezone
+from zoneinfo import ZoneInfo
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
 from typing import Any, Iterable
+
+# AMFI dates NAVs in India time, and the updater writes files for the India
+# date. Using the runner's UTC date here flagged those rows as future-dated
+# whenever the job ran after 18:30 UTC.
+INDIA_ZONE = ZoneInfo("Asia/Kolkata")
 
 
 REQUIRED_COLUMNS = ["date", "scheme_code", "scheme_name", "nav"]
@@ -563,7 +569,7 @@ def parse_args(argv: list[str]) -> argparse.Namespace:
     )
     parser.add_argument(
         "--as-of",
-        default=date.today().isoformat(),
+        default=datetime.now(INDIA_ZONE).date().isoformat(),
         help="Validation date used for future-date checks, in YYYY-MM-DD format.",
     )
     parser.add_argument(
