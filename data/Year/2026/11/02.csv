@@ -6409,8 +6409,8 @@ date,scheme_code,scheme_name,nav
 2026-11-02,152153,Helios Overnight Fund - Regular Plan - Growth Option,1188.1518
 2026-11-02,152154,Helios Overnight Fund - Regular Plan - Daily IDCW Option,1000.0000
 2026-11-02,152155,Mirae Asset Nifty IT ETF,34.5168
-2026-11-02,152156,Zerodha Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,13.6619
-2026-11-02,152157,Zerodha ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,13.6917
+2026-11-02,152156,Zerodha CASE Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,13.6619
+2026-11-02,152157,Zerodha CASE ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,13.6917
 2026-11-02,152158,Aditya Birla Sun Life Transportation and Logistics Fund-Direct Growth,17.02
 2026-11-02,152159,Aditya Birla Sun Life Transportation and Logistics Fund-Direct IDCW,17.01
 2026-11-02,152160,Aditya Birla Sun Life Transportation and Logistics Fund-Regular IDCW,16.33
@@ -6532,7 +6532,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,152324,Bandhan Multi Asset Allocation Fund - Direct Plan - Growth,14.1626
 2026-11-02,152325,Bandhan Multi Asset Allocation Fund - Regular Plan - IDCW,12.7442
 2026-11-02,152326,Bandhan Multi Asset Allocation Fund - Regular Plan - Growth,13.5872
-2026-11-02,152327,Zerodha Nifty 1D Rate Liquid ETF - Growth Option,116.6978
+2026-11-02,152327,Zerodha CASE Nifty 1D Rate Liquid ETF - Growth Option,116.6978
 2026-11-02,152328,Baroda BNP Paribas Nifty 50 Index Fund - Regular Plan - IDCW option,10.9650
 2026-11-02,152329,Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - Growth option,11.0799
 2026-11-02,152330,Baroda BNP Paribas Nifty 50 Index Fund - Direct Plan - IDCW option,11.0799
@@ -6647,7 +6647,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,152473,Baroda BNP Paribas Innovation Fund Regular plan - IDCW Option,13.0756
 2026-11-02,152474,Quantum Multi Asset Allocation Fund - Direct Plan Growth Option,11.87
 2026-11-02,152475,Quantum Multi Asset Allocation Fund - Regular Plan Growth Option,11.38
-2026-11-02,152476,Zerodha Gold ETF,21.4569
+2026-11-02,152476,Zerodha CASE Gold ETF,21.4569
 2026-11-02,152481,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Growth,11.7043
 2026-11-02,152482,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth,11.8689
 2026-11-02,152483,ICICI Prudential Nifty LargeMidcap 250 Index Fund - Direct Plan - IDCW,11.8688
@@ -6781,8 +6781,8 @@ date,scheme_code,scheme_name,nav
 2026-11-02,152664,Kotak NIFTY 100 Low Volatility 30 Index Fund - Regular plan - Growth option,10.2745
 2026-11-02,152665,Kotak NIFTY 100 Low Volatility 30 Index Fund - Direct plan - IDCW option,10.4317
 2026-11-02,152666,Kotak NIFTY 100 Low Volatility 30 Index Fund - Regular plan - IDCW option,10.2745
-2026-11-02,152667,Zerodha Nifty 100 ETF,10.2617
-2026-11-02,152668,Zerodha Nifty Midcap 150 ETF,10.7469
+2026-11-02,152667,Zerodha CASE Nifty 100 ETF,10.2617
+2026-11-02,152668,Zerodha CASE Nifty Midcap 150 ETF,10.7469
 2026-11-02,152669,Mahindra Manulife Manufacturing Fund - Regular Plan - IDCW,10.2317
 2026-11-02,152670,Mahindra Manulife Manufacturing Fund - Direct Plan - IDCW,10.6138
 2026-11-02,152671,Mahindra Manulife Manufacturing Fund - Regular Plan - Growth,10.2317
@@ -7091,7 +7091,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153008,Mirae Asset Gold ETF Fund of Fund - Direct Plan - IDCW,17.217
 2026-11-02,153009,Mirae Asset Gold ETF Fund of Fund - Regular Plan - Growth,17.037
 2026-11-02,153010,Mirae Asset Gold ETF Fund of Fund - Regular Plan - IDCW,17.027
-2026-11-02,153011,Zerodha Gold ETF FoF-Direct Plan - Growth Option,17.7809
+2026-11-02,153011,Zerodha CASE Gold ETF FoF-Direct Plan - Growth Option,17.7809
 2026-11-02,153012,SBI Nifty India Consumption Index Fund- Regular Plan- Growth,9.6884
 2026-11-02,153013,SBI Nifty India Consumption Index Fund- Regular Plan- IDCW Payout,9.6884
 2026-11-02,153014,SBI Nifty India Consumption Index Fund- Direct Plan- IDCW Payout,9.7823
@@ -7452,7 +7452,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153410,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Annual IDCW,11.1618
 2026-11-02,153411,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Direct Plan - Growth,11.1618
 2026-11-02,153412,ICICI Prudential CRISIL-IBX Financial Services 3-6 Months Debt Index Fund - Annual IDCW,11.1371
-2026-11-02,153413,Zerodha Silver ETF,18.1117
+2026-11-02,153413,Zerodha CASE Silver ETF,18.1117
 2026-11-02,153414,Axis Nifty500 Value 50 ETF,30.7728
 2026-11-02,153415,360 ONE Silver ETF,176.3034
 2026-11-02,153416,Edelweiss Ultra Short to Short Term Fund - Direct Plan Growth,1110.7852
@@ -7474,7 +7474,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153433,SBI BSE PSU BANK INDEX FUND- Direct Plan- Income Distribution Cum Capital Withdrawal Option (IDCW),13.4615
 2026-11-02,153434,SBI BSE PSU BANK INDEX FUND- Regular Plan- Growth,13.3602
 2026-11-02,153435,SBI BSE PSU BANK ETF,48.5589
-2026-11-02,153436,Zerodha Overnight Fund - Direct Plan - Growth Option,10.8586
+2026-11-02,153436,Zerodha CASE Overnight Fund - Direct Plan - Growth Option,10.8586
 2026-11-02,153437,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years IDCW Plan,1083.1034
 2026-11-02,153438,Bajaj Finserv Overnight Fund - Direct - Unclaimed less than 3 years Redemption Plan,1088.9536
 2026-11-02,153441,UTI Income Plus Arbitrage Active Fund of Fund - Regular Plan - Growth Option,10.8687
@@ -7672,7 +7672,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153653,Union Ultra Short to Short Term Fund - Regular Plan - IDCW Option,10.1770
 2026-11-02,153654,Union Ultra Short to Short Term Fund - Direct Plan - Growth Option,10.7257
 2026-11-02,153655,Union Ultra Short to Short Term Fund - Direct Plan - IDCW Option,10.2717
-2026-11-02,153656,Zerodha Silver ETF FoF - Direct Growth,16.2723
+2026-11-02,153656,Zerodha CASE Silver ETF FoF - Direct Growth,16.2723
 2026-11-02,153657,Kotak Nifty200 Quality 30 ETF,19.572
 2026-11-02,153658,KOTAK NIFTY 200 QUALITY 30 INDEX FUND - DIRECT PLAN - IDCW - PAYOUT AND REINVESTMENT,9.38
 2026-11-02,153659,KOTAK NIFTY 200 QUALITY 30 INDEX FUND - REGULAR PLAN - GROWTH,9.334
@@ -7769,7 +7769,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153754,Kotak Active Momentum Fund - Direct Plan - IDCW - Payout and Reinvestment,10.457
 2026-11-02,153755,Kotak Active Momentum Fund - Regular Plan - Growth,10.288
 2026-11-02,153756,Kotak Active Momentum Fund - Regular Plan - IDCW - Payout & Reinvestment,10.288
-2026-11-02,153757,Zerodha Multi Asset Passive FoF - Direct - Growth,10.8566
+2026-11-02,153757,Zerodha CASE Multi Asset Passive FoF - Direct - Growth,10.8566
 2026-11-02,153758,BAJAJ FINSERV EQUITY SAVINGS FUND - DIRECT - GROWTH,10.518
 2026-11-02,153769,BAJAJ FINSERV EQUITY SAVINGS FUND - REGULAR - GROWTH,10.382
 2026-11-02,153770,BAJAJ FINSERV EQUITY SAVINGS FUND -  DIRECT - IDCW,10.518
@@ -7811,7 +7811,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153808,Nippon India Nifty India Manufacturing Index- Regular Plan-IDCW Option,10.5758
 2026-11-02,153809,Nippon India Nifty India Manufacturing Index-Regular Plan-Growth Option,10.5758
 2026-11-02,153810,Nippon India Nifty India Manufacturing ETF,153.1487
-2026-11-02,153811,Zerodha Nifty 8-13 Yr G-Sec ETF,29.9726
+2026-11-02,153811,Zerodha CASE Nifty 8-13 Yr G-Sec ETF,29.9726
 2026-11-02,153812,Mirae Asset Gold Silver Passive FoF - Direct Plan - Growth,14.294
 2026-11-02,153813,Mirae Asset Gold Silver Passive FoF - Direct Plan - IDCW,14.293
 2026-11-02,153814,Mirae Asset Gold Silver Passive FoF - Regular Plan - Growth,14.195
@@ -7835,7 +7835,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153832,SBI Dynamic Asset Allocation Active FoF - Direct Plan - Growth,10.1319
 2026-11-02,153833,SBI Dynamic Asset Allocation Active FoF- Direct Plan- Income Cum Distribution Capital Withdrawal Option,10.1312
 2026-11-02,153834,SBI Dynamic Asset Allocation Active FoF - Regular Plan - Income Distribution Cum Capital Withdrawal Option,10.0123
-2026-11-02,153837,Zerodha Nifty Smallcap 100 ETF,10.5540
+2026-11-02,153837,Zerodha CASE Nifty Smallcap 100 ETF,10.5540
 2026-11-02,153838,Bandhan BSE India Sector Leaders Index Fund - Direct Plan - Growth,9.3807
 2026-11-02,153839,Bandhan BSE India Sector Leaders Index Fund - Regular Plan - Growth,9.3036
 2026-11-02,153841,Edelweiss Nifty LargeMidcap 250 ETF - Growth,15.6952
@@ -7898,8 +7898,8 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153902,Invesco India Consumption Fund - Regular Plan - Growth Plan,10.66
 2026-11-02,153903,Invesco India Consumption Fund - Regular Plan - IDCW Plan,10.66
 2026-11-02,153904,Kotak Nifty 200 Momentum 30 ETF,29.199
-2026-11-02,153905,Zerodha Nifty 50 ETF,9.4302
-2026-11-02,153906,Zerodha Nifty 50 Index Fund - Direct Plan - Growth,9.3923
+2026-11-02,153905,Zerodha CASE Nifty 50 ETF,9.4302
+2026-11-02,153906,Zerodha CASE Nifty 50 Index Fund - Direct Plan - Growth,9.3923
 2026-11-02,153907,Groww Nifty Capital Markets ETF,11.0236
 2026-11-02,153908,Groww Nifty Capital Markets ETF FOF Direct Growth,11.1674
 2026-11-02,153909,Helios Small Cap Fund - Regular Plan - Growth Option,10.87
@@ -7925,7 +7925,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,153929,Bandhan Silver ETF,180.6949
 2026-11-02,153930,Bandhan Gold ETF,136.3671
 2026-11-02,153931,Motilal Oswal Nifty Energy ETF,36.5373
-2026-11-02,153932,Zerodha BSE SENSEX Index Fund,9.1353
+2026-11-02,153932,Zerodha CASE BSE SENSEX Index Fund,9.1353
 2026-11-02,153933,Choice Gold ETF,135.4185
 2026-11-02,153934,Kotak Nifty Chemicals ETF,27.167
 2026-11-02,153935,Bajaj Finserv Banking and Financial Services Fund - Regular - Growth,9.207
@@ -8081,7 +8081,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,154106,Edelweiss Financial Services Fund - Regular Plan - IDCW Option,8.8554
 2026-11-02,154107,Edelweiss Financial Services Fund - Regular Plan - Growth Option,8.8554
 2026-11-02,154108,Edelweiss Financial Services Fund - Direct Plan - Growth Option,8.9554
-2026-11-02,154109,Zerodha Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option,1025.6807
+2026-11-02,154109,Zerodha CASE Nifty Short Duration G-Sec Index Fund - Direct Plan - Growth Option,1025.6807
 2026-11-02,154111,Groww Nifty Chemicals ETF,27.1017
 2026-11-02,154112,Motilal Oswal Diversified Equity Flexicap Passive Fund of Funds- Direct - Growth,10.1095
 2026-11-02,154113,Motilal Oswal Diversified Equity Flexicap Passive Fund of funds- Regular Growth,10.0643
@@ -8258,7 +8258,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,154303,Choice Nifty Next 50 Index Fund - Regular Plan Growth,10.7060
 2026-11-02,154304,Choice Nifty Next 50 Index Fund - Direct Plan Growth,10.7307
 2026-11-02,154305,SBI Nifty Midcap 150 ETF,21.3765
-2026-11-02,154306,Zerodha Nifty MidSmallcap400 50:50 Index Fund - Direct Plan - Growth Option,10.5468
+2026-11-02,154306,Zerodha CASE Nifty MidSmallcap400 50:50 Index Fund - Direct Plan - Growth Option,10.5468
 2026-11-02,154307,JioBlackRock Large Cap Fund - Direct Plan - Growth Option,9.5938
 2026-11-02,154308,HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Direct Growth Plan,10.4201
 2026-11-02,154309,HDFC CRISIL-IBX Financial Services 9-12 Months Debt Index Fund - Regular Growth Plan,10.4077
@@ -8273,7 +8273,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,154318,Kotak Multi Asset Active FOF - Regular- IDCW,9.614
 2026-11-02,154319,Kotak Multi Asset Active FOF - Regular - Growth,9.613
 2026-11-02,154320,Groww Arbitrage Fund Direct Growth,10.3349
-2026-11-02,154321,Zerodha Nifty LargeMidcap250 Plus 8-13 Yr G-Sec 70:30 Index Fund - Direct Plan - Growth Option,9.7988
+2026-11-02,154321,Zerodha CASE Nifty LargeMidcap250 Plus 8-13 Yr G-Sec 70:30 Index Fund - Direct Plan - Growth Option,9.7988
 2026-11-02,154322,Motilal Oswal BSE Top 10 Banks ETF,16.3874
 2026-11-02,154323,Groww Arbitrage Fund Direct IDCW,10.335
 2026-11-02,154324,Groww Arbitrage Fund Regular IDCW,10.2963
@@ -8373,8 +8373,8 @@ date,scheme_code,scheme_name,nav
 2026-11-02,154431,Invesco India Ultra Short Term Fund - Regular Plan - Weekly IDCW (Payout / Reinvestment),1146.8951
 2026-11-02,154433,TRUSTMF LARGE & MIDCAP FUND - DIRECT PLAN - GROWTH,9.81
 2026-11-02,154434,TRUSTMF LARGE & MIDCAP FUND - REGULAR PLAN - GROWTH,9.76
-2026-11-02,154436,Zerodha Life Cycle Fund 2036 - Direct - Growth,9.4977
-2026-11-02,154437,Zerodha Life Cycle Fund 2041 - Direct - Growth,9.4317
+2026-11-02,154436,Zerodha CASE Life Cycle Fund 2036 - Direct - Growth,9.4977
+2026-11-02,154437,Zerodha CASE Life Cycle Fund 2041 - Direct - Growth,9.4317
 2026-11-02,154438,ALPHAGREP MULTI ASSET ALLOCATION FUND-DIRECT-GROWTH,10.1476
 2026-11-02,154440,ALPHAGREP MULTI ASSET ALLOCATION FUND-REGULAR-GROWTH,10.0965
 2026-11-02,154442,ALPHAGREP MULTI ASSET ALLOCATION FUND-REGULAR-IDCW,10.0965
@@ -8513,7 +8513,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,154616,SBI Balance Hybrid Fund - Regular Plan - IDCW,9.8493
 2026-11-02,154617,SBI Balance Hybrid Fund - Direct Plan - IDCW,9.8691
 2026-11-02,154618,SBI Balance Hybrid Fund - Direct Plan - Growth,9.8691
-2026-11-02,154619,Zerodha Arbitrage Fund - Direct - Growth,10.1379
+2026-11-02,154619,Zerodha CASE Arbitrage Fund - Direct - Growth,10.1379
 2026-11-02,154620,Edelweiss Ultra Short Term Fund Regular IDCW Plan,1009.5267
 2026-11-02,154621,Edelweiss Ultra Short Term Fund Direct Growth Plan,1010.4473
 2026-11-02,154622,Edelweiss Ultra Short Term Fund Regular Growth Plan,1009.5267
@@ -8566,7 +8566,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,154694,Bank of India Value Fund - Direct - IDCW,9.96
 2026-11-02,154695,Bank of India Value Fund - Regular - Growth,9.95
 2026-11-02,154696,Bank of India Value Fund - Regular - IDCW,9.95
-2026-11-02,154697,Zerodha Life Cycle Fund 2031,9.8111
+2026-11-02,154697,Zerodha CASE Life Cycle Fund 2031,9.8111
 2026-11-02,154698,UTI BSE India Sector Leaders Exchange Traded Fund,14.2515
 2026-11-02,154699,UTI BSE India Sector Leaders Index Fund,10.0276
 2026-11-02,154700,UTI BSE India Sector Leaders Index Fund Regular Plan,10.017
@@ -8627,7 +8627,7 @@ date,scheme_code,scheme_name,nav
 2026-11-02,154761,SBI Nifty200 Value 30 ETF FOF - Direct Plan - IDCW,10.0262
 2026-11-02,154762,Motilal Oswal Nifty REITs & Realty Index Fund - Direct,9.7957
 2026-11-02,154763,Motilal Oswal Nifty REITs & Realty Index Fund - Regular,9.7918
-2026-11-02,154764,Zerodha Nifty Next 100 ETF,10.1420
+2026-11-02,154764,Zerodha CASE Nifty Next 100 ETF,10.1420
 2026-11-02,154765,HDFC FTSE India Equity ETF-Growth Option,31.1882
 2026-11-02,154768,DSP BSE Insurance ETF,13.9619
 2026-11-02,154769,WhiteOak Capital Diversified Equity Small Cap Active FOF Regular Plan Growth,9.780
