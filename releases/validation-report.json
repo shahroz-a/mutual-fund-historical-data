@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "files": [
     {
       "date_max": "2026-11-08",
@@ -9,8 +9,8 @@
       "issues": {},
       "path": "data/latest.csv",
       "rows": 37738,
-      "sha256": "d04c897ca3f4c2a0611559852c0fa1af2305fc3f31e09343d6771e65fc186ce9",
-      "size_bytes": 3267702,
+      "sha256": "36d778155a994212bb912eb01e85d63e40a962fc766e972415c6d0cee618301b",
+      "size_bytes": 3267790,
       "unique_scheme_codes": 37738,
       "valid_rows": 37738,
       "warnings": {}
@@ -105358,11 +105358,11 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/11/07.csv",
-      "rows": 104,
-      "sha256": "2a2558165968b38a1a6df7e097a9968332bf764fe245fce12b8158f32e32c551",
-      "size_bytes": 5911,
-      "unique_scheme_codes": 104,
-      "valid_rows": 104,
+      "rows": 85,
+      "sha256": "6029498e997f7e3b3465aac166408ad4c6fd214fff64b92bcb70660420dbc132",
+      "size_bytes": 4954,
+      "unique_scheme_codes": 85,
+      "valid_rows": 85,
       "warnings": {}
     },
     {
@@ -105372,15 +105372,15 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/11/08.csv",
-      "rows": 594,
-      "sha256": "844f659df32295e0aa7e9b770800bcc0aed0236a48ff2a53d903188a47ce95ed",
-      "size_bytes": 29795,
-      "unique_scheme_codes": 594,
-      "valid_rows": 594,
+      "rows": 613,
+      "sha256": "ba812c2dc137d729aaf18a60a52c71a8e49a8378ae5995c218851e8791bcebf9",
+      "size_bytes": 30840,
+      "unique_scheme_codes": 613,
+      "valid_rows": 613,
       "warnings": {}
     }
   ],
-  "generated_at": "2026-11-07T19:39:56+00:00",
+  "generated_at": "2026-11-08T20:00:07+00:00",
   "issues": {},
   "status": "passed",
   "summary": {

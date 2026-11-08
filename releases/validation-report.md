@@ -1,7 +1,7 @@
 # Dataset Validation Report
 
-- Generated at: `2026-11-07T19:39:56+00:00`
-- Validation date: `2026-11-08`
+- Generated at: `2026-11-08T20:00:07+00:00`
+- Validation date: `2026-11-09`
 - Status: `passed`
 
 ## Summary
@@ -21,7 +21,7 @@
 
 | File | Rows | Invalid | Unique schemes | Date range | SHA-256 |
 | --- | ---: | ---: | ---: | --- | --- |
-| data/latest.csv | 37738 | 0 | 37738 | 2006-04-03 to 2026-11-08 | `d04c897ca3f4c2a0611559852c0fa1af2305fc3f31e09343d6771e65fc186ce9` |
+| data/latest.csv | 37738 | 0 | 37738 | 2006-04-03 to 2026-11-08 | `36d778155a994212bb912eb01e85d63e40a962fc766e972415c6d0cee618301b` |
 | data/Year/2006/04/01.csv | 82 | 0 | 82 | 2006-04-01 to 2006-04-01 | `b62ef71842f9cc29358819c6d45f5dddfc66640b1740ccc13ef6709643ca54d9` |
 | data/Year/2006/04/02.csv | 386 | 0 | 386 | 2006-04-02 to 2006-04-02 | `6534c09a9932610a0565c78756c5baf4671ae8e6af5952152fc0874a36d4b5bb` |
 | data/Year/2006/04/03.csv | 1738 | 0 | 1738 | 2006-04-03 to 2006-04-03 | `29f05f2152ab58a27d17eb8880685f6ecb4f63efb7cd236bf478b639664bc5b8` |
@@ -7546,8 +7546,8 @@
 | data/Year/2026/11/04.csv | 8695 | 0 | 8695 | 2026-11-04 to 2026-11-04 | `816a0717da99c849122a7ecc810d52b32962d861ba076e1bd0b0126f43c9a0b4` |
 | data/Year/2026/11/05.csv | 8705 | 0 | 8705 | 2026-11-05 to 2026-11-05 | `2f1edf845a70dd84867d55d85bd81fd2995adc8e1d3c8a19bbad9f75f19928ba` |
 | data/Year/2026/11/06.csv | 8673 | 0 | 8673 | 2026-11-06 to 2026-11-06 | `569633164368cc0bb1ebafc9c480853e578cc9b1613eeb776162ecd801b89825` |
-| data/Year/2026/11/07.csv | 104 | 0 | 104 | 2026-11-07 to 2026-11-07 | `2a2558165968b38a1a6df7e097a9968332bf764fe245fce12b8158f32e32c551` |
-| data/Year/2026/11/08.csv | 594 | 0 | 594 | 2026-11-08 to 2026-11-08 | `844f659df32295e0aa7e9b770800bcc0aed0236a48ff2a53d903188a47ce95ed` |
+| data/Year/2026/11/07.csv | 85 | 0 | 85 | 2026-11-07 to 2026-11-07 | `6029498e997f7e3b3465aac166408ad4c6fd214fff64b92bcb70660420dbc132` |
+| data/Year/2026/11/08.csv | 613 | 0 | 613 | 2026-11-08 to 2026-11-08 | `ba812c2dc137d729aaf18a60a52c71a8e49a8378ae5995c218851e8791bcebf9` |
 
 ## Issues
 
