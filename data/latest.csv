@@ -619,8 +619,8 @@ date,scheme_code,scheme_name,nav
 2015-12-14,101404,Sahara Income Fund-Growth,27.6054
 2009-09-18,101405,ING Gilt Fund-Growth Option,15.6353
 2009-09-18,101406,ING Gilt Fund-Dividend Option,15.635
-2026-11-15,101407,BARODA BNP PARIBAS LIQUID FUND,3963.4691
-2026-11-15,101408,BARODA BNP PARIBAS LIQUID FUND,4803.6597
+2026-11-15,101407,Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option,3963.4691
+2026-11-15,101408,Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option,4803.6597
 2022-08-04,101409,BARODA BNP PARIBAS LIQUID FUND,1006.0602
 2017-10-27,101419,Tata Long Term Debt Fund - Regular Plan  -Bonus,16.075
 2017-04-27,101420,JM Floater Short Term Fund - Daily Dividend Option,10.0883
@@ -8131,10 +8131,10 @@ date,scheme_code,scheme_name,nav
 2012-08-16,111701,Mirae Asset Gilt Fund Investment Plan - Regular Dividend,11.5484
 2010-01-22,111702,Mirae Asset Gilt Fund Investment Plan - Bonus Plan,10.3442
 2020-11-03,111703,Taurus Liquid Fund - Regular Plan -SI Daily Dividend Option,1013.4375
-2026-11-15,111704,BARODA BNP PARIBAS LIQUID FUND,3262.8388
-2026-11-15,111705,BARODA BNP PARIBAS LIQUID FUND,1000.8865
+2026-11-15,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,3262.8388
+2026-11-15,111705,Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION,1000.8865
 2014-06-29,111706,BARODA LIQUID FUND PLAN A - MONTHLY IDCW OPTION,1001.3268
-2026-11-15,111707,BARODA BNP PARIBAS LIQUID FUND,1001.1996
+2026-11-15,111707,Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION,1001.1996
 2026-11-13,111708,BANK OF INDIA ELSS Tax Saver FUND -Regular Plan-IDCW,32.50
 2026-11-13,111709,BANK OF INDIA ELSS Tax Saver FUND -ECO Plan-Growth,183.19
 2026-11-13,111710,BANK OF INDIA ELSS Tax Saver FUND  -Regular Plan- Growth,168.69
@@ -14158,9 +14158,9 @@ date,scheme_code,scheme_name,nav
 2022-03-13,119411,Baroda Treasury Advantage Fund - Plan B (Direct) - Monthly IDCW Option,741.8984
 2022-11-25,119412,L&T Infrastructure Fund-Direct Plan-IDCW,25.4624
 2022-11-25,119413,L&T Infrastructure Fund -Direct Plan-Growth,27.7498
-2026-11-15,119414,BARODA BNP PARIBAS LIQUID FUND,1002.0849
-2026-11-15,119415,BARODA BNP PARIBAS LIQUID FUND,3308.7033
-2026-11-15,119416,BARODA BNP PARIBAS LIQUID FUND,1220.8418
+2026-11-15,119414,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION,1002.0849
+2026-11-15,119415,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3308.7033
+2026-11-15,119416,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION,1220.8418
 2022-11-25,119417,L&T  Tax Advantage Fund-Direct Plan-Growth,86.4392
 2022-11-25,119418,L&T Tax Advantage Fund-Direct Plan-IDCW,32.6239
 2016-05-10,119419,L&T Global Real Assets Fund-Direct Plan-Dividend Option,18.623
@@ -26355,14 +26355,14 @@ date,scheme_code,scheme_name,nav
 2019-07-23,139531,SBI Dual Advantage Fund - Series XVI - Direct Plan - Dividend Payout,12.1241
 2019-07-23,139532,SBI Dual Advantage Fund - Series XVI - Regular Plan - Dividend Payout,11.8609
 2019-07-23,139533,SBI Dual Advantage Fund - Series XVI - Regular Plan - Growth,11.8598
-2026-11-15,139534,Mahindra Manulife Liquid Fund,1001.6443
-2026-11-15,139535,Mahindra Manulife Liquid Fund,1313.6763
-2026-11-15,139536,Mahindra Manulife Liquid Fund,1003.5118
-2026-11-15,139537,Mahindra Manulife Liquid Fund,1848.1922
-2026-11-15,139538,Mahindra Manulife Liquid Fund,1870.8081
+2026-11-15,139534,Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW,1001.6443
+2026-11-15,139535,Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW,1313.6763
+2026-11-15,139536,Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW,1003.5118
+2026-11-15,139537,Mahindra Manulife Liquid Fund - Regular Plan - Growth,1848.1922
+2026-11-15,139538,Mahindra Manulife Liquid Fund - Direct Plan -Growth,1870.8081
 2021-11-30,139539,Mahindra Manulife Liquid Fund,1218.6343
 2021-11-30,139540,Mahindra Manulife Liquid Fund,1000.0000
-2026-11-15,139541,Mahindra Manulife Liquid Fund,1009.9227
+2026-11-15,139541,Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW,1009.9227
 2019-07-29,139542,Reliance Fixed Horizon Fund XXXI- Series 5,12.5318
 2019-07-29,139544,Reliance Fixed Horizon Fund XXXI- Series 5,12.3949
 2019-07-29,139545,Reliance Fixed Horizon Fund XXXI- Series 5,10.0000
@@ -31759,12 +31759,12 @@ date,scheme_code,scheme_name,nav
 2026-11-13,147184,ITI Multi Cap Fund - Regular Plan - Growth Option,26.9506
 2026-11-13,147185,ITI Multi Cap Fund - Regular Plan - IDCW Option,23.5744
 2026-11-13,147186,ITI Multi Cap Fund - Direct Plan - IDCW Option,27.4758
-2026-11-15,147193,Baroda BNP Paribas Overnight Fund,1454.1336
-2026-11-15,147194,Baroda BNP Paribas Overnight Fund,1000.0018
-2026-11-15,147195,Baroda BNP Paribas Overnight Fund,1000.7146
-2026-11-15,147196,Baroda BNP Paribas Overnight Fund,1461.2855
-2026-11-15,147197,Baroda BNP Paribas Overnight Fund,1000.0028
-2026-11-15,147198,Baroda BNP Paribas Overnight Fund,1001.1952
+2026-11-15,147193,Baroda BNP Paribas Overnight Fund - Regular Plan - Growth,1454.1336
+2026-11-15,147194,Baroda BNP Paribas Overnight Fund - Regular Plan - Daily IDCW,1000.0018
+2026-11-15,147195,Baroda BNP Paribas Overnight Fund - Direct Plan - Weekly IDCW,1000.7146
+2026-11-15,147196,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1461.2855
+2026-11-15,147197,Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW,1000.0028
+2026-11-15,147198,Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW,1001.1952
 2020-04-30,147199,SBI Fixed Maturity Plan (FMP) - Series 4 (365 Days) - Direct Plan - Growth,10.7942
 2020-04-30,147200,SBI Fixed Maturity Plan (FMP) - Series 4 - Direct Plan - Dividend Payout,10.7942
 2020-04-30,147201,SBI Fixed Maturity Plan (FMP) - Series 4 (365 Days) - Regular Plan - Dividend Payout,10.7673
@@ -32044,10 +32044,10 @@ date,scheme_code,scheme_name,nav
 2023-08-23,147560,SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Growth,13.0558
 2023-08-23,147561,SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),13.0589
 2023-08-23,147562,SBI Fixed Maturity Plan (FMP) - Series 14 (384 Days) - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.9413
-2026-11-15,147563,Mahindra Manulife Overnight Fund,1443.1474
-2026-11-15,147564,Mahindra Manulife Overnight Fund,1439.5931
-2026-11-15,147565,Mahindra Manulife Overnight Fund,1428.9962
-2026-11-15,147566,Mahindra Manulife Overnight Fund,1267.3686
+2026-11-15,147563,Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW,1443.1474
+2026-11-15,147564,Mahindra Manulife Overnight Fund - Direct Plan -Growth,1439.5931
+2026-11-15,147565,Mahindra Manulife Overnight Fund - Regular Plan - Growth,1428.9962
+2026-11-15,147566,Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW,1267.3686
 2026-11-13,147567,Axis Money Market Fund - Direct Plan - Growth Option,1578.3064
 2026-11-13,147568,Axis Money Market Fund - Regular Plan - Growth Option,1560.3797
 2026-11-15,147569,Edelweiss Overnight Fund,1433.1777
@@ -33500,8 +33500,8 @@ date,scheme_code,scheme_name,nav
 2026-11-13,149467,Axis Nifty Next 50 Index Fund - Regular Plan - Growth,17.5165
 2026-11-13,149468,Axis Nifty Next 50 Index Fund - Regular Plan - IDCW,16.6184
 2026-11-13,149469,Axis Nifty Next 50 Index Fund - Direct Plan - IDCW,17.1932
-2026-11-15,149470,Mahindra Manulife Overnight Fund,1320.0549
-2026-11-15,149471,Mahindra Manulife Overnight Fund,1000.0000
+2026-11-15,149470,Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years,1320.0549
+2026-11-15,149471,Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years,1000.0000
 2026-09-30,149472,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,13.1627
 2026-09-30,149473,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,13.1630
 2026-09-30,149474,SBI CPSE Bond Plus SDL Sep 2026 50:50 Index Fund,13.2629
@@ -33772,10 +33772,10 @@ date,scheme_code,scheme_name,nav
 2026-11-13,149969,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Regular - IDCW,13.3472
 2026-11-13,149970,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Direct - Growth,13.4409
 2026-11-13,149971,DSP Nifty SDL Plus G-Sec Jun 2028 30:70 Index Fund - Direct - IDCW,13.4409
-2026-11-15,149988,Baroda BNP Paribas Overnight Fund,1000.0000
-2026-11-15,149989,Baroda BNP Paribas Overnight Fund,1311.0744
-2026-11-15,149990,Baroda BNP Paribas Overnight Fund,1000.0000
-2026-11-15,149991,Baroda BNP Paribas Overnight Fund,1311.1050
+2026-11-15,149988,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed IDCW - Greater than 3 years,1000.0000
+2026-11-15,149989,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Up to 3 years,1311.0744
+2026-11-15,149990,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Greater than 3 years,1000.0000
+2026-11-15,149991,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed IDCW - Up to 3 years,1311.1050
 2026-11-13,149992,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Income Distribution Cum Capital withdrawal option,13.3690
 2026-11-13,149993,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Direct Plan- Growth option,13.4410
 2026-11-13,149994,SBI Fixed Maturity Plan (FMP)- Series 61 (1927 Days)- Regular Plan- Growth option,13.3691
@@ -33931,8 +33931,8 @@ date,scheme_code,scheme_name,nav
 2022-10-06,150365,SBI Fixed Maturity Plan (FMP)- Series 62 (191 Days)- Regular Plan- Growth option,10.2326
 2026-11-13,150366,NJ Arbitrage Fund - Regular Plan - Growth Option,12.8822
 2026-11-13,150367,NJ Arbitrage Fund - Direct Plan - Growth Option,13.2715
-2026-11-15,150368,NJ Overnight Fund,1281.6177
-2026-11-15,150369,NJ Overnight Fund,1287.1167
+2026-11-15,150368,NJ Overnight Fund - Regular Plan - Growth Option,1281.6177
+2026-11-15,150369,NJ Overnight Fund - Direct Plan - Growth Option,1287.1167
 2026-11-13,150376,Edelweiss Focused Fund - Direct Plan - Growth,18.126
 2026-04-09,150377,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Regular Plan - Growth,12.8739
 2026-04-09,150378,SBI Fixed Maturity Plan (FMP) - Series 66 (1361 Days) - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),12.9282
@@ -35296,7 +35296,7 @@ date,scheme_code,scheme_name,nav
 2026-11-13,152108,QUANTUM SMALL CAP FUND - REGULAR PLAN GROWTH OPTION,13.20
 2026-11-13,152109,Parag Parikh Arbitrage Fund - Direct Plan Growth,12.2626
 2026-11-13,152110,Parag Parikh Arbitrage Fund - Regular Plan Growth,12.1300
-2026-11-15,152116,NJ Overnight Fund,1118.0461
+2026-11-15,152116,NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years,1118.0461
 2026-11-13,152125,Groww Nifty Total Market Index Fund - Direct Plan - IDCW,14.3012
 2026-11-13,152126,Groww Nifty Total Market Index Fund - Regular Plan - IDCW,14.0211
 2026-11-13,152127,Groww Nifty Total Market Index Fund - Regular Plan - Growth,14.0204
@@ -35319,10 +35319,10 @@ date,scheme_code,scheme_name,nav
 2026-11-13,152147,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Regular Growth,12.6876
 2026-11-13,152149,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Regular IDCW,12.6877
 2026-11-13,152150,Aditya Birla Sun Life US Treasury 3-10 Year Bond ETFs Fund Of Funds-Direct Growth,12.7074
-2026-11-15,152151,Helios Overnight Fund,1000.0000
-2026-11-15,152152,Helios Overnight Fund,1192.1823
-2026-11-15,152153,Helios Overnight Fund,1190.3814
-2026-11-15,152154,Helios Overnight Fund,1000.0000
+2026-11-15,152151,Helios Overnight Fund - Direct Plan - Daily IDCW Option,1000.0000
+2026-11-15,152152,Helios Overnight Fund - Direct Plan - Growth Option,1192.1823
+2026-11-15,152153,Helios Overnight Fund - Regular Plan - Growth Option,1190.3814
+2026-11-15,152154,Helios Overnight Fund - Regular Plan - Daily IDCW Option,1000.0000
 2026-11-13,152155,Mirae Asset Nifty IT ETF,33.9744
 2026-11-13,152156,Zerodha CASE Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,14.5831
 2026-11-13,152157,Zerodha CASE ELSS Tax Saver Nifty LargeMidcap 250 Index Fund - Direct Plan - Growth option,14.6155
@@ -37384,10 +37384,10 @@ date,scheme_code,scheme_name,nav
 2026-11-13,154408,Tata Multi Sector Passive FOF Direct Plan IDCW Reinvestment Option,10.1491
 2026-11-13,154409,Tata Multi Sector Passive FOF Direct Plan Growth Option,10.1491
 2026-11-13,154410,Tata Multi Sector Passive FOF Direct Plan IDCW Payout Option,10.1491
-2026-11-15,154413,Choice Overnight Fund,101.9323
-2026-11-15,154414,Choice Overnight Fund,100.1000
-2026-11-15,154415,Choice Overnight Fund,101.8922
-2026-11-15,154416,Choice Overnight Fund,100.1000
+2026-11-15,154413,Choice Overnight Fund - Growth Option - Direct Plan,101.9323
+2026-11-15,154414,Choice Overnight Fund - Daily IDCW Option - Regular Plan,100.1000
+2026-11-15,154415,Choice Overnight Fund - Growth Option - Regular Plan,101.8922
+2026-11-15,154416,Choice Overnight Fund - Daily IDCW Option - Direct Plan,100.1000
 2026-11-13,154417,ICICI Prudential Balanced Hybrid Fund - Direct Plan - Growth,10.16
 2026-11-13,154418,ICICI Prudential Balanced Hybrid Fund - Growth,10.12
 2026-11-13,154419,ICICI Prudential Balanced Hybrid Fund - IDCW,10.12
@@ -37553,7 +37553,7 @@ date,scheme_code,scheme_name,nav
 2026-11-13,154621,Edelweiss Ultra Short Term Fund Direct Growth Plan,1013.5391
 2026-11-13,154622,Edelweiss Ultra Short Term Fund Regular Growth Plan,1012.4699
 2026-11-13,154623,Edelweiss Ultra Short Term Fund Direct IDCW Plan,1013.5391
-2026-11-15,154624,Choice Overnight Fund,101.3869
+2026-11-15,154624,Choice Overnight Fund -Direct -Unclaimed Less than 3 years Redemption Plan,101.3869
 2026-11-13,154625,quant Silver ETF,17.8988
 2026-11-13,154626,Mirae Asset BSE LargeMid (60:40) Stable Dividend 50 ETF,37.4694
 2026-11-13,154627,Axis Nifty Energy ETF,18.7566
@@ -37609,10 +37609,10 @@ date,scheme_code,scheme_name,nav
 2026-11-13,154702,JioBlackRock Balanced Advantage Fund - Regular Plan - Growth Option,10.6799
 2026-11-13,154703,Navi Nifty Reits & Realty Undex Fund- Regular Plan,10.2897
 2026-11-13,154704,Navi Nifty Reits & Realty Index Fund- Direct Plan,10.3118
-2026-11-15,154705,Monarch Overnight Fund,1002.9682
-2026-11-15,154706,Monarch Overnight Fund,1009.8327
+2026-11-15,154705,Monarch Overnight Fund - Direct Plan - Monthly  IDCW,1002.9682
+2026-11-15,154706,Monarch Overnight Fund- Direct Plan- Growth,1009.8327
 2026-10-27,154710,Monarch Overnight Fund,1000.0000
-2026-11-15,154711,Monarch Overnight Fund,1009.7218
+2026-11-15,154711,Monarch Overnight Fund- Regular Plan Growth,1009.7218
 2026-11-13,154712,Invesco India Nifty India Defence Index Fund - Direct Plan - Growth,9.7741
 2026-11-13,154713,Invesco India Nifty India Defence Index Fund - Regular Plan - Growth,9.7661
 2026-11-13,154714,Invesco India Nifty India Defence Index Fund - Direct Plan - IDCW,9.7741
@@ -37635,8 +37635,8 @@ date,scheme_code,scheme_name,nav
 2026-11-13,154733,Kotak Multi Sector Omni FOF - Regular Plan - IDCW - Payout & Reinvestment,10.854
 2026-11-13,154734,Helios Balanced Advantage Fund - Direct Plan - Monthly IDCW Option,10.73
 2026-11-13,154735,Helios Balanced Advantage Fund - Regular Plan - Monthly IDCW Option,10.85
-2026-11-15,154736,LAKSHYA OVERNIGHT FUND,1008.2906
-2026-11-15,154737,LAKSHYA OVERNIGHT FUND,1008.1179
+2026-11-15,154736,LAKSHYA OVERNIGHT FUND-Direct,1008.2906
+2026-11-15,154737,LAKSHYA OVERNIGHT FUND-Regular,1008.1179
 2026-11-13,154738,Axis Nifty500 Low Volatility 50 Index Fund - Direct Plan - Growth Option,10.5302
 2026-11-13,154739,Axis Nifty500 Low Volatility 50 Index Fund - Regular Plan - Growth Option,10.5190
 2026-11-13,154740,ICICI Prudential Contra Fund - Direct Plan - Growth,10.50

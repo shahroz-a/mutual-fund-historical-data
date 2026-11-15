@@ -33,8 +33,8 @@ date,scheme_code,scheme_name,nav
 2026-11-15,101184,LIC MF Liquid Fund,1000.1751
 2026-11-15,101185,LIC MF Liquid Fund,5132.0013
 2026-11-15,101206,SBI OVERNIGHT FUND,4460.4535
-2026-11-15,101407,BARODA BNP PARIBAS LIQUID FUND,3963.4691
-2026-11-15,101408,BARODA BNP PARIBAS LIQUID FUND,4803.6597
+2026-11-15,101407,Baroda BNP Paribas LIQUID FUND-Defunct Plan- IDCW Option,3963.4691
+2026-11-15,101408,Baroda BNP Paribas LIQUID FUND- Defunct Plan -Growth Option,4803.6597
 2026-11-15,101549,JM Liquid Fund,24.7785
 2026-11-15,101714,Tata Liquid Fund,1001.5157
 2026-11-15,101996,HDFC Overnight Fund,4077.9851
@@ -90,9 +90,9 @@ date,scheme_code,scheme_name,nav
 2026-11-15,111645,Mirae Asset Liquid Fund,1157.1846
 2026-11-15,111646,Mirae Asset Liquid Fund,2975.0294
 2026-11-15,111647,Mirae Asset Liquid Fund,1066.4347
-2026-11-15,111704,BARODA BNP PARIBAS LIQUID FUND,3262.8388
-2026-11-15,111705,BARODA BNP PARIBAS LIQUID FUND,1000.8865
-2026-11-15,111707,BARODA BNP PARIBAS LIQUID FUND,1001.1996
+2026-11-15,111704,Baroda BNP Paribas LIQUID FUND - Regular Plan - GROWTH OPTION,3262.8388
+2026-11-15,111705,Baroda BNP Paribas LIQUID FUND - Regular Plan - WEEKLY IDCW OPTION,1000.8865
+2026-11-15,111707,Baroda BNP Paribas LIQUID FUND - Regular Plan - DAILY IDCW OPTION,1001.1996
 2026-11-15,111971,BANK OF INDIA LIQUID FUND,1005.0000
 2026-11-15,112210,Axis Liquid Fund,3164.3890
 2026-11-15,112211,Axis Liquid Fund,1001.3998
@@ -176,9 +176,9 @@ date,scheme_code,scheme_name,nav
 2026-11-15,119368,BANK OF INDIA LIQUID FUND,1005.0000
 2026-11-15,119369,BANK OF INDIA LIQUID FUND,3307.7196
 2026-11-15,119370,BANK OF INDIA LIQUID FUND,1006.2651
-2026-11-15,119414,BARODA BNP PARIBAS LIQUID FUND,1002.0849
-2026-11-15,119415,BARODA BNP PARIBAS LIQUID FUND,3308.7033
-2026-11-15,119416,BARODA BNP PARIBAS LIQUID FUND,1220.8418
+2026-11-15,119414,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - DAILY IDCW OPTION,1002.0849
+2026-11-15,119415,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - GROWTH OPTION,3308.7033
+2026-11-15,119416,Baroda BNP Paribas LIQUID FUND - DIRECT PLAN - WEEKLY IDCW OPTION,1220.8418
 2026-11-15,119568,Aditya Birla Sun Life Liquid Fund,464.0264
 2026-11-15,119569,Aditya Birla Sun Life Liquid Fund,100.1950
 2026-11-15,119570,Aditya Birla Sun Life Liquid Fund,100.2599
@@ -251,12 +251,12 @@ date,scheme_code,scheme_name,nav
 2026-11-15,139388,Invesco India Liquid Fund,1000
 2026-11-15,139389,Invesco India Liquid Fund,1867.8632
 2026-11-15,139390,Invesco India Liquid Fund,1000
-2026-11-15,139534,Mahindra Manulife Liquid Fund,1001.6443
-2026-11-15,139535,Mahindra Manulife Liquid Fund,1313.6763
-2026-11-15,139536,Mahindra Manulife Liquid Fund,1003.5118
-2026-11-15,139537,Mahindra Manulife Liquid Fund,1848.1922
-2026-11-15,139538,Mahindra Manulife Liquid Fund,1870.8081
-2026-11-15,139541,Mahindra Manulife Liquid Fund,1009.9227
+2026-11-15,139534,Mahindra Manulife Liquid Fund - Regular Plan - Daily IDCW,1001.6443
+2026-11-15,139535,Mahindra Manulife Liquid Fund - Direct Plan - Daily IDCW,1313.6763
+2026-11-15,139536,Mahindra Manulife Liquid Fund - Direct Plan - Weekly IDCW,1003.5118
+2026-11-15,139537,Mahindra Manulife Liquid Fund - Regular Plan - Growth,1848.1922
+2026-11-15,139538,Mahindra Manulife Liquid Fund - Direct Plan -Growth,1870.8081
+2026-11-15,139541,Mahindra Manulife Liquid Fund - Regular Plan - Weekly IDCW,1009.9227
 2026-11-15,139582,BANDHAN LIQUID Fund,1.8462
 2026-11-15,139583,BANDHAN LIQUID Fund,1.0000
 2026-11-15,139584,BANDHAN LIQUID Fund,1.8462
@@ -407,12 +407,12 @@ date,scheme_code,scheme_name,nav
 2026-11-15,147162,ITI Liquid Fund,1483.8961
 2026-11-15,147163,ITI Liquid Fund,1005.1287
 2026-11-15,147164,ITI Liquid Fund,1002.0254
-2026-11-15,147193,Baroda BNP Paribas Overnight Fund,1454.1336
-2026-11-15,147194,Baroda BNP Paribas Overnight Fund,1000.0018
-2026-11-15,147195,Baroda BNP Paribas Overnight Fund,1000.7146
-2026-11-15,147196,Baroda BNP Paribas Overnight Fund,1461.2855
-2026-11-15,147197,Baroda BNP Paribas Overnight Fund,1000.0028
-2026-11-15,147198,Baroda BNP Paribas Overnight Fund,1001.1952
+2026-11-15,147193,Baroda BNP Paribas Overnight Fund - Regular Plan - Growth,1454.1336
+2026-11-15,147194,Baroda BNP Paribas Overnight Fund - Regular Plan - Daily IDCW,1000.0018
+2026-11-15,147195,Baroda BNP Paribas Overnight Fund - Direct Plan - Weekly IDCW,1000.7146
+2026-11-15,147196,Baroda BNP Paribas Overnight Fund - Direct Plan - Growth,1461.2855
+2026-11-15,147197,Baroda BNP Paribas Overnight Fund - Direct Plan - Daily IDCW,1000.0028
+2026-11-15,147198,Baroda BNP Paribas Overnight Fund - Regular Plan - Weekly IDCW,1001.1952
 2026-11-15,147211,Franklin India Overnight Fund,1000.0026
 2026-11-15,147212,Franklin India Overnight Fund,1000.0007
 2026-11-15,147213,Franklin India Overnight Fund,1446.1043
@@ -463,10 +463,10 @@ date,scheme_code,scheme_name,nav
 2026-11-15,147556,Edelweiss Overnight Fund,1362.0706
 2026-11-15,147557,Edelweiss Overnight Fund,1000.2602
 2026-11-15,147558,Edelweiss Overnight Fund,1379.3579
-2026-11-15,147563,Mahindra Manulife Overnight Fund,1443.1474
-2026-11-15,147564,Mahindra Manulife Overnight Fund,1439.5931
-2026-11-15,147565,Mahindra Manulife Overnight Fund,1428.9962
-2026-11-15,147566,Mahindra Manulife Overnight Fund,1267.3686
+2026-11-15,147563,Mahindra Manulife Overnight Fund - Direct Plan - Daily IDCW,1443.1474
+2026-11-15,147564,Mahindra Manulife Overnight Fund - Direct Plan -Growth,1439.5931
+2026-11-15,147565,Mahindra Manulife Overnight Fund - Regular Plan - Growth,1428.9962
+2026-11-15,147566,Mahindra Manulife Overnight Fund - Regular Plan - Daily IDCW,1267.3686
 2026-11-15,147569,Edelweiss Overnight Fund,1433.1777
 2026-11-15,147570,Edelweiss Overnight Fund,1438.9074
 2026-11-15,147600,PGIM India Overnight Fund,1426.5583
@@ -545,8 +545,8 @@ date,scheme_code,scheme_name,nav
 2026-11-15,149452,Union Overnight Fund,1318.8467
 2026-11-15,149453,Union Overnight Fund,1000.0000
 2026-11-15,149454,Union Overnight Fund,1318.8424
-2026-11-15,149470,Mahindra Manulife Overnight Fund,1320.0549
-2026-11-15,149471,Mahindra Manulife Overnight Fund,1000.0000
+2026-11-15,149470,Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW upto 3 years,1320.0549
+2026-11-15,149471,Mahindra Manulife Overnight Fund - Unclaimed Redemption/IDCW beyond 3 years,1000.0000
 2026-11-15,149476,Edelweiss Overnight Fund,1000
 2026-11-15,149477,Edelweiss Overnight Fund,1316.5217
 2026-11-15,149478,Edelweiss Overnight Fund,1316.52
@@ -563,12 +563,12 @@ date,scheme_code,scheme_name,nav
 2026-11-15,149827,JM Overnight Fund,1073.9936
 2026-11-15,149828,JM Overnight Fund,1414.0689
 2026-11-15,149829,JM Overnight Fund,1408.4545
-2026-11-15,149988,Baroda BNP Paribas Overnight Fund,1000.0000
-2026-11-15,149989,Baroda BNP Paribas Overnight Fund,1311.0744
-2026-11-15,149990,Baroda BNP Paribas Overnight Fund,1000.0000
-2026-11-15,149991,Baroda BNP Paribas Overnight Fund,1311.1050
-2026-11-15,150368,NJ Overnight Fund,1281.6177
-2026-11-15,150369,NJ Overnight Fund,1287.1167
+2026-11-15,149988,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed IDCW - Greater than 3 years,1000.0000
+2026-11-15,149989,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Up to 3 years,1311.0744
+2026-11-15,149990,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed Redemption - Greater than 3 years,1000.0000
+2026-11-15,149991,Baroda BNP Paribas Overnight Fund - Plan C - Unclaimed IDCW - Up to 3 years,1311.1050
+2026-11-15,150368,NJ Overnight Fund - Regular Plan - Growth Option,1281.6177
+2026-11-15,150369,NJ Overnight Fund - Direct Plan - Growth Option,1287.1167
 2026-11-15,150499,HSBC Overnight Fund,1291.8235
 2026-11-15,150500,HSBC Overnight Fund,1000
 2026-11-15,150501,HSBC Overnight Fund,1000
@@ -606,11 +606,11 @@ date,scheme_code,scheme_name,nav
 2026-11-15,151928,LIC MF Liquid Fund,1242.7799
 2026-11-15,151930,LIC MF Liquid Fund,1264.6264
 2026-11-15,151932,LIC MF Liquid Fund,1130.0366
-2026-11-15,152116,NJ Overnight Fund,1118.0461
-2026-11-15,152151,Helios Overnight Fund,1000.0000
-2026-11-15,152152,Helios Overnight Fund,1192.1823
-2026-11-15,152153,Helios Overnight Fund,1190.3814
-2026-11-15,152154,Helios Overnight Fund,1000.0000
+2026-11-15,152116,NJ Overnight Fund - Unclaimed Redemption Plan - Upto 3 Years,1118.0461
+2026-11-15,152151,Helios Overnight Fund - Direct Plan - Daily IDCW Option,1000.0000
+2026-11-15,152152,Helios Overnight Fund - Direct Plan - Growth Option,1192.1823
+2026-11-15,152153,Helios Overnight Fund - Regular Plan - Growth Option,1190.3814
+2026-11-15,152154,Helios Overnight Fund - Regular Plan - Daily IDCW Option,1000.0000
 2026-11-15,152168,SBI NIFTY 1D Rate Liquid ETF - IDCW,1000.0000
 2026-11-15,152298,Quantum Liquid Fund,11.9789
 2026-11-15,152299,Quantum Liquid Fund,10.0000
@@ -683,10 +683,10 @@ date,scheme_code,scheme_name,nav
 2026-11-15,154398,Shriram Overnight Fund,1000.0114
 2026-11-15,154399,Shriram Overnight Fund,1280.0827
 2026-11-15,154402,Shriram Overnight Fund,1004.7062
-2026-11-15,154413,Choice Overnight Fund,101.9323
-2026-11-15,154414,Choice Overnight Fund,100.1000
-2026-11-15,154415,Choice Overnight Fund,101.8922
-2026-11-15,154416,Choice Overnight Fund,100.1000
+2026-11-15,154413,Choice Overnight Fund - Growth Option - Direct Plan,101.9323
+2026-11-15,154414,Choice Overnight Fund - Daily IDCW Option - Regular Plan,100.1000
+2026-11-15,154415,Choice Overnight Fund - Growth Option - Regular Plan,101.8922
+2026-11-15,154416,Choice Overnight Fund - Daily IDCW Option - Direct Plan,100.1000
 2026-11-15,154466,UTI Nifty 1D Rate Liquid ETF - Growth,1016.7605
 2026-11-15,154521,Abakkus Liquid Fund,101.9533
 2026-11-15,154581,ASK Liquid Fund,1013.1754
@@ -698,14 +698,14 @@ date,scheme_code,scheme_name,nav
 2026-11-15,154592,ASK Liquid Fund,1004.1872
 2026-11-15,154605,Kotak Liquid Fund,1011.7739
 2026-11-15,154606,Kotak Liquid Fund,1016.4783
-2026-11-15,154624,Choice Overnight Fund,101.3869
+2026-11-15,154624,Choice Overnight Fund -Direct -Unclaimed Less than 3 years Redemption Plan,101.3869
 2026-11-15,154640,JioBlackRock Overnight Fund,1011.9135
 2026-11-15,154645,JioBlackRock Liquid Fund,1014.5637
-2026-11-15,154705,Monarch Overnight Fund,1002.9682
-2026-11-15,154706,Monarch Overnight Fund,1009.8327
-2026-11-15,154711,Monarch Overnight Fund,1009.7218
-2026-11-15,154736,LAKSHYA OVERNIGHT FUND,1008.2906
-2026-11-15,154737,LAKSHYA OVERNIGHT FUND,1008.1179
+2026-11-15,154705,Monarch Overnight Fund - Direct Plan - Monthly  IDCW,1002.9682
+2026-11-15,154706,Monarch Overnight Fund- Direct Plan- Growth,1009.8327
+2026-11-15,154711,Monarch Overnight Fund- Regular Plan Growth,1009.7218
+2026-11-15,154736,LAKSHYA OVERNIGHT FUND-Direct,1008.2906
+2026-11-15,154737,LAKSHYA OVERNIGHT FUND-Regular,1008.1179
 2026-11-15,154780,Carnelian Liquid Fund,1004.8231
 2026-11-15,154781,Carnelian Liquid Fund,1000
 2026-11-15,154782,Carnelian Liquid Fund,1004.8767

@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-15",
+  "as_of": "2026-11-16",
   "files": [
     {
       "date_max": "2026-11-15",
@@ -9,8 +9,8 @@
       "issues": {},
       "path": "data/latest.csv",
       "rows": 37752,
-      "sha256": "fce9b2012e440c1ddabdd13b5c722d37268aea0cff5527f2ff552f2170fc01d8",
-      "size_bytes": 3278825,
+      "sha256": "b2f0de13eff13c63e3357a341ade6ee35c90a7041a08ab411564a3aaf77ee4d7",
+      "size_bytes": 3280281,
       "unique_scheme_codes": 37752,
       "valid_rows": 37752,
       "warnings": {}
@@ -105471,14 +105471,14 @@
       "issues": {},
       "path": "data/Year/2026/11/15.csv",
       "rows": 712,
-      "sha256": "59e6a97b11b1eef4373db89ab0935203391dc2c2a9081ff9c2902b0143f935bc",
-      "size_bytes": 36500,
+      "sha256": "24e17ccae3b110de11a9e1899921676be02f9eae470a26876e373fe71b75e932",
+      "size_bytes": 37956,
       "unique_scheme_codes": 712,
       "valid_rows": 712,
       "warnings": {}
     }
   ],
-  "generated_at": "2026-11-14T20:08:41+00:00",
+  "generated_at": "2026-11-15T20:36:54+00:00",
   "issues": {},
   "status": "passed",
   "summary": {
