@@ -1,7 +1,7 @@
 # Dataset Validation Report
 
-- Generated at: `2026-11-21T21:08:03+00:00`
-- Validation date: `2026-11-22`
+- Generated at: `2026-11-22T21:17:21+00:00`
+- Validation date: `2026-11-23`
 - Status: `passed`
 
 ## Summary
@@ -9,10 +9,10 @@
 | Metric | Value |
 | --- | --- |
 | Files | 7541 |
-| Total rows | 37400418 |
-| Valid rows | 37400418 |
+| Total rows | 37426480 |
+| Valid rows | 37426480 |
 | Invalid rows | 0 |
-| Historical rows | 37362640 |
+| Historical rows | 37388702 |
 | Latest rows | 37778 |
 | Unique scheme codes | 37778 |
 | Date range | 2006-04-01 to 2026-11-22 |
@@ -21,7 +21,7 @@
 
 | File | Rows | Invalid | Unique schemes | Date range | SHA-256 |
 | --- | ---: | ---: | ---: | --- | --- |
-| data/latest.csv | 37778 | 0 | 37778 | 2006-04-03 to 2026-11-22 | `67c98dee0631143b1bcdece23fccfdf7fe882bf4ad04938dee8d69e42a01b8df` |
+| data/latest.csv | 37778 | 0 | 37778 | 2006-04-03 to 2026-11-22 | `b9a6d22aa523ab2caf2f5ee1cfbaedb181202e74f378429c5c238b3ebae360a4` |
 | data/Year/2006/04/01.csv | 82 | 0 | 82 | 2006-04-01 to 2006-04-01 | `b62ef71842f9cc29358819c6d45f5dddfc66640b1740ccc13ef6709643ca54d9` |
 | data/Year/2006/04/02.csv | 386 | 0 | 386 | 2006-04-02 to 2006-04-02 | `6534c09a9932610a0565c78756c5baf4671ae8e6af5952152fc0874a36d4b5bb` |
 | data/Year/2006/04/03.csv | 1738 | 0 | 1738 | 2006-04-03 to 2006-04-03 | `29f05f2152ab58a27d17eb8880685f6ecb4f63efb7cd236bf478b639664bc5b8` |
@@ -7550,18 +7550,18 @@
 | data/Year/2026/11/08.csv | 734 | 0 | 734 | 2026-11-08 to 2026-11-08 | `cc5d7b49714792b6ceb79965f1a28175e365b2c40138dd662d2526d84d81c3de` |
 | data/Year/2026/11/09.csv | 8679 | 0 | 8679 | 2026-11-09 to 2026-11-09 | `e98201a531bd11d54f3ac2d2e450dded8c2a57534898a51142c665241fb3c251` |
 | data/Year/2026/11/10.csv | 712 | 0 | 712 | 2026-11-10 to 2026-11-10 | `b1bb10b8ab9d213ddf6cb56a211dae940872f7acfc9f5ce28543ab466c73c5b3` |
-| data/Year/2026/11/11.csv | 1 | 0 | 1 | 2026-11-11 to 2026-11-11 | `e1752e3fbcb6fd94e3d6b9e6daa051af03692b41dc3ab41822adcac6d5ff977e` |
+| data/Year/2026/11/11.csv | 8657 | 0 | 8657 | 2026-11-11 to 2026-11-11 | `c66ded8c8fcbdc7a95d97e3488ec38e88255d871fdc9b5baaf892e83672b4092` |
 | data/Year/2026/11/12.csv | 8716 | 0 | 8716 | 2026-11-12 to 2026-11-12 | `29608347ca884f59e21fbbf37a00a41ae23e84df0fbc6fb144a6cf30646febb0` |
-| data/Year/2026/11/13.csv | 2 | 0 | 2 | 2026-11-13 to 2026-11-13 | `618360daddd0bb208388c51bb71571fbd87b027ba46c8fc57c6c03528a69d091` |
+| data/Year/2026/11/13.csv | 8716 | 0 | 8716 | 2026-11-13 to 2026-11-13 | `bc9ba11ac16a717640b980aa8e211fbbe162ff8e0d377611487d2fd8f6fcd9e8` |
 | data/Year/2026/11/14.csv | 616 | 0 | 616 | 2026-11-14 to 2026-11-14 | `2c1d60a44172802b4cd05ae96b91653091f9bf2e550bd95a723f724e8f3d3fa8` |
 | data/Year/2026/11/15.csv | 712 | 0 | 712 | 2026-11-15 to 2026-11-15 | `723089f4e0d01e41a7f966096b447596af1efd935fbf968d4a34154825c2a553` |
 | data/Year/2026/11/16.csv | 8720 | 0 | 8720 | 2026-11-16 to 2026-11-16 | `06a14fcf5e15a208e104da5769140fbeab94bb3a76a97ce9746228d7558ce76a` |
 | data/Year/2026/11/17.csv | 8724 | 0 | 8724 | 2026-11-17 to 2026-11-17 | `3c2aacbe3136a5981e92c225aad26558a8af340caf5e7d23545a75142399904c` |
 | data/Year/2026/11/18.csv | 8733 | 0 | 8733 | 2026-11-18 to 2026-11-18 | `44ec389b8fd4a8002bd30e3cd1d0900ee8abd2871d2bf857f4f7c67a73c1a730` |
-| data/Year/2026/11/19.csv | 42 | 0 | 42 | 2026-11-19 to 2026-11-19 | `8f267c8e450f9a0775cbacd966a1ab8e5dc91b566776296b6f9889741a9d6a64` |
+| data/Year/2026/11/19.csv | 8734 | 0 | 8734 | 2026-11-19 to 2026-11-19 | `68cd5ac014526d8911c138710832d891270d72c14df0ad42b2a4a22496ac483b` |
 | data/Year/2026/11/20.csv | 8694 | 0 | 8694 | 2026-11-20 to 2026-11-20 | `3e20855e68351818c626343ddbe806aabd65412b08d0604c175e1a6297fd9ce3` |
 | data/Year/2026/11/21.csv | 606 | 0 | 606 | 2026-11-21 to 2026-11-21 | `92ed454a37033f1e00d66f1c7b01f583ed9ad00d1bcb68dfc0f9c3d8fcaebad1` |
-| data/Year/2026/11/22.csv | 712 | 0 | 712 | 2026-11-22 to 2026-11-22 | `353943e07a4eb3be4ef8c03a66ceedcad1634e57b2c01e4d7d5f5a62d7cc9760` |
+| data/Year/2026/11/22.csv | 712 | 0 | 712 | 2026-11-22 to 2026-11-22 | `d34e861a6666f5958af56ee0ed803b5a963f713e347da1de3b57e7415adfb13b` |
 
 ## Issues
 
