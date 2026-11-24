@@ -718,6 +718,8 @@ date,scheme_code,scheme_name,nav
 2026-11-20,106260,NIPPON INDIA GROWTH MID CAP FUND - INSTITUTIONAL Plan - IDCW Option,1366.7283
 2026-11-20,106316,Invesco India Balanced Advantage Fund - Regular Plan - IDCW (Payout / Reinvestment),17.73
 2026-11-20,106317,Invesco India Balanced Advantage Fund - Regular Plan - Growth,55.42
+2026-11-20,106369,Sundaram Global Brand Theme-Equity Active FOF - Regular IDCW,29.4733
+2026-11-20,106370,Sundaram Global Brand Theme-Equity Active FOF - Regular Growth,39.2178
 2026-11-20,106383,UTI Short Term Fund - Discontinued Regular Option - Dividend Sub Option,25.2106
 2026-11-20,106384,UTI Short Term Fund - Discontinued Regular Option -Growth Sub Option,47.6887
 2026-11-20,106425,UTI India Consumer Fund - Regular Plan - Growth Option,59.6689
@@ -1824,6 +1826,8 @@ date,scheme_code,scheme_name,nav
 2026-11-20,119596,Sundaram Financial Services Opportunities Fund Direct Plan - Income Distribution cum Capital Withdrawal (IDCW),35.8158
 2026-11-20,119597,Sundaram Financial Services Opportunities Fund Direct Plan - Growth,131.3381
 2026-11-20,119598,SBI Large Cap FUND-DIRECT PLAN -GROWTH,109.6693
+2026-11-20,119601,Sundaram Global Brand Theme-Equity Active FOF - Direct IDCW,33.9268
+2026-11-20,119602,Sundaram Global Brand Theme-Equity Active FOF - Direct Growth,43.4835
 2026-11-20,119604,SBI Aggresive Hybrid Fund - Direct Plan - Income Distribution cum Capital Withdrawal Option (IDCW),106.7002
 2026-11-20,119605,Aditya Birla Sun Life Gilt Fund - Growth - Direct Plan,88.7090
 2026-11-20,119606,Aditya Birla Sun Life Gilt Fund -DIRECT - Quarterly IDCW,11.4783
@@ -2707,6 +2711,14 @@ date,scheme_code,scheme_name,nav
 2026-11-20,131896,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Regular Plan - Growth Option,40.1247
 2026-11-20,131897,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- DIRECT - IDCW,26.6620
 2026-11-20,131898,Aditya Birla Sun Life Income Plus Arbitrage Active FOF- Direct Plan - Growth Option,42.5799
+2026-11-20,132003,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-REGULAR - RETAIL - IDCW,38.1986
+2026-11-20,132005,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund- Retail Plan - Regular Plan - Growth Option,38.1749
+2026-11-20,132009,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund - Retail Plan - Direct Plan - Growth Option,40.9290
+2026-11-20,132010,Aditya Birla Sun Life Global Excellence Equity Fund Of Fund-DIRECT - RETAIL - IDCW,40.9499
+2026-11-20,132138,Aditya Birla SUn Life Global Emerging Opportunities Fund - Regular Plan - Growth Option,26.0829
+2026-11-20,132139,Aditya Birla Sun Life Global Emerging Opportunities Fund - Regular - IDCW,26.0872
+2026-11-20,132140,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct plan - Growth Option,27.5024
+2026-11-20,132141,Aditya Birla Sun Life Global Emerging Opportunities Fund - Direct - IDCW,24.3244
 2026-11-20,132174,Aditya Birla Sun Life Aggressive Hybrid Omni FOF- Regular Plan - Growth Option,44.8142
 2026-11-20,132175,Aditya Birla Sun Life Aggressive Hybrid Omni FOF-  Regular -  IDCW,40.1952
 2026-11-20,132178,Aditya Birla Sun Life Conservative Hybrid Active FOF- Regular Plan - Growth Option,35.9004
@@ -4211,6 +4223,10 @@ date,scheme_code,scheme_name,nav
 2026-11-20,147716,ITI Overnight Fund - Regular Plan - Fortnightly IDCW Option,1002.3596
 2026-11-20,147717,ITI Overnight Fund - Direct Plan - Monthly IDCW Option,1004.6310
 2026-11-20,147718,ITI Overnight Fund - Regular Plan - Monthly IDCW Option,1004.5767
+2026-11-20,147724,Kotak Pioneer Fund- Regular Plan- Growth Option,35.074
+2026-11-20,147725,Kotak Pioneer Fund-Direct Plan-Reinvestment of Income Distribution cum capital withdrawal option,39.086
+2026-11-20,147727,Kotak Pioneer Fund- Direct Plan- Growth Option,39.091
+2026-11-20,147728,Kotak Pioneer Fund- Regular Plan- Reinvestment of Income Distribution cum capital withdrawal option,35.09
 2026-11-20,147729,Mahindra Manulife Ultra Short Term Fund - Regular Plan - Daily IDCW,1118.0641
 2026-11-20,147730,Mahindra Manulife Ultra Short Term Fund - Regular Plan - Weekly IDCW,1000.9196
 2026-11-20,147731,Mahindra Manulife Ultra Short Term Fund - Direct Plan -Growth,1538.8172
@@ -4475,6 +4491,10 @@ date,scheme_code,scheme_name,nav
 2026-11-20,148591,Union Aggressive Hybrid Fund - Regular Plan - Growth Option,19.32
 2026-11-20,148592,Union Aggressive Hybrid Fund - Direct Plan - Growth Option,20.67
 2026-11-20,148593,Union Aggressive Hybrid Fund - Direct Plan - IDCW Option,18.67
+2026-11-20,148594,DSP Value Fund - Regular Plan - Growth,24.6800
+2026-11-20,148595,DSP Value Fund - Direct Plan - Growth,25.8530
+2026-11-20,148596,DSP Value Fund - Direct Plan - IDCW,19.5820
+2026-11-20,148597,DSP Value Fund - Regular Plan - IDCW,17.2500
 2026-11-20,148598,ICICI Prudential Quant Fund Growth,23.58
 2026-11-20,148599,ICICI Prudential Quant Fund IDCW,15.09
 2026-11-20,148600,ICICI Prudential Quant Fund Direct Plan Growth,24.53
@@ -4546,6 +4566,10 @@ date,scheme_code,scheme_name,nav
 2026-11-20,148696,SBI Retirement Benefit Fund - Conservative Plan - Regular Plan - Growth,14.8566
 2026-11-20,148697,SBI Retirement Benefit Fund - Conservative Hybrid Plan - Regular Plan - Income Distribution cum Capital Withdrawal Option (IDCW),16.2529
 2026-11-20,148698,SBI Retirement Benefit Fund - Aggressive Plan - Regular Plan - Growth,21.3253
+2026-11-20,148699,Axis Greater China Equity Fund of Fund - Direct Plan - Growth Option,9.79
+2026-11-20,148700,Axis Greater China Equity Fund of Fund - Direct Plan - IDCW,9.79
+2026-11-20,148701,Axis Greater China Equity Fund of Fund - Regular Plan - Growth Option,9.20
+2026-11-20,148702,Axis Greater China Equity Fund of Fund - Regular Plan - IDCW,9.19
 2026-11-20,148703,UTI Nifty 200 Momentum 30 Index Fund - Direct Plan - Growth Option,20.855
 2026-11-20,148704,UTI Nifty 200 Momentum 30 Index Fund - Regular Plan - Growth Option,20.2824
 2026-11-20,148705,BANDHAN FLOATING INTEREST RATES FUND  - REGULAR PLAN GROWTH,13.9188
@@ -4756,6 +4780,10 @@ date,scheme_code,scheme_name,nav
 2026-11-20,149053,Axis Floater Fund - Regular Plan - Monthly IDCW,1017.9752
 2026-11-20,149054,Axis Floater Fund - Regular Plan - Daily IDCW,1011.8566
 2026-11-20,149055,Axis Floater Fund - Direct Plan - Annual IDCW,1403.4784
+2026-11-20,149056,Kotak Global Innovation Overseas Equity Active FOF - Regular Plan-Growth,11.9301
+2026-11-20,149058,Kotak Global Innovation Overseas Equity Active FOF - Regular Plan -IDCW Option,11.9304
+2026-11-20,149059,Kotak Global Innovation Overseas Equity Active FOF- Direct Plan -Growth,12.6985
+2026-11-20,149060,Kotak Global Innovation Overseas Equity Active FOF- Direct Plan - IDCW Option,12.6965
 2026-11-20,149066,Tata Business Cycle Fund-Direct Plan-IDCW Payout,20.3358
 2026-11-20,149067,Tata Business Cycle Fund-Direct Plan-IDCW Reinvestment,20.3358
 2026-11-20,149068,Tata Business Cycle Fund-Regular Plan-Growth,18.7331
@@ -4823,6 +4851,8 @@ date,scheme_code,scheme_name,nav
 2026-11-20,149169,Mirae Asset S&P 500 Top 50 ETF,57.3864
 2026-11-20,149170,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Direct Plan - Growth,32.681
 2026-11-20,149171,Mirae Asset S&P 500 Top 50 ETF Fund of Fund - Regular Plan - Growth,32.003
+2026-11-20,149180,HDFC Developed World Overseas Equity Passive FOF - Direct Plan - Growth Option,19.684
+2026-11-20,149181,HDFC Developed World Overseas Equity Passive FOF - Growth Option,19.226
 2026-11-20,149182,Kotak Multi Cap Fund-Regular Plan-Growth,20.799
 2026-11-20,149183,Kotak Multi Cap Fund- Regular Plan -IDCW Option,19.115
 2026-11-20,149185,Kotak Multi Cap Fund-Direct Plan-Growth,22.344
@@ -5114,6 +5144,10 @@ date,scheme_code,scheme_name,nav
 2026-11-20,149803,UTI BSE Sensex Index Fund - Direct Plan - Growth Option,15.189
 2026-11-20,149804,Navi Nifty Bank Index Fund- Direct Plan- Growth,17.0605
 2026-11-20,149805,Navi Nifty Bank Index Fund- Regular Plan- Growth,16.4612
+2026-11-20,149814,DSP Global Innovation Overseas Equity Omni FoF - Regular - IDCW,18.3469
+2026-11-20,149815,DSP Global Innovation Overseas Equity Omni FoF - Direct - IDCW,19.1550
+2026-11-20,149816,DSP Global Innovation Overseas Equity Omni FoF - Direct - Growth,19.1550
+2026-11-20,149817,DSP Global Innovation Overseas Equity Omni FoF - Regular - Growth,18.3469
 2026-11-20,149826,JM Overnight Fund - (Direct) - Unclaimed Redemption I.E.F. - Growth Plan,1073.9936
 2026-11-20,149827,JM Overnight Fund - (Direct) - Unclaimed IDCW I.E.F. - Growth Plan,1073.9936
 2026-11-20,149828,JM Overnight Fund - (Direct) - Unclaimed IDCW - Growth Plan,1415.1784
@@ -5301,6 +5335,10 @@ date,scheme_code,scheme_name,nav
 2026-11-20,150267,BARODA BNP PARIBAS India Consumption Fund - Regular Plan - IDCW Option,19.7634
 2026-11-20,150268,BARODA BNP PARIBAS India Consumption Fund - Regular Plan - Growth Option,32.0404
 2026-11-20,150269,BARODA BNP PARIBAS India Consumption Fund - Direct Plan - IDCW Option,23.0222
+2026-11-20,150284,Baroda BNP Paribas Aqua Fund of Fund - Regular Plan Growth,14.7583
+2026-11-20,150285,Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - Growth Option,15.6470
+2026-11-20,150286,Baroda BNP Paribas Aqua Fund of Fund - Regular Plan - IDCW Option,14.7583
+2026-11-20,150287,Baroda BNP Paribas Aqua Fund of Fund - Direct Plan - IDCW Option,15.6470
 2026-11-20,150308,ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Growth,17.67
 2026-11-20,150309,ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - IDCW,14.86
 2026-11-20,150310,ICICI PRUDENTIAL HOUSING OPPORTUNITIES FUND - Direct Plan Growth,18.65
