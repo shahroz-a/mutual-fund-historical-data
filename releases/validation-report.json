@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-24",
+  "as_of": "2026-11-25",
   "files": [
     {
       "date_max": "2026-11-24",
@@ -9,8 +9,8 @@
       "issues": {},
       "path": "data/latest.csv",
       "rows": 37778,
-      "sha256": "8e15e1132855eaa3ebc4db2bf14e93d3e95b8fcc571e8861244d900e9a6c5bbb",
-      "size_bytes": 3300723,
+      "sha256": "2819f7fd082f0b1736b51a0c3837ebb6a82f6edfb7b028833d353fe61b19d956",
+      "size_bytes": 3276225,
       "unique_scheme_codes": 37778,
       "valid_rows": 37778,
       "warnings": {}
@@ -105582,11 +105582,11 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/11/23.csv",
-      "rows": 8235,
-      "sha256": "90fbd9fa03c09c754661894b8014000f4578123fb26bccdb5b58e0ff97122f15",
-      "size_bytes": 710962,
-      "unique_scheme_codes": 8235,
-      "valid_rows": 8235,
+      "rows": 8702,
+      "sha256": "023ea36572e8e5be966bc66730b5112dd449725bea979c7325c4a64858a29344",
+      "size_bytes": 741734,
+      "unique_scheme_codes": 8702,
+      "valid_rows": 8702,
       "warnings": {}
     },
     {
@@ -105596,27 +105596,27 @@
       "invalid_rows": 0,
       "issues": {},
       "path": "data/Year/2026/11/24.csv",
-      "rows": 167,
-      "sha256": "4a0ccf69ddd4f590c5356e68f2488c5e1caf829e1900c9b48c532c5274ec01b4",
-      "size_bytes": 8872,
-      "unique_scheme_codes": 167,
-      "valid_rows": 167,
+      "rows": 714,
+      "sha256": "621aa405bc67a6989ad809c4c1988b30c15f82c5c4f3e0e1f7fc6cc40f45819a",
+      "size_bytes": 41860,
+      "unique_scheme_codes": 714,
+      "valid_rows": 714,
       "warnings": {}
     }
   ],
-  "generated_at": "2026-11-24T02:35:51+00:00",
+  "generated_at": "2026-11-25T00:06:19+00:00",
   "issues": {},
   "status": "passed",
   "summary": {
     "date_max": "2026-11-24",
     "date_min": "2006-04-01",
     "files": 7543,
-    "historical_rows": 37397142,
+    "historical_rows": 37398156,
     "invalid_rows": 0,
     "latest_rows": 37778,
-    "rows": 37434920,
+    "rows": 37435934,
     "unique_scheme_codes": 37778,
-    "valid_rows": 37434920
+    "valid_rows": 37435934
   },
   "warnings": {}
 }
