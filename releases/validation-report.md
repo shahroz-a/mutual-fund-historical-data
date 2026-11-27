@@ -1,27 +1,27 @@
 # Dataset Validation Report
 
-- Generated at: `2026-11-25T23:51:26+00:00`
-- Validation date: `2026-11-26`
+- Generated at: `2026-11-27T00:04:04+00:00`
+- Validation date: `2026-11-27`
 - Status: `passed`
 
 ## Summary
 
 | Metric | Value |
 | --- | --- |
-| Files | 7544 |
-| Total rows | 37444155 |
-| Valid rows | 37444155 |
+| Files | 7545 |
+| Total rows | 37452901 |
+| Valid rows | 37452901 |
 | Invalid rows | 0 |
-| Historical rows | 37406377 |
-| Latest rows | 37778 |
-| Unique scheme codes | 37778 |
-| Date range | 2006-04-01 to 2026-11-25 |
+| Historical rows | 37415118 |
+| Latest rows | 37783 |
+| Unique scheme codes | 37783 |
+| Date range | 2006-04-01 to 2026-11-26 |
 
 ## Files
 
 | File | Rows | Invalid | Unique schemes | Date range | SHA-256 |
 | --- | ---: | ---: | ---: | --- | --- |
-| data/latest.csv | 37778 | 0 | 37778 | 2006-04-03 to 2026-11-25 | `b54ce6f8020273ac897732083a9fb62567e65bf8fcaccf5f092cb827673e8925` |
+| data/latest.csv | 37783 | 0 | 37783 | 2006-04-03 to 2026-11-26 | `c855af4d6b133dfc37d59df622245ef6ca06ab386e2df6ceb356ecdfa2a462a8` |
 | data/Year/2006/04/01.csv | 82 | 0 | 82 | 2006-04-01 to 2006-04-01 | `b62ef71842f9cc29358819c6d45f5dddfc66640b1740ccc13ef6709643ca54d9` |
 | data/Year/2006/04/02.csv | 386 | 0 | 386 | 2006-04-02 to 2006-04-02 | `6534c09a9932610a0565c78756c5baf4671ae8e6af5952152fc0874a36d4b5bb` |
 | data/Year/2006/04/03.csv | 1738 | 0 | 1738 | 2006-04-03 to 2006-04-03 | `29f05f2152ab58a27d17eb8880685f6ecb4f63efb7cd236bf478b639664bc5b8` |
@@ -7564,7 +7564,8 @@
 | data/Year/2026/11/22.csv | 712 | 0 | 712 | 2026-11-22 to 2026-11-22 | `d34e861a6666f5958af56ee0ed803b5a963f713e347da1de3b57e7415adfb13b` |
 | data/Year/2026/11/23.csv | 8726 | 0 | 8726 | 2026-11-23 to 2026-11-23 | `c9c980b51c65e8f1bf3ad643b20a74711bdd1b2aa47e596fd5c42d0185b540df` |
 | data/Year/2026/11/24.csv | 714 | 0 | 714 | 2026-11-24 to 2026-11-24 | `81b7fc09dbecd03f98a0ea96d756bdc99f132c2fefefbcfec5e4b139483f7fc9` |
-| data/Year/2026/11/25.csv | 8197 | 0 | 8197 | 2026-11-25 to 2026-11-25 | `8a1a6caf226c42acf6b1af5301204ffa04bd576b076315270f9f4e2ce68b1ebd` |
+| data/Year/2026/11/25.csv | 8720 | 0 | 8720 | 2026-11-25 to 2026-11-25 | `d8fb32d183dee6f50254d7dea02dde3affdb139b2d62bc7307d6663dc8d2700f` |
+| data/Year/2026/11/26.csv | 8218 | 0 | 8218 | 2026-11-26 to 2026-11-26 | `c22611c595be101a871d0afb718caab4bfdbc21740828da04f13a7e6ba7b8a30` |
 
 ## Issues
 
